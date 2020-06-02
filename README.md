@@ -1,6 +1,7 @@
 # CGS
 
 ## Done
+- Arkham Horror
 
 ## Candidates
 - Exploding Kittens
