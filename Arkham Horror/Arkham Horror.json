@@ -129,23 +129,23 @@
   "deckUrls": [
     {
       "name": "Agnes Baker Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1g24L8mlccYOVrEHQjf396CUKcMifpV9M"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Agnes%20Baker%20Starter.txt"
     },
     {
       "name": "Daisy Walker Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1y36NMpOO9WoAesTI9r3GDa2vA5h29NtR"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Daisy%20Walker%20Starter.txt"
     },
     {
       "name": "Roland Banks Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1Na8tEzSD6dXwT8a7RXdqnDnnz61VPjsD"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Roland%20Banks%20Starter.txt"
     },
     {
       "name": "Skids OToole Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1smmAXuTgzp0YOZdqVEzJlBvkRyKR6QEW"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Skids%20OToole%20Starter.txt"
     },
     {
       "name": "Wendy Adams Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1xeS5BKg6xaJeuJzq9ibFJl0cEAxyagZF"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Wendy%20Adams%20Starter.txt"
     }
   ],
   "enums": [
