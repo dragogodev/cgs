@@ -1,4 +1,4 @@
-// Arkham Horror deck: Skids OToole Starter
+### Arkham Horror Deck: Skids OToole Starter
 1x "Skids" O'Toole
 1x .45 Automatic
 1x Physical Training
