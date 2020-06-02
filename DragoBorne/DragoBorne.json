@@ -1,6 +1,6 @@
 {
-  "allCardsUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1Vm5RcjNvR3Z5bWM",
-  "allSetsUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1QVFVNC1aWHg4Ymc",
+  "allCardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json",
   "bannerImageUrl": "https://i0.wp.com/atgn.com.au/wp-content/uploads/dragoborne_logo_final_2_websize_1494224221.png",
   "cardBackImageFileType": "jpg",
