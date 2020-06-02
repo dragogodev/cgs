@@ -1,0 +1,126 @@
+{
+  "allCardsUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1Vm5RcjNvR3Z5bWM",
+  "allSetsUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1QVFVNC1aWHg4Ymc",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1bTdtQTZzTWZHZ0E",
+  "bannerImageUrl": "https://i0.wp.com/atgn.com.au/wp-content/uploads/dragoborne_logo_final_2_websize_1494224221.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://crystal-cdn1.crystalcommerce.com/photos/6372784/large/Dragoborne-cardback.jpg",
+  "cardImageProperty": "image_url",
+  "cardPrimaryProperty": "ability",
+  "cardProperties": [
+    {
+      "name": "cost",
+      "display": "Cost",
+      "type": "integer"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "trait",
+      "display": "Trait",
+      "type": "string"
+    },
+    {
+      "name": "ability",
+      "display": "Ability",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor",
+      "type": "string"
+    },
+    {
+      "name": "attack",
+      "display": "ATK",
+      "type": "integer"
+    },
+    {
+      "name": "endurance",
+      "display": "EDR",
+      "type": "integer"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "type": "string"
+    }
+  ],
+  "deckFileTxtId": "id",
+  "deckMaxCount": 53,
+  "deckUrls": [
+    {
+      "name": "TD01 - Shadow Legion",
+      "url": "https://drive.google.com/uc?export=download&id=13e2u8mbaX72BfkxfLvJ9q5KUTOoToFx7"
+    },
+    {
+      "name": "TD02 - Mystical Hunters",
+      "url": "https://drive.google.com/uc?export=download&id=1wNbwrZfZX55T_7cAtTVXhbVny7IQS6Xf"
+    },
+    {
+      "name": "TD03 - Alpha Dominance",
+      "url": "https://drive.google.com/uc?export=download&id=190F2D5YnifwC4HcF3wntza946wa-pVKd"
+    },
+    {
+      "name": "TD04 - Reaper's Gift",
+      "url": "https://drive.google.com/uc?export=download&id=1-nnIBbZ8focDSfDnJcCEo2l8r4OvW8of"
+    },
+    {
+      "name": "TD05 - Nature's Wrath",
+      "url": "https://drive.google.com/uc?export=download&id=1u1Y4MuilupIUJzZvi25pgjjbYBc5g4Az"
+    }
+  ],
+  "enums": [
+    {
+      "property": "type",
+      "values": {
+        "Creature": "Creature",
+        "Spell": "Spell",
+        "Banner": "Banner"
+      }
+    },
+    {
+      "property": "color",
+      "values": {
+        "Y": "Yellow (Logres)",
+        "G": "Green (Tir Na Nog)",
+        "U": "Blue (Olous)",
+        "R": "Red (Tauris)",
+        "B": "Black (Niflheim)"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "C": "Common",
+        "U": "Uncommon",
+        "R": "Rare",
+        "RR": "Double Rare",
+        "SR": "Secret Rare"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Banners",
+      "property": "type",
+      "value": "Banner"
+    }
+  ],
+  "gameStartHandCount": 5,
+  "name": "DragoBorne",
+  "rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
+}
