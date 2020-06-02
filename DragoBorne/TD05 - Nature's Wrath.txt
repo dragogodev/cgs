@@ -1,0 +1,19 @@
+### DragoBorne Deck: TD05 - Nature's Wrath
+4 [DB-TD05/001] Emissary of Flourishing
+4 [DB-TD05/002] Escutcheon Angel
+4 [DB-TD05/003] Darkbane Priest
+4 [DB-TD05/004] Sanctuary Squire
+2 [DB-TD05/005] Answered Prayer
+4 [DB-TD05/006] Incapacitate
+1 [DB-TD05/007] Shield of Logres
+2 [DB-TD05/008] Ghis, Unending Fury
+2 [DB-TD05/009] Threa, Blessed by Fairies
+2 [DB-TD05/010] Fearful Sprite
+2 [DB-TD05/011] Favored Scholar 
+2 [DB-TD05/012] Nimble Outrider
+4 [DB-TD05/013] Chromegear Paladin
+4 [DB-TD05/014] Dauntless Lancer
+4 [DB-TD05/015] Untested Scout
+4 [DB-TD05/016] Erudite Archer
+2 [DB-TD05/017] Cleanse
+2 [DB-TD05/018] Runemark of Tir na Nog
