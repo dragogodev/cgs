@@ -1,4 +1,4 @@
-// Arkhan Horror deck: Wendy Adams Starter
+### Arkhan Horror Deck: Wendy Adams Starter
 1x Wendy Adams
 1x Wendy's Amulet
 1x Switchblade
