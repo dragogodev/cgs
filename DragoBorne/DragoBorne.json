@@ -63,23 +63,23 @@
   "deckUrls": [
     {
       "name": "TD01 - Shadow Legion",
-      "url": "https://drive.google.com/uc?export=download&id=13e2u8mbaX72BfkxfLvJ9q5KUTOoToFx7"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD01%20-%20Shadow%20Legion.txt"
     },
     {
       "name": "TD02 - Mystical Hunters",
-      "url": "https://drive.google.com/uc?export=download&id=1wNbwrZfZX55T_7cAtTVXhbVny7IQS6Xf"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD02%20-%20Mystical%20Hunters.txt"
     },
     {
       "name": "TD03 - Alpha Dominance",
-      "url": "https://drive.google.com/uc?export=download&id=190F2D5YnifwC4HcF3wntza946wa-pVKd"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD03%20-%20Alpha%20Dominance.txt"
     },
     {
       "name": "TD04 - Reaper's Gift",
-      "url": "https://drive.google.com/uc?export=download&id=1-nnIBbZ8focDSfDnJcCEo2l8r4OvW8of"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD04%20-%20Reaper's%20Gift.txt"
     },
     {
       "name": "TD05 - Nature's Wrath",
-      "url": "https://drive.google.com/uc?export=download&id=1u1Y4MuilupIUJzZvi25pgjjbYBc5g4Az"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD05%20-%20Nature's%20Wrath.txt"
     }
   ],
   "enums": [
