@@ -1,4 +1,4 @@
-// Arkham Horror deck: Roland Banks Starter
+### Arkham Horror Deck: Roland Banks Starter
 1x Roland Banks
 1x Roland's .38 Special
 1x .45 Automatic
