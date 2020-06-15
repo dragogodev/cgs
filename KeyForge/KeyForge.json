@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://raw.githubusercontent.com/keyforg/keyforge-cards-json/master/cards.json",
   "allSetsUrl": "https://raw.githubusercontent.com/keyforg/keyforge-cards-json/master/expansions.json",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1Ovpjw_BaORL73-qWZ3pOvkD-ddeXz6kl",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json",
   "bannerImageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/91/15912457-5917-474f-8ce3-9dd24e1659e3/kf01_logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--y-SPKE2m--/c_scale,f_auto,fl_progressive,q_80,w_800/zeyno0pj1lhy5tlrf7li.jpg",
