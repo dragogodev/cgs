@@ -72,11 +72,11 @@
   "deckUrls": [
     {
       "name": "Miss Onyx Censorius",
-      "url": "https://drive.google.com/uc?export=download&id=1F1v8CrzanfRD55OgoqcuU02gwwd6Jpbp"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/decks/Miss%20Onyx%20Censorius.txt"
     },
     {
       "name": "Radiant Argus the Supreme",
-      "url": "https://drive.google.com/uc?export=download&id=1dzr_7q0dPZAJgcWMb3rIk3yJg6__rlJO"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/decks/Radiant%20Argus%20the%20Supreme.txt"
     }
   ],
   "enums": [
