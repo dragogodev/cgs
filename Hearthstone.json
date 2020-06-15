@@ -1,0 +1,343 @@
+{
+  "allCardsUrl": "https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1gha1meyY1Q4wcaI1XIRpBsPmfHxXCOdz",
+  "bannerImageUrl": "https://hearthstone.gamepedia.com/media/hearthstone.gamepedia.com/d/d4/Hearthstone_logo.png",
+  "cardBackImageUrl": "https://hearthstone.gamepedia.com/media/hearthstone.gamepedia.com/1/1a/Card_back-Classic.png",
+  "cardImageUrl": "https://art.hearthstonejson.com/v1/render/latest/enUS/256x/{cardId}.{cardImageFileType}",
+  "cardPrimaryProperty": "text",
+  "cardProperties": [
+    {
+      "name": "cardClass",
+      "display": "Class",
+      "type": "stringEnum"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "type": "integer"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "faction",
+      "display": "Faction",
+      "displayEmpty": "Neutral",
+      "type": "stringEnum"
+    },
+    {
+      "name": "race",
+      "display": "Race",
+      "type": "stringEnum"
+    },
+    {
+      "name": "text",
+      "display": "Card Text",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor Text",
+      "type": "string"
+    },
+    {
+      "name": "attack",
+      "display": "Attack",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "health",
+      "display": "Health",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "durability",
+      "display": "Durability",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "armor",
+      "display": "Armor",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "hideStats",
+      "display": "Should Hide Stats?",
+      "type": "boolean"
+    },
+    {
+      "name": "mechanics",
+      "display": "Mechanics",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "entourage",
+      "display": "Entourage",
+      "type": "stringList"
+    },
+    {
+      "name": "howToEarn",
+      "display": "How To Earn",
+      "type": "string"
+    },
+    {
+      "name": "howToEarnGolden",
+      "display": "How To Earn Golden",
+      "type": "string"
+    },
+    {
+      "name": "targetingArrowText",
+      "display": "Targeting Arrow Text",
+      "type": "string"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "type": "string"
+    },
+    {
+      "name": "dbfId",
+      "type": "integer"
+    }
+  ],
+  "cardSize": {
+    "x": 2.55,
+    "y": 3.8
+  },
+  "deckFileAltId": "dbfId",
+  "deckFileType": "hsd",
+  "enums": [
+    {
+      "property": "cardClass",
+      "values": {
+        "DEATHKNIGHT": "Death-Knight",
+        "DRUID": "Druid",
+        "HUNTER": "Hunter",
+        "MAGE": "Mage",
+        "PALADIN": "Paladin",
+        "PRIEST": "Priest",
+        "ROGUE": "Rogue",
+        "SHAMAN": "Shaman",
+        "WARLOCK": "Warlock",
+        "WARRIOR": "Warrior",
+        "DREAM": "Dream",
+        "NEUTRAL": "Neutral"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "COMMON": "Common",
+        "FREE": "Free",
+        "RARE": "Rare",
+        "EPIC": "Epic",
+        "LEGENDARY": "Legendary"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "GAME": "Game",
+        "PLAYER": "Player",
+        "MINION": "Minion",
+        "SPELL": "Spell",
+        "ENCHANTMENT": "Enchantment",
+        "WEAPON": "Weapon",
+        "ITEM": "Item",
+        "TOKEN": "Token",
+        "HERO_POWER": "Hero Power"
+      }
+    },
+    {
+      "property": "faction",
+      "values": {
+        "HORDE": "Horde",
+        "ALLIANCE": "Alliance"
+      }
+    },
+    {
+      "property": "race",
+      "values": {
+        "BLOODELF": "Blood Elf",
+        "DRAENEI": "Draenei",
+        "DWARF": "Dwarf",
+        "GNOME": "Gnome",
+        "GOBLIN": "Goblin",
+        "HUMAN": "Human",
+        "NIGHTELF": "Night Elf",
+        "ORC": "Orc",
+        "TAUREN": "Tauren",
+        "TROLL": "Troll",
+        "UNDEAD": "Undead",
+        "WORGEN": "Worgen",
+        "GOBLIN2": "Goblin2",
+        "MURLOC": "Murloc",
+        "DEMON": "Demon",
+        "SCOURGE": "Scourge",
+        "MECHANICAL": "Mechanical",
+        "ELEMENTAL": "Elemental",
+        "OGRE": "Ogre",
+        "BEAST": "Beast",
+        "TOTEM": "Totem",
+        "NERUBIAN": "Nerubian",
+        "PIRATE": "Pirate",
+        "DRAGON": "Dragon"
+      }
+    },
+    {
+      "property": "mechanics",
+      "values": {
+        "ADJACENT_BUFF": "ADJACENT_BUFF",
+        "AI_MUST_PLAY": "AI_MUST_PLAY",
+        "APPEAR_FUNCTIONALLY_DEAD": "APPEAR_FUNCTIONALLY_DEAD",
+        "ADAPT": "ADAPT",
+        "AURA": "AURA",
+        "BATTLECRY": "BATTLECRY",
+        "CANT_ATTACK": "CANT_ATTACK",
+        "CANT_BE_TARGETED_BY_ABILITIES": "CANT_BE_TARGETED_BY_ABILITIES",
+        "CANT_BE_TARGETED_BY_HERO_POWERS": "CANT_BE_TARGETED_BY_HERO_POWERS",
+        "CHARGE": "CHARGE",
+        "CHOOSE_ONE": "CHOOSE_ONE",
+        "COMBO": "COMBO",
+        "COUNTER": "COUNTER",
+        "DEATHRATTLE": "DEATHRATTLE",
+        "DISCOVER": "DISCOVER",
+        "DIVINE_SHIELD": "DIVINE_SHIELD",
+        "ENRAGED": "ENRAGED",
+        "EVIL_GLOW": "EVIL_GLOW",
+        "FORGETFUL": "FORGETFUL",
+        "FREEZE": "FREEZE",
+        "IMMUNE": "IMMUNE",
+        "INSPIRE": "INSPIRE",
+        "JADE_GOLEM": "JADE_GOLEM",
+        "MORPH": "MORPH",
+        "POISONOUS": "POISONOUS",
+        "QUEST": "QUEST",
+        "RECEIVES_DOUBLE_SPELLDAMAGE_BONUS": "RECEIVES_DOUBLE_SPELLDAMAGE_BONUS",
+        "RITUAL": "RITUAL",
+        "SECRET": "SECRET",
+        "SILENCE": "SILENCE",
+        "STEALTH": "STEALTH",
+        "TAG_ONE_TURN_EFFECT": "TAG_ONE_TURN_EFFECT",
+        "TAUNT": "TAUNT",
+        "TOPDECK": "TOPDECK",
+        "UNTOUCHABLE": "UNTOUCHABLE",
+        "WINDFURY": "WINDFURY",
+        "ImmuneToSpellpower": "ImmuneToSpellpower",
+        "InvisibleDeathrattle": "InvisibleDeathrattle"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "7"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "31"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "274"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "637"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "671"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "813"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "893"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "930"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "1066"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "2826"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "2827"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "2828"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "2829"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "39117"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "40183"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "40195"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "46116"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "47817"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "41887"
+    }
+  ],
+  "gameStartHandCount": 3,
+  "gameStartPointsCount": 30,
+  "name": "Hearthstone",
+  "rulesUrl": "https://playhearthstone.com/en-us/"
+}
