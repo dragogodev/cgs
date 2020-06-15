@@ -132,7 +132,8 @@
         "WARLOCK": "Warlock",
         "WARRIOR": "Warrior",
         "DREAM": "Dream",
-        "NEUTRAL": "Neutral"
+        "NEUTRAL": "Neutral",
+        "DEMONHUNTER": "Demon-Hunter"
       }
     },
     {
@@ -334,6 +335,21 @@
       "group": "Hero",
       "property": "dbfId",
       "value": "41887"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "56550"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "60238"
+    },
+    {
+      "group": "Hero",
+      "property": "dbfId",
+      "value": "62491"
     }
   ],
   "gameStartHandCount": 3,
