@@ -7,6 +7,7 @@
 - Final Fantasy TCG: https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json
 - Hearthstone: https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json
 - KeyForge: https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json
+- Lightseekers: https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json
 
 ## Candidates
 
