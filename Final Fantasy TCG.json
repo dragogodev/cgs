@@ -1,0 +1,140 @@
+{
+  "allCardsUrl": "https://fftcg.square-enix-games.com/na/get-cards",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=13LkaFLeXYFQHz9R0eHxJobpOlxI0SM2u",
+  "bannerImageUrl": "https://fftcg.square-enix-games.com/theme/fftcg/images/large-fftcg-logo.png",
+  "cardBackImageUrl": "https://vignette.wikia.nocookie.net/final-fantasy-card-game/images/1/16/Card_Back_Black.png",
+  "cardDataIdentifier": "cards",
+  "cardIdIdentifier": "Code",
+  "cardIdStop": "/",
+  "cardImageFileType": "jpg",
+  "cardImageUrl": "https://fftcg.cdn.sewest.net/images/cards/full/{cardId}_eg.jpg",
+  "cardNameIdentifier": "Name_EN",
+  "cardNameIsUnique": false,
+  "cardSetIdentifier": "Set",
+  "cardPrimaryProperty": "Text_EN",
+  "cardProperties": [
+    {
+      "name": "Cost",
+      "type": "integer"
+    },
+    {
+      "name": "Type_EN",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "Element",
+      "type": "stringEnum"
+    },
+    {
+      "name": "Category_1",
+      "display": "Category",
+      "type": "stringEnumList",
+      "delimiter": " &middot; "
+    },
+    {
+      "name": "Job_EN",
+      "display": "Job",
+      "type": "string"
+    },
+    {
+      "name": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "Text_EN",
+      "display": "Card Text",
+      "type": "string"
+    },
+    {
+      "name": "Power",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    }
+  ],
+  "deckFileTxtId": "id",
+  "deckUrls": [
+    {
+      "name": "FFVII Starter",
+      "url": "https://drive.google.com/uc?export=download&id=1Y-_ogJrSY3tiIh0ah9G3m7E5TFup7-dM"
+    },
+    {
+      "name": "FFX Starter",
+      "url": "https://drive.google.com/uc?export=download&id=1LEZv5Y2JzbeJVvNgW08XMohocALCbScz"
+    },
+    {
+      "name": "FFXIII Starter",
+      "url": "https://drive.google.com/uc?export=download&id=1J51MO3Y7HIC7CtQrqHwKVb3r8FCNUPG0"
+    }
+  ],
+  "enums": [
+    {
+      "property": "Type_EN",
+      "values": {
+        "Forward": "Forward",
+        "Backup": "Backup",
+        "Monster": "Monster",
+        "Summon": "Summon"
+      }
+    },
+    {
+      "property": "Element",
+      "values": {
+        "火": "Fire",
+        "氷": "Ice",
+        "風": "Wind",
+        "土": "Earth",
+        "雷": "Lightning",
+        "水": "Water",
+        "光": "Light",
+        "闇": "Dark"
+      }
+    },
+    {
+      "property": "Category_1",
+      "values": {
+        "I": "Final Fantasy I",
+        "II": "Final Fantasy II",
+        "III": "Final Fantasy III",
+        "IV": "Final Fantasy IV",
+        "V": "Final Fantasy V",
+        "VI": "Final Fantasy VI",
+        "VII": "Final Fantasy VII",
+        "VIII": "Final Fantasy VIII",
+        "IX": "Final Fantasy IX",
+        "X": "Final Fantasy X",
+        "XI": "Final Fantasy XI",
+        "XII": "Final Fantasy XII",
+        "XIII": "Final Fantasy XIII",
+        "XIV": "Final Fantasy XIV",
+        "XV": "Final Fantasy XV",
+        "TYPE-0": "Final Fantasy Type-0",
+        "FFT": "Final Fantasy Tactics",
+        "FFTA": "Final Fantasy Tactics Advance",
+        "FFTA2": "Final Fantasy Tactics Advance 2",
+        "FFCC": "Final Fantasy Crystal Chronicles",
+        "WOFF": "World of Final Fantasy",
+        "DFF": "Dissidia Final Fantasy",
+        "THEATRHYTHM": "Theatrhythm Final Fantasy",
+        "MOBIUS": "Mobius Final Fantasy",
+        "PICTLOGICA": "Pictlogica Final Fantasy",
+        "LOV": "Lord of Vermillion",
+        "SPECIAL": "Special"
+      }
+    },
+    {
+      "property": "Rarity",
+      "values": {
+        "S": "Starter",
+        "C": "Common",
+        "R": "Rare",
+        "H": "Hero",
+        "L": "Legend",
+        "PR": "Promo"
+      }
+    }
+  ],
+  "gameStartHandCount": 5,
+  "name": "Final Fantasy TCG",
+  "rulesUrl": "https://www.fftradingcardgame.com/na/page/how-to-play"
+}
