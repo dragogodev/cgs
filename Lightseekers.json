@@ -1,0 +1,366 @@
+{
+  "allCardsUrl": "https://carddatabase-es.lightseekers.cards/lightseekers-cards/_search",
+  "allCardsUrlPostBodyContent": "\"size\":1000",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1u-W1rumG2UIbSOrwAQEjObydBZ3fbi0O",
+  "bannerImageUrl": "https://www.lightseekers.cards/wp-content/themes/lightseekers/images/logo.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://deliverycrab.com/wp-content/uploads/2018/06/Classic_LightseekersCardSleeves.jpg",
+  "cardDataIdentifier": "hits.hits",
+  "cardIdIdentifier": "_source.id",
+  "cardImageFileType": "jpg",
+  "cardImageUrl": "https://assets.lightseekers.cards/card-database/cards/{_source.skus[0].id}.{cardImageFileType}",
+  "cardNameIdentifier": "_source.name",
+  "cardPrimaryProperty": "_source.effect",
+  "cardProperties": [
+    {
+      "name": "_source.type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "_source.order",
+      "display": "Order",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "_source.element",
+      "display": "Element",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "_source.family",
+      "display": "Family",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "_source.effect",
+      "display": "Card Effect",
+      "type": "string"
+    },
+    {
+      "name": "_source.keywords",
+      "display": "Keywords",
+      "displayEmpty": "None",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "_source.corners",
+      "display": "Corners",
+      "displayEmpty": "N / A",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "position",
+          "display": "Corner Position",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        },
+        {
+          "name": "smooth",
+          "display": "Corner Is Smooth?",
+          "displayEmpty": "N / A",
+          "type": "boolean"
+        },
+        {
+          "name": "value",
+          "display": "Corner Value",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        }
+      ]
+    },
+    {
+      "name": "_source.cost",
+      "display": "Cost",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "element",
+          "display": "Element Cost",
+          "displayEmpty": "N / A",
+          "type": "stringEnum"
+        },
+        {
+          "name": "order",
+          "display": "Order Cost",
+          "displayEmpty": "N / A",
+          "type": "stringEnum"
+        }
+      ]
+    },
+    {
+      "name": "_source.granted",
+      "display": "Granted",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "element",
+          "display": "Granted Element",
+          "displayEmpty": "N / A",
+          "type": "stringEnum"
+        },
+        {
+          "name": "order",
+          "display": "Granted Order",
+          "displayEmpty": "N / A",
+          "type": "stringEnum"
+        },
+        {
+          "name": "superior",
+          "display": "Superior",
+          "displayEmpty": "N / A",
+          "type": "boolean"
+        }
+      ]
+    },
+    {
+      "name": "_source.weight",
+      "display": "Weight",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "_source.health",
+      "display": "Health",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "_source.rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "_source.errata",
+      "display": "Errata",
+      "displayEmpty": "None",
+      "type": "stringList"
+    },
+    {
+      "name": "_source.clarifications",
+      "display": "Clarification(s)",
+      "displayEmpty": "None",
+      "type": "stringList"
+    },
+    {
+      "name": "_source.playFormat",
+      "display": "Play Format",
+      "type": "stringEnum"
+    },
+    {
+      "name": "_source.skus",
+      "display": "Skus",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "id",
+          "display": "Sku Id",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "cardSetIdentifier": "_source.set",
+  "cardSetIsObject": true,
+  "cardSetsInList": true,
+  "enums": [
+    {
+      "property": "_source.type",
+      "values": {
+        "Hero": "Hero",
+        "Attack": "Attack",
+        "Defend": "Defend",
+        "Buff": "Buff",
+        "Item": "Item",
+        "Combo Attack": "Combo Attack",
+        "Combo Defend": "Combo Defend",
+        "Combo Buff": "Combo Buff"
+      }
+    },
+    {
+      "property": "_source.order",
+      "values": {
+        "Unaligned": "Unaligned",
+        "Astral": "Astral",
+        "Dread": "Dread",
+        "Mountain": "Mountain",
+        "Nature": "Nature",
+        "Storm": "Storm",
+        "Tech": "Tech"
+      }
+    },
+    {
+      "property": "_source.element",
+      "values": {
+        "Unaligned": "Unaligned",
+        "Gravity": "Gravity",
+        "Lunar": "Lunar",
+        "Solar": "Solar",
+        "Death": "Death",
+        "Poison": "Poison",
+        "Shadow": "Shadow",
+        "Crystal": "Crystal",
+        "Earth": "Earth",
+        "Fire": "Fire",
+        "Animal": "Animal",
+        "Forest": "Forest",
+        "Soul": "Soul",
+        "Air": "Air",
+        "Lightning": "Lightning",
+        "Water": "Water",
+        "Explosives": "Explosives",
+        "Mechanical": "Mechanical",
+        "Time": "Time"
+      }
+    },
+    {
+      "property": "_source.family",
+      "values": {
+        "None": "None",
+        "Beast": "Beast",
+        "Chimchu": "Chimchu",
+        "Elemental": "Elemental",
+        "Insectoid": "Insectoid",
+        "Kreebal": "Kreebal",
+        "Location": "Location",
+        "Machine": "Machine",
+        "Robot": "Robot",
+        "Umbron": "Umbron",
+        "Undead": "Undead"
+      }
+    },
+    {
+      "property": "_source.cost.element",
+      "values": {
+        "Unaligned": "Unaligned",
+        "Gravity": "Gravity",
+        "Lunar": "Lunar",
+        "Solar": "Solar",
+        "Death": "Death",
+        "Poison": "Poison",
+        "Shadow": "Shadow",
+        "Crystal": "Crystal",
+        "Earth": "Earth",
+        "Fire": "Fire",
+        "Animal": "Animal",
+        "Forest": "Forest",
+        "Soul": "Soul",
+        "Air": "Air",
+        "Lightning": "Lightning",
+        "Water": "Water",
+        "Explosives": "Explosives",
+        "Mechanical": "Mechanical",
+        "Time": "Time"
+      }
+    },
+    {
+      "property": "_source.cost.order",
+      "values": {
+        "Unaligned": "Unaligned",
+        "Astral": "Astral",
+        "Dread": "Dread",
+        "Mountain": "Mountain",
+        "Nature": "Nature",
+        "Storm": "Storm",
+        "Tech": "Tech"
+      }
+    },
+    {
+      "property": "_source.granted.element",
+      "values": {
+        "Unaligned": "Unaligned",
+        "Gravity": "Gravity",
+        "Lunar": "Lunar",
+        "Solar": "Solar",
+        "Death": "Death",
+        "Poison": "Poison",
+        "Shadow": "Shadow",
+        "Crystal": "Crystal",
+        "Earth": "Earth",
+        "Fire": "Fire",
+        "Animal": "Animal",
+        "Forest": "Forest",
+        "Soul": "Soul",
+        "Air": "Air",
+        "Lightning": "Lightning",
+        "Water": "Water",
+        "Explosives": "Explosives",
+        "Mechanical": "Mechanical",
+        "Time": "Time"
+      }
+    },
+    {
+      "property": "_source.granted.order",
+      "values": {
+        "Unaligned": "Unaligned",
+        "Astral": "Astral",
+        "Dread": "Dread",
+        "Mountain": "Mountain",
+        "Nature": "Nature",
+        "Storm": "Storm",
+        "Tech": "Tech"
+      }
+    },
+    {
+      "property": "_source.keywords",
+      "values": {
+        "Ability": "Ability",
+        "Action Card": "Action Card",
+        "Attack": "Attack",
+        "Attack Ability": "Attack Ability",
+        "Buff": "Buff",
+        "Burn": "Burn",
+        "Cancel": "Cancel",
+        "Defend": "Defend",
+        "Defend Ability": "Defend Ability",
+        "Discard": "Discard",
+        "Dormant": "Dormant",
+        "Draw": "Draw",
+        "Equip": "Equip",
+        "Expire": "Expire",
+        "Immune": "Immune",
+        "Move": "Move",
+        "Multiplayer": "Multiplayer",
+        "Next": "Next",
+        "Play": "Play",
+        "Remove": "Remove",
+        "Restart": "Restart",
+        "Return": "Return",
+        "Rotate": "Rotate",
+        "Swap": "Swap",
+        "Unique": "Unique"
+      }
+    },
+    {
+      "property": "_source.rarity",
+      "values": {
+        "Common": "Common",
+        "Uncommon": "Uncommon",
+        "Rare": "Rare",
+        "Mythic": "Mythic"
+      }
+    },
+    {
+      "property": "_source.playFormat",
+      "values": {
+        "Standard": "Standard",
+        "Classic": "Classic",
+        "Retired": "Retired"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Hero",
+      "property": "_source.type",
+      "value": "Hero"
+    }
+  ],
+  "gameStartHandCount": 4,
+  "gameStartPointsCount": 30,
+  "name": "Lightseekers",
+  "rulesUrl": "https://www.lightseekers.cards/game-play/rules.html",
+  "setCodeIdentifier": "number"
+}
