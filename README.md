@@ -2,6 +2,7 @@
 
 ## Done
 - Arkham Horror
+- Dragoborne
 
 ## Candidates
 - Exploding Kittens
