@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://carddatabase-es.lightseekers.cards/lightseekers-cards/_search",
   "allCardsUrlPostBodyContent": "\"size\":1000",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1u-W1rumG2UIbSOrwAQEjObydBZ3fbi0O",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json",
   "bannerImageUrl": "https://www.lightseekers.cards/wp-content/themes/lightseekers/images/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://deliverycrab.com/wp-content/uploads/2018/06/Classic_LightseekersCardSleeves.jpg",
