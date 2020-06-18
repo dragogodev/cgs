@@ -14,7 +14,6 @@
 - Pokemon: https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json
 
 ## Candidates
-- Support Deck Code from https://shadowverse-portal.com/
 - https://db.ygoprodeck.com/api-guide/
 - https://developer.riotgames.com/docs/lor
 - http://www.planesculptors.net/set/aenyr https://github.com/mzabsky/webdrafter http://www.planesculptors.net/set/muraganda-primordial
