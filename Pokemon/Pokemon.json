@@ -3,7 +3,7 @@
   "allCardsUrlPageCountIdentifier": "Total-Count",
   "allCardsUrlPageCountDivisor": 100,
   "allSetsUrl": "https://api.pokemontcg.io/v1/sets",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1an10tHm-B1ylvih1nyL_F4n9Tye2YMY4",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json",
   "bannerImageUrl": "https://cdn.bulbagarden.net/upload/6/62/Pok%C3%A9mon_TCG_logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cdn.bulbagarden.net/upload/1/17/Cardback.jpg",
