@@ -9,6 +9,7 @@
 - KeyForge: https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json
 - Lightseekers: https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json
 - Magic: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json
+- Magic: Starcraft: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json
 - Netrunner: https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json
 
 ## Candidates
