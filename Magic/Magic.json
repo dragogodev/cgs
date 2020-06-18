@@ -4,7 +4,7 @@
   "allCardsUrlPageCountDivisor": 175,
   "allCardsUrlPageIdentifier": "&page=",
   "allSetsUrl": "https://api.scryfall.com/sets",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1OVh4cjhhY3dGaXM",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json",
   "bannerImageUrl": "https://magic.wizards.com/sites/mtg/files/logo-magic.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://pngimage.net/wp-content/uploads/2018/06/mtg-card-back-png-1.jpg",
