@@ -8,6 +8,7 @@
 - Hearthstone: https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json
 - KeyForge: https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json
 - Lightseekers: https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json
+- Netrunner: https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json
 
 ## Candidates
 
