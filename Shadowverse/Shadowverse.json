@@ -4,7 +4,7 @@
   "bannerImageUrl": "https://shadowverse.com/news/wp-content/uploads/9d33fe1601f90fdff2e0ca2c111d8793.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg",
-  "cardImageUrl": "https://shadowverse-portal.com/image/card/en/C_{cardId}.png",
+  "cardImageUrl": "https://shadowverse-portal.com/image/card/phase2/common/C/C_{cardId}.png",
   "cardSetIdentifier": "expansion",
   "cardPrimaryProperty": "baseData.description",
   "cardProperties": [
