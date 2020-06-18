@@ -11,9 +11,9 @@
 - Magic: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json
 - Magic: Starcraft: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json
 - Netrunner: https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json
+- Pokemon
 
 ## Candidates
-- Pokemon
 - Support Deck Code from https://shadowverse-portal.com/
 - https://db.ygoprodeck.com/api-guide/
 - https://developer.riotgames.com/docs/lor
