@@ -94,15 +94,15 @@
   "deckUrls": [
     {
       "name": "Protoss",
-      "url": "https://drive.google.com/uc?export=download&id=1zd7X2bHv-om11ynNAzs-t_YoZPmc8QDZ"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/decks/Protoss.txt"
     },
     {
       "name": "Terran",
-      "url": "https://drive.google.com/uc?export=download&id=1MbqwcgEQ5Y36OJcZPa5Vq_GlGUisYeOu"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/decks/Terran.txt"
     },
     {
       "name": "Zerg",
-      "url": "https://drive.google.com/uc?export=download&id=1aiDpXfy5BK7dHLcqmWuw4FQRq_1tUTT7"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/decks/Zerg.txt"
     }
   ],
   "enums": [
