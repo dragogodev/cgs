@@ -1,0 +1,190 @@
+{
+  "allCardsUrl": "http://www.magicmultiverse.net/cardsets/358.json",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=120oJqcF_XyyI3ZwePB0gonB-3V47YSw-",
+  "bannerImageFileType": "jpg",
+  "bannerImageUrl": "http://i.imgur.com/0xAjTK2.jpg",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://i.ibb.co/FJ5kBgC/Terran-back.png",
+  "cardDataIdentifier": "cards",
+  "cardIdIdentifier": "name",
+  "cardImageProperty": "imageURL",
+  "cardPrimaryProperty": "text",
+  "cardProperties": [
+    {
+      "name": "colors",
+      "display": "Color",
+      "displayEmpty": "Colorless",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "manaCost",
+      "display": "Mana Cost",
+      "type": "string"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "string"
+    },
+    {
+      "name": "supertypes",
+      "display": "Supertypes",
+      "displayEmpty": "None",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "types",
+      "display": "Types",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "subtypes",
+      "display": "Subtypes",
+      "displayEmpty": "None",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "text",
+      "display": "Rules Text",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor Text",
+      "type": "string"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "toughness",
+      "display": "Toughness",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "type": "string"
+    },
+    {
+      "name": "layout",
+      "display": "Layout",
+      "type": "stringEnum"
+    },
+    {
+      "name": "imageURL",
+      "display": "Image Url",
+      "type": "string"
+    },
+    {
+      "name": "sourceURL",
+      "display": "Magic Multiverse Url",
+      "type": "string"
+    }
+  ],
+  "deckUrls": [
+    {
+      "name": "Protoss",
+      "url": "https://drive.google.com/uc?export=download&id=1zd7X2bHv-om11ynNAzs-t_YoZPmc8QDZ"
+    },
+    {
+      "name": "Terran",
+      "url": "https://drive.google.com/uc?export=download&id=1MbqwcgEQ5Y36OJcZPa5Vq_GlGUisYeOu"
+    },
+    {
+      "name": "Zerg",
+      "url": "https://drive.google.com/uc?export=download&id=1aiDpXfy5BK7dHLcqmWuw4FQRq_1tUTT7"
+    }
+  ],
+  "enums": [
+    {
+      "property": "colors",
+      "values": {
+        "White": "White",
+        "Blue": "Blue",
+        "Black": "Black",
+        "Red": "Red",
+        "Green": "Green"
+      }
+    },
+    {
+      "property": "supertypes",
+      "values": {
+        "Basic": "Basic",
+        "Token": "Token"
+      }
+    },
+    {
+      "property": "types",
+      "values": {
+        "Land": "Land",
+        "Creature": "Creature",
+        "Planeswalker": "Planeswalker",
+        "Enchantment": "Enchantment",
+        "Artifact": "Artifact",
+        "Sorcery": "Sorcery",
+        "Instant": "Instant"
+      }
+    },
+    {
+      "property": "subtypes",
+      "values": {
+        "Zerg": "Zerg",
+        "Terran": "Terran",
+        "Protoss": "Protoss",
+        "Archon": "Archon",
+        "Assassin": "Assassin",
+        "Carrier": "Carrier",
+        "Cleric": "Cleric",
+        "Drone": "Drone",
+        "Illusion": "Illusion",
+        "Interceptor": "Interceptor",
+        "Mercenary": "Mercenary",
+        "Minion": "Minion",
+        "Mutant": "Mutant",
+        "Shapeshifter": "Shapeshifter",
+        "Ship": "Ship",
+        "Soldier": "Soldier",
+        "Vehicle": "Vehicle",
+        "Wall": "Wall",
+        "Warrior": "Warrior",
+        "Artanis": "Artanis",
+        "Kerrigan": "Kerrigan",
+        "Raynor": "Raynor",
+        "Aura": "Aura"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "basic": "Basic",
+        "common": "Common",
+        "uncommon": "Uncommon",
+        "rare": "Rare",
+        "mythic": "Mythic Rare"
+      }
+    },
+    {
+      "property": "layout",
+      "values": {
+        "normal": "Normal",
+        "token": "Token"
+      }
+    }
+  ],
+  "gameStartHandCount": 7,
+  "gameStartPointsCount": 20,
+  "name": "Magic: Starcraft",
+  "setCodeDefault": "STA",
+  "setNameDefault": "Duel Decks: Starcraft",
+  "rulesUrl": "http://www.magicmultiverse.net/cardsets/358"
+}
