@@ -12,6 +12,7 @@
 - Magic: Starcraft: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json
 - Netrunner: https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json
 - Pokemon: https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json
+- Shadowverse: https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json
 
 ## Candidates
 - https://db.ygoprodeck.com/api-guide/
