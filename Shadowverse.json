@@ -1,0 +1,165 @@
+{
+  "allCardsUrl": "http://sv.bagoum.com/cardsFullJSON",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1vAgrWSEBY5HTTkZQvU5eF-OoLIeFCEht",
+  "bannerImageUrl": "https://shadowverse.com/news/wp-content/uploads/9d33fe1601f90fdff2e0ca2c111d8793.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg",
+  "cardImageUrl": "https://shadowverse-portal.com/image/card/en/C_{cardId}.png",
+  "cardSetIdentifier": "expansion",
+  "cardPrimaryProperty": "baseData.description",
+  "cardProperties": [
+    {
+      "name": "rot",
+      "display": "Format",
+      "type": "stringEnum"
+    },
+    {
+      "name": "manaCost",
+      "display": "Mana Cost",
+      "type": "integer"
+    },
+    {
+      "name": "faction",
+      "display": "Faction",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "race",
+      "display": "Race",
+      "displayEmpty": "NONE or N/A",
+      "type": "string"
+    },
+    {
+      "name": "searchableText",
+      "display": "Search Text",
+      "type": "string"
+    },
+    {
+      "name": "baseData",
+      "display": "Base Data",
+      "type": "object",
+      "properties": [
+        {
+          "name": "description",
+          "display": "Base Description",
+          "displayEmpty": "N / A",
+          "type": "string"
+        },
+        {
+          "name": "flair",
+          "display": "Base Flair",
+          "displayEmpty": "N / A",
+          "type": "string"
+        },
+        {
+          "name": "attack",
+          "display": "Base Attack",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        },
+        {
+          "name": "defense",
+          "display": "Base Defense",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        }
+      ]
+    },
+    {
+      "name": "hasEvo",
+      "display": "Evolves?",
+      "type": "boolean"
+    },
+    {
+      "name": "evoData",
+      "display": "Evolution Data",
+      "displayEmpty": "N / A",
+      "type": "object",
+      "properties": [
+        {
+          "name": "description",
+          "display": "Evolved Description",
+          "displayEmpty": "N / A",
+          "type": "string"
+        },
+        {
+          "name": "flair",
+          "display": "Evolved Flair",
+          "displayEmpty": "N / A",
+          "type": "string"
+        },
+        {
+          "name": "attack",
+          "display": "Evolved Attack",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        },
+        {
+          "name": "defense",
+          "display": "Evolved Defense",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        }
+      ]
+    },
+    {
+      "name": "hasAlt",
+      "display": "Has Alternate?",
+      "type": "boolean"
+    }
+  ],
+  "deckMaxCount": 40,
+  "enums": [
+    {
+      "property": "rot",
+      "values": {
+        "Rotation": "Rotation",
+        "Unlimited": "Unlimited"
+      }
+    },
+    {
+      "property": "faction",
+      "values": {
+        "Neutral": "Neutral",
+        "Forestcraft": "Forestcraft",
+        "Swordcraft": "Swordcraft",
+        "Runecraft": "Runecraft",
+        "Dragoncraft": "Dragoncraft",
+        "Shadowcraft": "Shadowcraft",
+        "Bloodcraft": "Bloodcraft",
+        "Havencraft": "Havencraft",
+        "Portalcraft": "Portalcraft"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "Bronze": "Bronze",
+        "Silver": "Silver",
+        "Gold": "Gold",
+        "Legendary": "Legendary"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Follower": "Follower",
+        "Amulet": "Amulet",
+        "Spell": "Spell"
+      }
+    }
+  ],
+  "gameStartHandCount": 3,
+  "name": "Shadowverse",
+  "rulesUrl": "https://shadowverse.com/gameguide/playguide.php"
+}
