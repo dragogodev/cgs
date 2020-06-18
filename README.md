@@ -13,7 +13,7 @@
 - Netrunner: https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json
 
 ## Candidates
-
+- Pokemon
 - Support Deck Code from https://shadowverse-portal.com/
 - https://db.ygoprodeck.com/api-guide/
 - https://developer.riotgames.com/docs/lor
