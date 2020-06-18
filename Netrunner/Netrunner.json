@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://netrunnerdb.com/api/2.0/public/cards",
   "allSetsUrl": "https://netrunnerdb.com/api/2.0/public/packs",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1OZja2nkIjHmqsuV2IJnup2bBFZ5cIdKv",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json",
   "bannerImageUrl": "https://vignette.wikia.nocookie.net/netrunner101/images/c/c9/Android-netrunner-logo.png",
   "cardBackImageUrl": "https://vignette.wikia.nocookie.net/ancur/images/c/c3/Corp_back.png",
   "cardDataIdentifier": "data",
