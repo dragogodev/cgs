@@ -1,0 +1,179 @@
+{
+  "allCardsUrl": "https://netrunnerdb.com/api/2.0/public/cards",
+  "allSetsUrl": "https://netrunnerdb.com/api/2.0/public/packs",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1OZja2nkIjHmqsuV2IJnup2bBFZ5cIdKv",
+  "bannerImageUrl": "https://vignette.wikia.nocookie.net/netrunner101/images/c/c9/Android-netrunner-logo.png",
+  "cardBackImageUrl": "https://vignette.wikia.nocookie.net/ancur/images/c/c3/Corp_back.png",
+  "cardDataIdentifier": "data",
+  "cardIdIdentifier": "code",
+  "cardImageProperty": "image_url",
+  "cardImageUrl": "https://netrunnerdb.com/card_image/{cardId}.png",
+  "cardNameIdentifier": "title",
+  "cardPrimaryProperty": "text",
+  "cardProperties": [
+    {
+      "name": "cost",
+      "display": "Install Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "side_code",
+      "display": "Side",
+      "type": "stringEnum"
+    },
+    {
+      "name": "faction_code",
+      "display": "Faction",
+      "type": "stringEnum"
+    },
+    {
+      "name": "faction_cost",
+      "display": "Faction Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "advancement_cost",
+      "display": "Advancement Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "memory_cost",
+      "display": "Memory Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "trash_cost",
+      "display": "Trash Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "type_code",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "keywords",
+      "display": "Subtype",
+      "type": "string"
+    },
+    {
+      "name": "text",
+      "display": "Text",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor Text",
+      "type": "string"
+    },
+    {
+      "name": "illustrator",
+      "display": "Illustrator",
+      "type": "string"
+    },
+    {
+      "name": "agenda_points",
+      "display": "Agenda Points",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "strength",
+      "display": "Strength",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "quantity",
+      "display": "Quantity",
+      "type": "integer"
+    },
+    {
+      "name": "uniqueness",
+      "display": "Unique?",
+      "type": "boolean"
+    },
+    {
+      "name": "deck_limit",
+      "display": "Deck Limit",
+      "type": "integer"
+    },
+    {
+      "name": "influence_limit",
+      "display": "Influence Limit",
+      "type": "integer"
+    },
+    {
+      "name": "minimum_deck_size",
+      "display": "Minimum Deck Size",
+      "type": "integer"
+    },
+    {
+      "name": "position",
+      "display": "Position In Pack",
+      "type": "integer"
+    }
+  ],
+  "cardSetIdentifier": "pack_code",
+  "enums": [
+    {
+      "property": "type_code",
+      "values": {
+        "agenda": "Agenda",
+        "asset": "Asset",
+        "event": "Event",
+        "hardware": "Hardware",
+        "ice": "ICE",
+        "identity": "Identity",
+        "operation": "Operation",
+        "program": "Program",
+        "resource": "Resource",
+        "upgrade": "Upgrade",
+        "barrier": "Barrier",
+        "code-gate": "Code Gate",
+        "sentry": "Sentry",
+        "icebreaker": "Icebreaker"
+      }
+    },
+    {
+      "property": "side_code",
+      "values": {
+        "runner": "Runner",
+        "corp": "Corp"
+      }
+    },
+    {
+      "property": "faction_code",
+      "values": {
+        "anarch": "Anarch",
+        "criminal": "Criminal",
+        "shaper": "Shaper",
+        "neutral-runner": "Neutral",
+        "haas-bioroid": "Haas-Bioroid",
+        "jinteki": "Jinteki",
+        "nbn": "NBM",
+        "weyland-consortium": "Weyland Consortium",
+        "neutral-corp": "Neutral",
+        "apex": "Apex",
+        "adam": "Adam",
+        "sunny-lebeau": "Sunny Lebeau"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Identity",
+      "property": "type_code",
+      "value": "identity"
+    }
+  ],
+  "gameStartHandCount": 5,
+  "name": "Netrunner",
+  "setDataIdentifier": "data",
+  "rulesUrl": "https://netrunnerdb.com/en/rules"
+}
