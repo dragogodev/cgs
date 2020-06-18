@@ -1,0 +1,162 @@
+{
+  "allCardsUrl": "https://api.scryfall.com/cards/search?q=lang%3Aen",
+  "allCardsUrlPageCountIdentifier": "total_cards",
+  "allCardsUrlPageCountDivisor": 175,
+  "allCardsUrlPageIdentifier": "&page=",
+  "allSetsUrl": "https://api.scryfall.com/sets",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1OVh4cjhhY3dGaXM",
+  "bannerImageUrl": "https://magic.wizards.com/sites/mtg/files/logo-magic.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://pngimage.net/wp-content/uploads/2018/06/mtg-card-back-png-1.jpg",
+  "cardDataIdentifier": "data",
+  "cardImageProperty": "image_uris.png",
+  "cardPrimaryProperty": "oracle_text",
+  "cardProperties": [
+    {
+      "name": "collector_number",
+      "display": "Collector Number",
+      "type": "string"
+    },
+    {
+      "name": "colors",
+      "display": "Color",
+      "displayEmpty": "Colorless",
+      "displayEmptyFirst": true,
+      "type": "stringEnumList"
+    },
+    {
+      "name": "color_identity",
+      "display": "Color Identity",
+      "displayEmpty": "Colorless",
+      "displayEmptyFirst": true,
+      "type": "stringEnumList"
+    },
+    {
+      "name": "cmc",
+      "display": "CMC",
+      "type": "integer"
+    },
+    {
+      "name": "mana_cost",
+      "display": "Mana Cost",
+      "type": "string"
+    },
+    {
+      "name": "type_line",
+      "display": "Type Line",
+      "type": "string"
+    },
+    {
+      "name": "oracle_text",
+      "display": "Oracle Text",
+      "type": "string"
+    },
+    {
+      "name": "flavor_text",
+      "display": "Flavor Text",
+      "type": "string"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "type": "string"
+    },
+    {
+      "name": "toughness",
+      "display": "Toughness",
+      "type": "string"
+    },
+    {
+      "name": "loyalty",
+      "display": "Loyalty",
+      "type": "string"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "type": "string"
+    },
+    {
+      "name": "layout",
+      "display": "Layout",
+      "type": "stringEnum"
+    },
+    {
+      "name": "frame",
+      "display": "Frame",
+      "type": "stringEnum"
+    }
+  ],
+  "deckFileType": "dec",
+  "enums": [
+    {
+      "property": "colors",
+      "values": {
+        "W": "White",
+        "U": "Blue",
+        "B": "Black",
+        "R": "Red",
+        "G": "Green"
+      }
+    },
+    {
+      "property": "color_identity",
+      "values": {
+        "W": "White",
+        "U": "Blue",
+        "B": "Black",
+        "R": "Red",
+        "G": "Green"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "common": "Common",
+        "uncommon": "Uncommon",
+        "rare": "Rare",
+        "mythic": "Mythic Rare"
+      }
+    },
+    {
+      "property": "layout",
+      "values": {
+        "normal": "Normal",
+        "split": "Split",
+        "flip": "Flip",
+        "transform": "Transform",
+        "meld": "Meld",
+        "leveler": "Leveler",
+        "planar": "Planar",
+        "scheme": "Scheme",
+        "vanguard": "Vanguard",
+        "token": "Token",
+        "double_faced_token": "DF Token",
+        "emblem": "Emblem",
+        "augment": "Augment",
+        "host": "Host"
+      }
+    },
+    {
+      "property": "frame",
+      "values": {
+        "1993": "1993",
+        "1997": "1997",
+        "2003": "2003",
+        "2015": "2015",
+        "future": "Future"
+      }
+    }
+  ],
+  "gameStartHandCount": 7,
+  "gameStartPointsCount": 20,
+  "name": "Magic: The Gathering",
+  "setCodeIdentifier": "code",
+  "setDataIdentifier": "data",
+  "rulesUrl": "https://magic.wizards.com/en/game-info/gameplay/rules-and-formats/rules"
+}
