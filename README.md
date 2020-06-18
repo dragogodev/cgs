@@ -17,7 +17,6 @@
 - Support Deck Code from https://shadowverse-portal.com/
 - https://db.ygoprodeck.com/api-guide/
 - https://developer.riotgames.com/docs/lor
-- http://www.magicmultiverse.net/cardsets/358/
 - http://www.planesculptors.net/set/aenyr https://github.com/mzabsky/webdrafter http://www.planesculptors.net/set/muraganda-primordial
 - The Everdeck
 - Artifact
