@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "http://sv.bagoum.com/cardsFullJSON",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1vAgrWSEBY5HTTkZQvU5eF-OoLIeFCEht",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json",
   "bannerImageUrl": "https://shadowverse.com/news/wp-content/uploads/9d33fe1601f90fdff2e0ca2c111d8793.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg",
@@ -118,7 +118,6 @@
       "type": "boolean"
     }
   ],
-  "deckMaxCount": 40,
   "enums": [
     {
       "property": "rot",
