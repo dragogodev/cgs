@@ -13,9 +13,9 @@
 - Netrunner: https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json
 - Pokemon: https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json
 - Shadowverse: https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json
+- Yugioh: https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json
 
 ## Candidates
-- https://db.ygoprodeck.com/api-guide/
 - https://developer.riotgames.com/docs/lor
 - http://www.planesculptors.net/set/aenyr https://github.com/mzabsky/webdrafter http://www.planesculptors.net/set/muraganda-primordial
 - The Everdeck
