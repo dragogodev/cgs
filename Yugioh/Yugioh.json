@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=0B8G-U4tnM7g1ZTVvMGZzcEJkZ2M",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json",
   "bannerImageUrl": "https://vignette.wikia.nocookie.net/logopedia/images/7/73/Yugioh_tcg_logo_2011_thumb.png",
   "cardBackImageUrl": "https://i.imgur.com/UjbK2Wb.png",
   "cardDataIdentifier": "data",
