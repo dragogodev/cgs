@@ -7,6 +7,7 @@
 - Final Fantasy TCG: https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json
 - Hearthstone: https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json
 - KeyForge: https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json
+- Legends of Runeterra: https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json
 - Lightseekers: https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json
 - Magic: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json
 - Magic: Starcraft: https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json
@@ -16,7 +17,6 @@
 - Yugioh: https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json
 
 ## Candidates
-- https://developer.riotgames.com/docs/lor
 - http://www.planesculptors.net/set/aenyr https://github.com/mzabsky/webdrafter http://www.planesculptors.net/set/muraganda-primordial
 - The Everdeck
 - Artifact
