@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Foundations",
+    "code": "set1",
+    "cardsUrl": "http://dd.b.pvp.net/latest/set1/en_us/data/set1-en_us.json"
+  },
+  {
+    "name": "Rising Tides",
+    "code": "set2",
+    "cardsUrl": "http://dd.b.pvp.net/latest/set2/en_us/data/set2-en_us.json"
+  }
+]
