@@ -6,9 +6,194 @@
   "cardIdIdentifier": "cardCode",
   "cardImageUrl": "http://dd.b.pvp.net/latest/{cardSet}/en_us/img/cards/{cardId}.{cardImageFileType}",
   "cardPrimaryProperty": "descriptionRaw",
-  "cardProperties": [],
+  "cardProperties": [
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "regionRef",
+      "display": "Region",
+      "displayEmpty": "Neutral",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "subtypes",
+      "display": "Sub-Type(s)",
+      "displayEmpty": "N/A or None",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "superType",
+      "display": "Super-Type",
+      "displayEmpty": "N/A or None",
+      "type": "stringEnum"
+    },
+    {
+      "name": "descriptionRaw",
+      "display": "Description",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "levelupDescriptionRaw",
+      "display": "Level-up Description",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "flavorText",
+      "display": "Flavor Text",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "artistName",
+      "display": "Artist Name",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "keywordRefs",
+      "display": "Keywords",
+      "displayEmpty": "N / A",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "spellSpeedRef",
+      "display": "Spell Speed",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "attack",
+      "display": "Attack",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "health",
+      "display": "Health",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "rarityRef",
+      "display": "Rarity",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "collectible",
+      "display": "Collectible?",
+      "displayEmpty": "N / A",
+      "type": "boolean"
+    }
+  ],
   "deckFileType": "lor",
-  "enums": [],
+  "enums": [
+    {
+      "property": "regionRef",
+      "values": {
+        "Noxus": "Noxus",
+        "Demacia": "Demacia",
+        "Freljord": "Freljord",
+        "ShadowIsles": "Shadow Isles",
+        "Ionia": "Ionia",
+        "Bilgewater": "Bilgewater",
+        "PiltoverZaun": "Piltover & Zaun"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Unit": "Unit",
+        "Spell": "Spell"
+      }
+    },
+    {
+      "property": "subtypes",
+      "values": {
+        "Elite": "Elite",
+        "Spider": "Spider",
+        "Poro": "Poro",
+        "Elnuk": "Elnuk",
+        "Tech": "Tech"
+      }
+    },
+    {
+      "property": "superType",
+      "values": {
+        "Champion": "Champion",
+        "Follower": "Follower"
+      }
+    },
+    {
+      "property": "keywordRefs",
+      "values": {
+        "Obliterate": "Obliterate",
+        "Skill": "Skill",
+        "DoubleStrike": "Double Attack",
+        "Weakest": "Weakest",
+        "Vulnerable": "Vulnerable",
+        "AttackSkillMark": "Attack",
+        "Elusive": "Elusive",
+        "Drain": "Drain",
+        "Stun": "Stun",
+        "Autoplay": "Trap",
+        "Attune": "Attune",
+        "Barrier": "Barrier",
+        "Immobile": "Immobile",
+        "Capture": "Capture",
+        "Frostbite": "Frostbite",
+        "Fleeting": "Fleeting",
+        "Overwhelm": "Overwhelm",
+        "PlaySkillMark": "Play",
+        "QuickStrike": "Quick Attack",
+        "Tough": "Tough",
+        "Recall": "Recall",
+        "Regeneration": "Regeneration",
+        "Silenced": "Silenced",
+        "Lifesteal": "Lifesteal",
+        "Enlightened": "Enlightened",
+        "Scout": "Scout",
+        "Ephemeral": "Ephemeral",
+        "LastBreath": "Last Breath",
+        "Nab": "Nab",
+        "Challenger": "Challenger",
+        "Imbue": "Imbue",
+        "Fearsome": "Fearsome",
+        "CantBlock": "Can't Block",
+        "Deep": "Deep"
+      }
+    },
+    {
+      "property": "spellSpeedRef",
+      "values": {
+        "Slow": "Slow",
+        "Burst": "Burst",
+        "Fast": "Fast"
+      }
+    },
+    {
+      "property": "rarityRef",
+      "values": {
+        "Common": "Common",
+        "Rare": "Rare",
+        "Epic": "Epic",
+        "Champion": "Champion",
+        "None": "None"
+      }
+    }
+  ],
   "gameStartHandCount": 4,
   "gameStartPointsCount": 20,
   "name": "Legends of Runeterra",
