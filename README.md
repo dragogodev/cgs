@@ -1,5 +1,7 @@
 # CGS
 
+To play these games in [Card Game Simulator](https://www.cardgamesimulator.com), use these CGS AutoUpdate Urls.
+
 ## Done
 - Arkham Horror: https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json
 - Dragoborne: https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json
