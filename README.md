@@ -19,11 +19,10 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Yugioh: https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json
 
 ## Candidates
-- http://www.planesculptors.net/set/aenyr https://github.com/mzabsky/webdrafter http://www.planesculptors.net/set/muraganda-primordial
 - The Everdeck
-- Artifact
 - Exploding Kittens
 - Cards Against Humanity
 - Future Card Buddyfight
 - Card Fight Vanguard
 - Force of Will
+- Artifact
