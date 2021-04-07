@@ -92,7 +92,6 @@
       "type": "stringEnum"
     }
   ],
-  "deckFileType": "dec",
   "enums": [
     {
       "property": "colors",
