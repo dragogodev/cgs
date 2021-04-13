@@ -2,7 +2,7 @@
 
 To play these games in [Card Game Simulator](https://www.cardgamesimulator.com), use these CGS AutoUpdate Urls.
 
-## Done
+## Completed AutoUpdate URLs
 - Arkham Horror: https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json
 - Dragoborne: https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json
 - Dragon Ball Super: https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json
@@ -18,10 +18,10 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Shadowverse: https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json
 - Yugioh: https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json
 
-## Review
+## Needs Review
 - Values for deckSharePreference, gamePlayDeckName, playMatSize, and playMatImage
 
-## Candidates
+## Candidates for Implementation
 - Flesh and Blood
 - Artifact
 - The Everdeck
