@@ -41,11 +41,6 @@
       "type": "string"
     },
     {
-      "name": "flavor",
-      "display": "Flavor",
-      "type": "string"
-    },
-    {
       "name": "format",
       "display": "Format",
       "type": "string"
