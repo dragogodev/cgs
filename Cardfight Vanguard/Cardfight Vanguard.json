@@ -175,22 +175,22 @@
           "type": "string"
         },
         {
-          "jp": "name",
+          "name": "jp",
           "display": "Japanese Tournament Status",
           "type": "string"
         },
         {
-          "kr": "name",
+          "name": "kr",
           "display": "Korean Tournament Status",
           "type": "string"
         },
         {
-          "th": "name",
+          "name": "th",
           "display": "Thai Tournament Status",
           "type": "string"
         },
         {
-          "it": "name",
+          "name": "it",
           "display": "Italian Tournament Status",
           "type": "string"
         }
