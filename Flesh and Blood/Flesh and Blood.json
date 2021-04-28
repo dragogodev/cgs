@@ -18,7 +18,7 @@
     },
     {
       "name": "keywords",
-      "display": "Attacks",
+      "display": "Keywords",
       "displayEmpty": "NONE or N/A",
       "type": "stringList"
     },
