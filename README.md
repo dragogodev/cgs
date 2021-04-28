@@ -7,6 +7,7 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Dragoborne: https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json
 - Dragon Ball Super: https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json
 - Final Fantasy TCG: https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json
+- Flesh and Blood: https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json
 - Hearthstone: https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json
 - KeyForge: https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json
 - Legends of Runeterra: https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json
@@ -22,7 +23,6 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Values for deckSharePreference, gamePlayDeckName, playMatSize, and playMatImage
 
 ## Candidates for Implementation
-- Flesh and Blood
 - Artifact
 - The Everdeck
 - Exploding Kittens
