@@ -1,0 +1,127 @@
+{
+  "allCardsUrl": "https://api.fabdb.net/cards",
+  "allCardsUrlPageCountIdentifier": "total",
+  "allCardsUrlPageCountDivisor": 25,
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json",
+  "bannerImageUrl": "https://storage.googleapis.com/fabmaster/website/img/fab_logo.png",
+  "cardBackImageUrl": "https://storage.googleapis.com/fabmaster/media/images/cardback_3mm_63x88.width-300.png",
+  "cardDataIdentifier": "data",
+  "cardIdIdentifier": "identifier",
+  "cardImageProperty": "image",
+  "cardPrimaryProperty": "text",
+  "cardProperties": [
+    {
+      "name": "text",
+      "display": "Card Text",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "keywords",
+      "display": "Attacks",
+      "displayEmpty": "NONE or N/A",
+      "type": "stringList",
+      ]
+    },
+    {
+      "name": "stats",
+      "display": "Stats",
+      "displayEmpty": "NONE or N/A",
+      "type": "object",
+      "properties": [
+        {
+          "name": "resource",
+          "display": "Resource",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "life",
+          "display": "Life",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "intellect",
+          "display": "Intellect",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "attack",
+          "display": "Attack",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "defense",
+          "display": "Defense",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "cost",
+          "display": "Cost",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "banned",
+      "display": "Banned?",
+      "type": "boolean"
+    },
+    {
+      "name": "rulings.description",
+      "display": "Rulings",
+      "type": "stringList"
+    }
+  ],
+  "cardSetIdentifier": "printings",
+  "cardSetIsObject": true,
+  "cardSetsInList": true,
+  "enums": [
+    {
+      "property": "rarity",
+      "values": {
+        "C": "Common",
+        "R": "Rare",
+        "S": "Super Rare",
+        "T": "Token",
+        "M": "Majestic",
+        "L": "Legendary",
+        "F": "Fabled",
+        "P": "Promo"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Hero",
+      "property": "keywords",
+      "value": "hero"
+    },
+    {
+      "group": "Weapon(s)",
+      "property": "keywords",
+      "value": "weapon"
+    },
+    {
+      "group": "Equipment",
+      "property": "keywords",
+      "value": "equipment"
+    }
+  ],
+  "gameStartHandCount": 4,
+  "gameStartPointsCount": 30,
+  "name": "Flesh and Blood",
+  "setCodeIdentifier": "id",
+  "setNameIdentifier": "set",
+  "rulesUrl": "https://fabtcg.com/resources/rules-and-policy-center/"
+}
