@@ -19,14 +19,12 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Shadowverse: https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json
 - Yugioh: https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json
 
-## Needs Review
+## To-Do
 - Values for deckSharePreference, gamePlayDeckName, playMatSize, and playMatImage
 
 ## Candidates for Implementation
-- Artifact
 - The Everdeck
 - Exploding Kittens
 - Cards Against Humanity
 - Future Card Buddyfight
-- Card Fight Vanguard
 - Force of Will
