@@ -6,7 +6,8 @@
   "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardDataIdentifier": "data",
-  "cardImageProperty": "imageurljp",
+  "cardImageProperty": "imageurlen",
+  "cardImageUrl": "https://cfv-card-images.s3.us-east-2.amazonaws.com/{cardId}-jp.png""
   "cardPrimaryProperty": "effect",
   "cardProperties": [
     {
@@ -27,6 +28,11 @@
     {
       "name": "designillus",
       "display": "Designer / Illustrator",
+      "type": "string"
+    },
+    {
+      "name": "effect",
+      "display": "Effect",
       "type": "string"
     },
     {
