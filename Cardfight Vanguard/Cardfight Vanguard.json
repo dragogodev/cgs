@@ -6,7 +6,7 @@
   "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardDataIdentifier": "data",
-  "cardImageProperty": "imageurlen",
+  "cardImageProperty": "imageurljp",
   "cardPrimaryProperty": "effect",
   "cardProperties": [
     {
@@ -85,6 +85,26 @@
       "type": "string"
     },
     {
+      "name": "italian",
+      "display": "Italian Translation",
+      "type": "string"
+    },
+    {
+      "name": "kana",
+      "display": "Kana Translation",
+      "type": "string"
+    },
+    {
+      "name": "kanji",
+      "display": "Kanji Translation",
+      "type": "string"
+    },
+    {
+      "name": "korean",
+      "display": "Korean Translation",
+      "type": "string"
+    },
+    {
       "name": "limitationtext",
       "display": "Limitation Text",
       "type": "string"
@@ -138,6 +158,43 @@
       "name": "skill",
       "display": "Skill",
       "type": "string"
+    },
+    {
+      "name": "thai",
+      "display": "Thai Translation",
+      "type": "string"
+    },
+    {
+      "name": "tournamentstatuses",
+      "display": "Tournament Statuses",
+      "type": "object",
+      "properties": [
+        {
+          "name": "en",
+          "display": "English Tournament Status",
+          "type": "string"
+        },
+        {
+          "jp": "name",
+          "display": "Japanese Tournament Status",
+          "type": "string"
+        },
+        {
+          "kr": "name",
+          "display": "Korean Tournament Status",
+          "type": "string"
+        },
+        {
+          "th": "name",
+          "display": "Thai Tournament Status",
+          "type": "string"
+        },
+        {
+          "it": "name",
+          "display": "Italian Tournament Status",
+          "type": "string"
+        }
+      ]
     },
     {
       "name": "translation",
