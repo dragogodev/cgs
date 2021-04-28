@@ -4,6 +4,7 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 
 ## Completed AutoUpdate URLs
 - Arkham Horror: https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json
+- Cardfight Vanguard: https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json
 - Dragoborne: https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json
 - Dragon Ball Super: https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json
 - Final Fantasy TCG: https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json
@@ -28,3 +29,6 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Cards Against Humanity
 - Future Card Buddyfight
 - Force of Will
+- Gwent
+- Eternal
+- The Elder Scrolls: Legends
