@@ -1,6 +1,6 @@
 # CGS
 
-Here's a list of games that works with [Card Game Simulator](https://www.cardgamesimulator.com):
+Here's a list of games that works with [Card Game Simulator](https://www.cardgamesimulator.com)
 
 ## Alphabetized List of Deep Links (with AutoUpdate URLs)
 - Arkham Horror (`https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json`)
