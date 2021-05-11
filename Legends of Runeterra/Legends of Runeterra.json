@@ -4,7 +4,7 @@
   "bannerImageUrl": "https://playruneterra.com/assets/1f42a03be850064a88d69b3e831192d1c3076e16/static/image/logo.png",
   "cardBackImageUrl": "https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt95b91d7af4d5c6a6/5fd2a6b07c43e43bf4196b87/1.16_patch_notes_zaun_cardback.png",
   "cardIdIdentifier": "cardCode",
-  "cardImageUrl": "http://dd.b.pvp.net/latest/{cardSet}/en_us/img/cards/{cardId}.{cardImageFileType}",
+  "cardImageProperty": "assets[0].gameAbsolutePath",
   "cardPrimaryProperty": "descriptionRaw",
   "cardProperties": [
     {
