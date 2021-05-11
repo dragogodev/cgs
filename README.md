@@ -21,7 +21,7 @@ To play these games in [Card Game Simulator](https://www.cardgamesimulator.com),
 - Yugioh: https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json
 
 ## To-Do
-- Values for deckSharePreference, gamePlayDeckName, playMatSize, and playMatImage
+- Validate deckSharePreference, gameDefaultCardAction, gamePlayDeckName, playMatSize, playMatImage
 
 ## Candidates for Implementation
 - The Everdeck
