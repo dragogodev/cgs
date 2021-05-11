@@ -98,12 +98,6 @@
   ],
   "cardSetIdentifier": "CardNumber",
   "cardSetNameIdentifier": "Series",
-  "deckUrls": [
-    {
-      "name": "THE AWAKENING",
-      "url": "http://dbs-decks.com/api/index.php/utility/exportDecklistUntap/170981"
-    }
-  ],
   "enums": [
     {
       "property": "Type",
