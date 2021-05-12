@@ -2,7 +2,7 @@
 
 Here's a list of games that works with [Card Game Simulator](https://www.cardgamesimulator.com)
 
-## Alphabetized List of Deep Links (with AutoUpdate URLs)
+## CGS Deep Links (with AutoUpdate URLs)
 - [Arkham Horror](https://cgs.link/arkham) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json`)
 - [Cardfight Vanguard](https://cgs.link/cardfight) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json`)
 - [Dragoborne](https://cgs.link/dragoborne) (`https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json`)
