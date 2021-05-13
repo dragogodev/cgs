@@ -1,11 +1,9 @@
-name: Request activation file 🔑
-
+name: Acquire activation file
 on:
   workflow_dispatch: {}
-
 jobs:
-  get-activation-license-file:
-    name: Request activation file 🔑
+  activation:
+    name: Request manual activation file 🔑
     runs-on: ubuntu-latest
     steps:
       # Request manual activation file
