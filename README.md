@@ -1,5 +1,7 @@
 # CGS
 
+[![CI](https://github.com/dragogodev/cgs/actions/workflows/main.yml/badge.svg)](https://github.com/dragogodev/cgs/actions/workflows/main.yml)
+
 Here's a list of games that works with [Card Game Simulator](https://www.cardgamesimulator.com)
 
 ## CGS Deep Links (with AutoUpdate URLs)
