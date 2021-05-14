@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "name": "Arkham Horror",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json"
+    },
+    {
+      "name": "Cardfight!! Vanguard",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json"
+    },
+    {
+      "name": "Dragoborne",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json"
+    },
+    {
+      "name": "Dragon Ball Super",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json"
+    },
+    {
+      "name": "Final Fantasy TCG",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json"
+    },
+    {
+      "name": "Flesh and Blood",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json"
+    },
+    {
+      "name": "Hearthstone",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json"
+    },
+    {
+      "name": "KeyForge",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json"
+    },
+    {
+      "name": "Legends of Runeterra",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json"
+    },
+    {
+      "name": "Lightseekers",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json"
+    },
+    {
+      "name": "Magic: The Gathering",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json"
+    },
+    {
+      "name": "Magic: Starcraft",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json"
+    },
+    {
+      "name": "Netrunner",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json"
+    },
+    {
+      "name": "Pokemon",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json"
+    },
+    {
+      "name": "Shadowverse",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json"
+    },
+    {
+      "name": "Yugioh",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json"
+    }
+  ]
+}
