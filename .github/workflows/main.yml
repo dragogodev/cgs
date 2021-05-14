@@ -23,8 +23,10 @@ jobs:
         with:
           repository: finol-digital/Card-Game-Simulator
           
+      - run: curl https://raw.githubusercontent.com/dragogodev/cgs/master/games.json -o Assets/Resources/games.json
       - uses: game-ci/unity-test-runner@v2
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
+          testMode: PlayMode
           githubToken: ${{ secrets.GITHUB_TOKEN }}
