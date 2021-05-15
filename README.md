@@ -34,5 +34,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - Eternal
 - The Elder Scrolls: Legends
 
-# Paused
+## Archived
+- Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/Artifact.json`)
 - [Dragon Ball Super](https://cgs.link/dbs) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json`)
