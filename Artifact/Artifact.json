@@ -1,6 +1,6 @@
 {
-  "allSetsUrl":"https://drive.google.com/uc?export=download&id=1kQ_NRISk7_ce1bd53_biWG_Ofc69YU8M",
-  "autoUpdateUrl":"https://drive.google.com/uc?export=download&id=1uhND1_HSIHQeTqVF7uUa14EaQs-MInph",
+  "allSetsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/AllSets.json",
+  "autoUpdateUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/Artifact.json",
   "bannerImageUrl":"https://totalgamingnetwork.com/filedata/fetch?type=large&id=3491183",
   "cardBackImageUrl":"https://gamepedia.cursecdn.com/artifact_gamepedia_en/3/3e/Tooltip_(loading).png",
   "cardIdIdentifier":"card_id",
