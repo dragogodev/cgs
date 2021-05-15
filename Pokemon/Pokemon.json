@@ -1,22 +1,23 @@
 {
-  "allCardsUrl": "https://api.pokemontcg.io/v1/cards",
-  "allCardsUrlPageCountIdentifier": "Total-Count",
-  "allCardsUrlPageCountDivisor": 100,
+  "allCardsUrl": "https://api.pokemontcg.io/v2/cards",
+  "allCardsUrlPageCountIdentifier": "totalCount",
+  "allCardsUrlPageCountDivisor": 250,
+  "allCardsUrlRequestHeaderValue": "80401600-3ad9-42b1-b709-f78e5b168705",
   "allSetsUrl": "https://api.pokemontcg.io/v1/sets",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json",
   "bannerImageFileType": "jpg",
   "bannerImageUrl": "https://assets.pokemon.com/assets//cms2/img/trading-card-game/_tiles/tcg_product_gallery_169_en.jpg",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pokemon_Trading_Card_Game_cardback.jpg",
-  "cardDataIdentifier": "cards",
-  "cardImageProperty": "imageUrlHiRes",
-  "cardSetIdentifier": "setCode",
-  "cardPrimaryProperty": "text",
+  "cardDataIdentifier": "data",
+  "cardImageProperty": "images.large",
+  "cardSetIsObject": true,
+  "cardPrimaryProperty": "rules",
   "cardProperties": [
     {
-      "name": "nationalPokedexNumber",
-      "display": "National Pokedex Number",
-      "type": "integer"
+      "name": "nationalPokedexNumbers",
+      "display": "National Pokedex Number(s)",
+      "type": "stringList"
     },
     {
       "name": "series",
@@ -40,9 +41,9 @@
       "type": "stringEnumList"
     },
     {
-      "name": "subtype",
-      "display": "Subtype",
-      "type": "stringEnum"
+      "name": "subtypes",
+      "display": "Subtype(s)",
+      "type": "stringEnumList"
     },
     {
       "name": "hp",
@@ -51,8 +52,8 @@
       "type": "string"
     },
     {
-      "name": "text",
-      "display": "Card Text",
+      "name": "rules",
+      "display": "Card Rules",
       "displayEmpty": "NONE or N/A",
       "type": "stringList"
     },
@@ -95,10 +96,10 @@
       ]
     },
     {
-      "name": "ability",
-      "display": "Ability",
+      "name": "abilities",
+      "display": "Ability(s)",
       "displayEmpty": "NONE or N/A",
-      "type": "object",
+      "type": "objectList",
       "properties": [
         {
           "name": "name",
@@ -173,9 +174,19 @@
       "type": "integer"
     },
     {
+      "name": "evolvesTo",
+      "display": "Evolves To",
+      "type": "stringList"
+    },
+    {
       "name": "rarity",
       "display": "Rarity",
       "type": "stringEnum"
+    },
+    {
+      "name": "flavorText",
+      "display": "Flavor Text",
+      "type": "string"
     },
     {
       "name": "artist",
@@ -327,6 +338,6 @@
   ],
   "gameStartHandCount": 7,
   "name": "Pokemon",
-  "setDataIdentifier": "sets",
+  "setDataIdentifier": "data",
   "rulesUrl": "https://www.pokemon.com/us/pokemon-tcg/rules"
 }
