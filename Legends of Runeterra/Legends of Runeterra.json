@@ -1,7 +1,7 @@
 {
   "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json",
-  "bannerImageUrl": "https://playruneterra.com/assets/1f42a03be850064a88d69b3e831192d1c3076e16/static/image/logo.png",
+  "bannerImageUrl": "https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt59123615aa4cd227/5e93c4cc20d76d763c41d768/Logo-No_Tag_No-Faction-ENG-RGB.png",
   "cardBackImageUrl": "https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt95b91d7af4d5c6a6/5fd2a6b07c43e43bf4196b87/1.16_patch_notes_zaun_cardback.png",
   "cardIdIdentifier": "cardCode",
   "cardImageProperty": "assets[0].gameAbsolutePath",
