@@ -8,6 +8,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Arkham Horror](https://cgs.link/arkham) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json`)
 - [Cardfight Vanguard](https://cgs.link/cardfight) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json`)
 - [DragoBorne](https://cgs.link/dragoborne) (`https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json`)
+- [Dragon Ball Super](https://cgs.link/dbs) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json`)
 - [Final Fantasy TCG](https://cgs.link/fftcg) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json`)
 - [Flesh and Blood](https://cgs.link/fab) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json`)
 - [Hearthstone](https://cgs.link/hearthstone) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json`)
@@ -36,4 +37,3 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/Artifact.json`)
-- [Dragon Ball Super](https://cgs.link/dbs) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json`)
