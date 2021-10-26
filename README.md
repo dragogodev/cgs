@@ -26,6 +26,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - Validate deckSharePreference, gameDefaultCardAction, gamePlayDeckName, playMatSize, playMatImage
 
 ## Candidates for Implementation
+- Metazoo
 - The Everdeck
 - Exploding Kittens
 - Cards Against Humanity
