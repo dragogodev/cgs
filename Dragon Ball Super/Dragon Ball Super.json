@@ -5,7 +5,8 @@
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/5b18d9ca52951dae4358d904/5b4a760f8a922da49b8598ff/1531606980714/DBS+Card+Back.JPG?format=1000w",
   "cardIdIdentifier": "cardNumber",
-  "cardImageProperty": "thumbnail",
+  "cardImageFileType": "jpg",
+  "cardImageProperty": "thumbnail[0]",
   "cardNameIdentifier": "cardName",
   "cardPrimaryProperty": "cardText",
   "cardProperties": [
@@ -85,6 +86,11 @@
       "name": "cardLimit",
       "display": "Card Limit",
       "type": "integer"
+    },
+    {
+      "name": "thumbnail",
+      "display": "Card Image",
+      "type": "stringList"
     }
   ],
   "cardSetIdentifier": "era",
