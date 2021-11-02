@@ -68,6 +68,11 @@
       "type": "stringEnumList"
     },
     {
+      "name": "cardLimit",
+      "display": "Card Limit",
+      "type": "integer"
+    },
+    {
       "name": "isUltimate",
       "display": "Is Ultimate",
       "type": "integer"
@@ -81,16 +86,6 @@
       "name": "isDragonBall",
       "display": "Is Dragon Ball",
       "type": "integer"
-    },
-    {
-      "name": "cardLimit",
-      "display": "Card Limit",
-      "type": "integer"
-    },
-    {
-      "name": "thumbnail",
-      "display": "Card Image",
-      "type": "stringList"
     }
   ],
   "cardSetIdentifier": "era",
