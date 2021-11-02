@@ -1,114 +1,104 @@
 {
-  "allCardsUrl": "https://www.shenronslair.com/api/Cards",
+  "allCardsUrl": "https://dbs-decks.com/api/card",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json",
   "bannerImageUrl": "http://www.dbs-cardgame.com/images/entrance/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/5b18d9ca52951dae4358d904/5b4a760f8a922da49b8598ff/1531606980714/DBS+Card+Back.JPG?format=1000w",
-  "cardIdIdentifier": "Id",
-  "cardImageUrl": "https://shenronslair.com{LocalCardImg}",
-  "cardNameIdentifier": "CardName",
-  "cardPrimaryProperty": "SkillPlainText",
+  "cardIdIdentifier": "cardNumber",
+  "cardImageProperty": "thumbnail",
+  "cardNameIdentifier": "cardName",
+  "cardPrimaryProperty": "cardText",
   "cardProperties": [
     {
-      "name": "Type",
+      "name": "cardType",
+      "display": "Card Type",
       "type": "stringEnum"
     },
     {
-      "name": "Cost",
+      "name": "energyCost",
+      "display": "Energy Cost",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "Color",
-      "type": "stringEnum"
+      "name": "color",
+      "display": "Color",
+      "type": "stringEnumList"
     },
     {
-      "name": "SkillPlainText",
-      "display": "Skill",
+      "name": "cardText",
+      "display": "Card Text",
       "type": "string"
     },
     {
-      "name": "Power",
+      "name": "power",
+      "display": "Power",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "ComboCost",
-      "display": "Combo Cost",
+      "name": "comboEnergy",
+      "display": "Combo Enery",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "ComboPower",
+      "name": "comboPower",
       "display": "Combo Power",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "Character",
+      "name": "cardCharacter",
+      "display": "Card Character",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "SpecialTrait",
+      "name": "specialTrait",
       "display": "Special Trait",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "Era",
-      "type": "stringEnum"
+      "name": "rarity",
+      "display": "Rarity",
+      "delimiter": ";",
+      "type": "stringEnumList"
     },
     {
-      "name": "Rarity",
-      "type": "stringEnum"
-    },
-    {
-      "name": "ComboPower",
-      "display": "Max Allowed",
-      "displayEmpty": "-",
+      "name": "isUltimate",
+      "display": "Is Ultimate",
       "type": "integer"
     },
     {
-      "name": "CardCount",
-      "display": "Card Count",
-      "displayEmpty": "-",
+      "name": "isSuperCombo",
+      "display": "Is Super Combo",
       "type": "integer"
     },
     {
-      "name": "SideCardCount",
-      "display": "Side Card Count",
-      "displayEmpty": "-",
+      "name": "isDragonBall",
+      "display": "Is Dragon Ball",
       "type": "integer"
     },
     {
-      "name": "Keywords",
-      "displayEmpty": "-",
-      "type": "string"
-    },
-    {
-      "name": "CostInt",
-      "displayEmpty": "-",
+      "name": "cardLimit",
+      "display": "Card Limit",
       "type": "integer"
-    },
-    {
-      "name": "LocalCardImg",
-      "type": "string"
     }
   ],
-  "cardSetIdentifier": "CardNumber",
-  "cardSetNameIdentifier": "Series",
+  "cardSetIdentifier": "era",
   "enums": [
     {
-      "property": "Type",
+      "property": "cardType",
       "values": {
-        "LEADER": "Leader",
-        "EXTRA": "Extra",
-        "BATTLE": "Battle"
+        "Leader": "Leader",
+        "Extra": "Extra",
+        "Battle": "Battle"
       }
     },
     {
-      "property": "Color",
+      "property": "color",
       "values": {
         "Red": "Red",
         "Blue": "Blue",
@@ -118,26 +108,20 @@
       }
     },
     {
-      "property": "Era",
+      "property": "rarity",
       "values": {
-        "Dark Demon Realm Saga": "Dark Demon Realm Saga",
-        "Future Trunks Saga": "Future Trunks Saga"
-      }
-    },
-    {
-      "property": "Rarity",
-      "values": {
-        "Common[C]": "Common",
-        "Uncommon[UC]": "Uncommon[UC]",
-        "Rare[R]": "Rare[R]",
-        "Super Rare[SR]": "Super Rare[SR]"
+        "Promo": "Promo",
+        "Common": "Common",
+        "Uncommon": "Uncommon",
+        "Starter Rare": "Starter Rare",
+        "Expansion Rare": "Expansion Rare"
       }
     }
   ],
   "extras": [
     {
       "group": "Leader",
-      "property": "Type",
+      "property": "cardType",
       "value": "Leader"
     }
   ],
