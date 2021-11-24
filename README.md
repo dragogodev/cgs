@@ -26,12 +26,14 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - Validate deckSharePreference, gameDefaultCardAction, gamePlayDeckName, playMatSize, playMatImage
 
 ## Candidates for Implementation
+- Nostalgix
+- Grand Archive
 - MetaZoo
+- Force of Will
+- Future Card Buddyfight
 - The Everdeck
 - Exploding Kittens
 - Cards Against Humanity
-- Future Card Buddyfight
-- Force of Will
 - Gwent
 - Eternal
 - The Elder Scrolls: Legends
