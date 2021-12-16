@@ -27,7 +27,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Candidates for Implementation
 - Nostalgix
-- Grand Archive
 - MetaZoo
 - Force of Will
 - Future Card Buddyfight
