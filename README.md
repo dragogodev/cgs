@@ -16,7 +16,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Legends of Runeterra](https://cgs.link/runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json`)
 - [Lightseekers](https://cgs.link/lightseekers) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json`)
 - [Magic](https://cgs.link/magic) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json`)
-- [Magic: Starcraft](https://cgs.link/starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
 - [Netrunner](https://cgs.link/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json`)
 - [Pokemon](https://cgs.link/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json`)
 - [Shadowverse](https://cgs.link/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json`)
@@ -29,13 +28,15 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - Nostalgix
 - MetaZoo
 - Force of Will
+- Weiss Schwarz
 - Future Card Buddyfight
-- The Everdeck
 - Exploding Kittens
 - Cards Against Humanity
+- The Everdeck
 - Gwent
 - Eternal
 - The Elder Scrolls: Legends
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/Artifact.json`)
+- Magic: Starcraft (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
