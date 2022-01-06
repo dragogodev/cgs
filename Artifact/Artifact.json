@@ -76,6 +76,7 @@
 		"x": 2.07,
 		"y": 3.5
 	},
+  "deckSharePreference": "individual",
   "enums":[
     {
       "property":"card_type",
