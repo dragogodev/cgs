@@ -1,6 +1,6 @@
 {
-  "allCardsUrl": "https://dbs-deckplanet-api.com/items/cards?limit=-1&search=&filter={%22_and%22:[{},{},{},{},{%22_or%22:[{},{}]},{%22_or%22:[{},{}]},{%22_or%22:[{},{}]},{%22_or%22:[{},{}]},{%22_or%22:[{%22card_color%22:{%22_nempty%22:true}}]},{%22_or%22:[{%22card_front_skill%22:{%22_nempty%22:true}}]}]}&meta=filter_count",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json",
+  "allCardsUrl": "https://dbs-deckplanet-api.com/items/cards?limit=-1",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%2520Ball%2520Super/Dragon%2520Ball%2520Super.json",
   "bannerImageUrl": "http://www.dbs-cardgame.com/images/entrance/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/5b18d9ca52951dae4358d904/5b4a760f8a922da49b8598ff/1531606980714/DBS+Card+Back.JPG?format=1000w",
