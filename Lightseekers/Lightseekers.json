@@ -165,6 +165,7 @@
   "cardSetIdentifier": "_source.set",
   "cardSetIsObject": true,
   "cardSetsInList": true,
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "_source.type",
