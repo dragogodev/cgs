@@ -53,6 +53,7 @@
     }
   ],
   "deckFileTxtId": "id",
+  "deckSharePreference": "individual",
   "deckUrls": [
     {
       "name": "FFVII Starter",
