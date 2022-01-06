@@ -92,6 +92,7 @@
       "type": "stringEnum"
     }
   ],
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "colors",
