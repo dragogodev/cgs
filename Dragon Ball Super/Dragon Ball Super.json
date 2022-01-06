@@ -89,6 +89,7 @@
     }
   ],
   "cardSetIdentifier": "era",
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "cardType",
