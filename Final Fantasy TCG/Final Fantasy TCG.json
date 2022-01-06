@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://fftcg.square-enix-games.com/na/get-cards",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%2520Fantasy%2520TCG/Final%2520Fantasy%2520TCG.json",
   "bannerImageUrl": "https://fftcg.square-enix-games.com/theme/fftcg/images/large-fftcg-logo.png",
   "cardBackImageUrl": "https://vignette.wikia.nocookie.net/final-fantasy-card-game/images/1/16/Card_Back_Black.png",
   "cardDataIdentifier": "cards",
