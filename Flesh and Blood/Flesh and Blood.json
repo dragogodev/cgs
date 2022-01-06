@@ -83,6 +83,7 @@
   "cardSetIdentifier": "printings",
   "cardSetIsObject": true,
   "cardSetsInList": true,
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "rarity",
