@@ -256,6 +256,7 @@
   "gameStartPointsCount": 8000,
   "name": "Yugioh",
   "rulesUrl": "http://www.yugioh-card.com/en/rulebook/",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/PlayMat.png",
   "setCodeIdentifier": "set_code",
   "setNameIdentifier": "set_name"
 }
