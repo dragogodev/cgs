@@ -2,7 +2,7 @@
   "allCardsUrl": "https://card-fight-vanguard-api.ue.r.appspot.com/api/v1/cards?pagesize=1000",
   "allCardsUrlPageCount": 11,
   "allCardsUrlPageIdentifier": "&page=",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%2520Vanguard/Cardfight%2520Vanguard.json",
   "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardDataIdentifier": "data",
