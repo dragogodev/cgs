@@ -127,6 +127,7 @@
       "value": "Leader"
     }
   ],
+  "gameDefaultCardAction": "tap",
   "gameStartHandCount": 6,
   "name": "Dragon Ball Super",
   "rulesUrl": "http://www.dbs-cardgame.com/us-en/rule/"
