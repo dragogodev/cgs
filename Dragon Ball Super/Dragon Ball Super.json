@@ -69,8 +69,8 @@
       "type": "string"
     },
     {
-      "name": "card_front_era",
-      "display": "Era",
+      "name": "card_series",
+      "display": "Series",
       "displayEmpty": "-",
       "type": "string"
     },
@@ -105,7 +105,7 @@
       "type": "boolean"
     }
   ],
-  "cardSetIdentifier": "card_series",
+  "cardSetIdentifier": "card_front_era",
   "deckSharePreference": "individual",
   "enums": [
     {
