@@ -117,6 +117,7 @@
   },
   "deckFileAltId": "dbfId",
   "deckFileType": "hsd",
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "cardClass",
