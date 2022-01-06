@@ -118,6 +118,7 @@
       "type": "boolean"
     }
   ],
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "rot",
