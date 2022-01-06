@@ -135,6 +135,7 @@
       }
     }
   ],
+  "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
   "name": "Final Fantasy TCG",
   "rulesUrl": "https://www.fftradingcardgame.com/na/page/how-to-play"
