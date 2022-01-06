@@ -60,6 +60,7 @@
     }
   ],
   "deckFileTxtId": "id",
+  "deckSharePreference": "individual",
   "deckUrls": [
     {
       "name": "TD01 - Shadow Legion",
