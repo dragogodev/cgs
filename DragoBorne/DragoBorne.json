@@ -120,6 +120,7 @@
       "value": "Banner"
     }
   ],
+  "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
   "name": "DragoBorne",
   "rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
