@@ -120,6 +120,7 @@
     }
   ],
   "cardSetIdentifier": "pack_code",
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "type_code",
