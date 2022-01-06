@@ -194,6 +194,7 @@
       "type": "string"
     }
   ],
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "series",
