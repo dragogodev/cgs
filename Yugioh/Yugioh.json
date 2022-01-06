@@ -251,6 +251,7 @@
       "value": "Link Monster"
     }
   ],
+  "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
   "gameStartPointsCount": 8000,
   "name": "Yugioh",
