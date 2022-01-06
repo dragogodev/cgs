@@ -212,6 +212,7 @@
   "cardSetsInList": true,
   "cardSetsInListIsCsv": true,
   "deckSharePreference": "individual",
+  "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
   "name": "Cardfight!! Vanguard",
   "rulesUrl": "https://en.cf-vanguard.com/howto/"
