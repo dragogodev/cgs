@@ -1,106 +1,124 @@
 {
-  "allCardsUrl": "https://dbs-decks.com/api/card",
+  "allCardsUrl": "https://dbs-deckplanet-api.com/items/cards?limit=-1&search=&filter={%22_and%22:[{},{},{},{},{%22_or%22:[{},{}]},{%22_or%22:[{},{}]},{%22_or%22:[{},{}]},{%22_or%22:[{},{}]},{%22_or%22:[{%22card_color%22:{%22_nempty%22:true}}]},{%22_or%22:[{%22card_front_skill%22:{%22_nempty%22:true}}]}]}&meta=filter_count",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json",
   "bannerImageUrl": "http://www.dbs-cardgame.com/images/entrance/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/5b18d9ca52951dae4358d904/5b4a760f8a922da49b8598ff/1531606980714/DBS+Card+Back.JPG?format=1000w",
-  "cardIdIdentifier": "cardNumber",
-  "cardImageFileType": "jpg",
-  "cardImageProperty": "thumbnail[0]",
-  "cardNameIdentifier": "cardName",
-  "cardPrimaryProperty": "cardText",
+  "cardDataIdentifier": "data",
+  "cardIdIdentifier": "card_number",
+  "cardImageUrl": "https://storage.googleapis.com/deckplanet_card_images/{cardId}.png",
+  "cardNameIdentifier": "card_front_name",
+  "cardPrimaryProperty": "card_front_skill",
   "cardProperties": [
     {
-      "name": "cardType",
+      "name": "card_type",
       "display": "Card Type",
       "type": "stringEnum"
     },
     {
-      "name": "energyCost",
-      "display": "Energy Cost",
-      "displayEmpty": "-",
-      "type": "integer"
-    },
-    {
-      "name": "color",
+      "name": "card_color",
       "display": "Color",
+      "delimiter": "/",
       "type": "stringEnumList"
     },
     {
-      "name": "cardText",
-      "display": "Card Text",
+      "name": "card_energy_cost",
+      "display": "Energy Cost",
+      "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "power",
+      "name": "card_front_skill",
+      "display": "Skill",
+      "type": "string"
+    },
+    {
+      "name": "errata_front",
+      "display": "Errata",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_front_power",
       "display": "Power",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "comboEnergy",
-      "display": "Combo Enery",
+      "name": "card_combo_cost",
+      "display": "Combo Energy Cost",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "comboPower",
+      "name": "card_combo_power",
       "display": "Combo Power",
       "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "cardCharacter",
-      "display": "Card Character",
+      "name": "card_front_character",
+      "display": "Character",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "specialTrait",
-      "display": "Special Trait",
+      "name": "card_front_traits",
+      "display": "Trait(s)",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "rarity",
+      "name": "card_front_era",
+      "display": "Era",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_rarity",
       "display": "Rarity",
-      "delimiter": ";",
-      "type": "stringEnumList"
+      "type": "stringEnum"
     },
     {
-      "name": "cardLimit",
+      "name": "limited_to",
       "display": "Card Limit",
       "type": "integer"
     },
     {
-      "name": "isUltimate",
-      "display": "Is Ultimate",
-      "type": "integer"
+      "name": "is_horizontal",
+      "display": "Is Horizontal",
+      "type": "boolean"
     },
     {
-      "name": "isSuperCombo",
-      "display": "Is Super Combo",
-      "type": "integer"
+      "name": "has_errata",
+      "display": "Has Errata",
+      "type": "boolean"
     },
     {
-      "name": "isDragonBall",
-      "display": "Is Dragon Ball",
-      "type": "integer"
+      "name": "is_banned",
+      "display": "Is Banned",
+      "type": "boolean"
+    },
+    {
+      "name": "is_limited",
+      "display": "Is Limited",
+      "type": "boolean"
     }
   ],
-  "cardSetIdentifier": "era",
+  "cardSetIdentifier": "card_series",
   "deckSharePreference": "individual",
   "enums": [
     {
-      "property": "cardType",
+      "property": "card_type",
       "values": {
-        "Leader": "Leader",
-        "Extra": "Extra",
-        "Battle": "Battle"
+        "LEADER": "LEADER",
+        "BATTLE": "BATTLE",
+        "EXTRA": "EXTRA",
+        "BATTLE": "UNISON"
       }
     },
     {
-      "property": "color",
+      "property": "card_color",
       "values": {
         "Red": "Red",
         "Blue": "Blue",
@@ -110,13 +128,28 @@
       }
     },
     {
-      "property": "rarity",
+      "property": "card_rarity",
       "values": {
-        "Promo": "Promo",
-        "Common": "Common",
-        "Uncommon": "Uncommon",
-        "Starter Rare": "Starter Rare",
-        "Expansion Rare": "Expansion Rare"
+        "Common[C]": "Common[C]",
+        "Uncommon[UC]": "Uncommon[UC]",
+        "Rare[R]": "Rare[R]",
+        "Super Rare[SR]": "Super Rare[SR]",
+        "Special Rare[SPR]": "Special Rare[SPR]",
+        "Special Rare Signature[SPR_S]": "Special Rare Signature[SPR_S]",
+        "Starter Rare[ST]": "Starter Rare[ST]",
+        "Secret Rare[SCR]": "Secret Rare[SCR]",
+        "Feature Rare[FR]": "Feature Rare[FR]",
+        "Destroyer & Angel Rare[DAR]": "Destroyer & Angel Rare[DAR]",
+        "Destruction Rare[DR]": "Destruction Rare[DR]",
+        "Giant Force Rare[GFR]": "Giant Force Rare[GFR]",
+        "Duo Power Rare[DPR]": "Duo Power Rare[DPR]",
+        "Iconic Attack Rare[IAR]": "Iconic Attack Rare[IAR]",
+        "Infinite Saiyan Rares[ISR]": "Infinite Saiyan Rares[ISR]",
+        "Ignoble Villain Rare[IVR]": "Ignoble Villain Rare[IVR]",
+        "Noble Hero Rare[NHR]": "Noble Hero Rare[NHR]",
+        "Reboot Leader Rare[RLR]": "Reboot Leader Rare[RLR]",
+        "Expansion Rare[EX]": "Expansion Rare[EX]",
+        "Promotion[PR]": "Promotion[PR]"
       }
     }
   ],
@@ -124,7 +157,7 @@
     {
       "group": "Leader",
       "property": "cardType",
-      "value": "Leader"
+      "value": "LEADER"
     }
   ],
   "gameDefaultCardAction": "tap",
