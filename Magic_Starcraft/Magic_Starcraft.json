@@ -182,6 +182,7 @@
       }
     }
   ],
+  "gameDefaultCardAction": "tap",
   "gameStartHandCount": 7,
   "gameStartPointsCount": 20,
   "name": "Magic: Starcraft",
