@@ -91,6 +91,7 @@
       "type": "string"
     }
   ],
+  "deckSharePreference": "individual",
   "deckUrls": [
     {
       "name": "Protoss",
