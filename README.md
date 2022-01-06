@@ -21,9 +21,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Shadowverse](https://cgs.link/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json`)
 - [Yugioh](https://cgs.link/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
-## To-Do
-- Validate deckSharePreference, gameDefaultCardAction, gamePlayDeckName, playMatSize, playMatImage
-
 ## Candidates for Implementation
 - Nostalgix
 - MetaZoo
