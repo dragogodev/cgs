@@ -100,6 +100,7 @@
     }
   ],
   "deckFileType": "lor",
+  "deckSharePreference": "individual",
   "enums": [
     {
       "property": "regionRef",
