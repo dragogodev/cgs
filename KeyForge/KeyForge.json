@@ -69,6 +69,7 @@
     }
   ],
   "cardSetIdentifier": "expansion",
+  "deckSharePreference": "individual",
   "deckUrls": [
     {
       "name": "Miss Onyx Censorius",
