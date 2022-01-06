@@ -126,6 +126,7 @@
   ],
   "cardSetIdentifier": "pack_code",
   "cardSetNameIdentifier": "pack_name",
+  "deckSharePreference": "individual",
   "deckUrls": [
     {
       "name": "Agnes Baker Starter",
