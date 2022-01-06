@@ -359,6 +359,7 @@
       "value": "Hero"
     }
   ],
+  "gameDefaultCardAction": "rotate",
   "gameStartHandCount": 4,
   "gameStartPointsCount": 30,
   "name": "Lightseekers",
