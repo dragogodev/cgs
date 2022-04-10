@@ -7,6 +7,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 ## CGS Deep Links (with AutoUpdate URLs)
 - [Arkham Horror](https://cgs.link/arkham) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json`)
 - [Cardfight Vanguard](https://cgs.link/cardfight) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json`)
+- [Digimon](https://cgs.link/digimon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/Digimon.json`)
 - [DragoBorne](https://cgs.link/dragoborne) (`https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json`)
 - [Dragon Ball Super](https://cgs.link/dbs) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json`)
 - [Final Fantasy TCG](https://cgs.link/fftcg) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json`)
