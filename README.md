@@ -27,7 +27,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - Force of Will
 - Weiss Schwarz
 - WIXOSS
-- Digimon Card Game
 - Future Card Buddyfight
 - Exploding Kittens
 - Cards Against Humanity
