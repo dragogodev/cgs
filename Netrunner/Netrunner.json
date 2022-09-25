@@ -120,6 +120,7 @@
     }
   ],
   "cardSetIdentifier": "pack_code",
+  "cgsDeepLink": "https://cgs.link/netrunner",
   "deckSharePreference": "individual",
   "enums": [
     {
