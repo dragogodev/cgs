@@ -52,6 +52,7 @@
       "type": "integer"
     }
   ],
+  "cgsDeepLink": "https://cgs.link/fftcg",
   "deckFileTxtId": "id",
   "deckSharePreference": "individual",
   "deckUrls": [
