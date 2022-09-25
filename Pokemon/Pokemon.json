@@ -194,6 +194,7 @@
       "type": "string"
     }
   ],
+  "cgsDeepLink": "https://cgs.link/pokemon",
   "deckSharePreference": "individual",
   "enums": [
     {
