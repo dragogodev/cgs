@@ -98,6 +98,7 @@
       "type": "string"
     }
   ],
+  "cgsDeepLink": "https://cgs.link/yugioh",
   "deckFileAltId": "id",
   "deckFileType": "ydk",
   "deckSharePreference": "individual",
