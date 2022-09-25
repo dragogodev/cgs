@@ -165,6 +165,7 @@
   "cardSetIdentifier": "_source.set",
   "cardSetIsObject": true,
   "cardSetsInList": true,
+  "cgsDeepLink": "https://cgs.link/lightseekers",
   "deckSharePreference": "individual",
   "enums": [
     {
