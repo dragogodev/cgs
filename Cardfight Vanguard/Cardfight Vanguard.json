@@ -211,6 +211,7 @@
   "cardSetIdentifier": "sets",
   "cardSetsInList": true,
   "cardSetsInListIsCsv": true,
+  "cgsDeepLink": "https://cgs.link/cardfight",
   "deckSharePreference": "individual",
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
