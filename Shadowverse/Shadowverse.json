@@ -118,6 +118,7 @@
       "type": "boolean"
     }
   ],
+  "cgsDeepLink": "https://cgs.link/shadowverse",
   "deckSharePreference": "individual",
   "enums": [
     {
