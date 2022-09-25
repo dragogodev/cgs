@@ -106,6 +106,7 @@
     }
   ],
   "cardSetIdentifier": "card_series",
+  "cgsDeepLink": "https://cgs.link/dbs",
   "deckSharePreference": "individual",
   "enums": [
     {
