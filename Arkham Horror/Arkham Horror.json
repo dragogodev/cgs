@@ -126,6 +126,7 @@
   ],
   "cardSetIdentifier": "pack_code",
   "cardSetNameIdentifier": "pack_name",
+  "cgsDeepLink": "https://cgs.link/arkham",
   "deckSharePreference": "individual",
   "deckUrls": [
     {
