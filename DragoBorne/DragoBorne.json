@@ -59,6 +59,7 @@
       "type": "string"
     }
   ],
+  "cgsDeepLink": "https://cgs.link/dragoborne",
   "deckFileTxtId": "id",
   "deckSharePreference": "individual",
   "deckUrls": [
