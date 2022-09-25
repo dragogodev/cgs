@@ -92,6 +92,7 @@
       "type": "stringEnum"
     }
   ],
+  "cgsDeepLink": "https://cgs.link/magic",
   "deckSharePreference": "individual",
   "enums": [
     {
