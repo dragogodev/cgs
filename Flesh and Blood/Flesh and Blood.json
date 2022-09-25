@@ -83,6 +83,7 @@
   "cardSetIdentifier": "printings",
   "cardSetIsObject": true,
   "cardSetsInList": true,
+  "cgsDeepLink": "https://cgs.link/fab",
   "deckSharePreference": "individual",
   "enums": [
     {
