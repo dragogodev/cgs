@@ -11,6 +11,7 @@
   "cardBackImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pokemon_Trading_Card_Game_cardback.jpg",
   "cardDataIdentifier": "data",
   "cardImageProperty": "images.large",
+  "cardNameIsUnique": false,
   "cardSetIsObject": true,
   "cardPrimaryProperty": "rules",
   "cardProperties": [
