@@ -3,7 +3,7 @@
   "allCardsUrlPageCountIdentifier": "totalCount",
   "allCardsUrlPageCountDivisor": 250,
   "allCardsUrlRequestHeaderValue": "80401600-3ad9-42b1-b709-f78e5b168705",
-  "allSetsUrl": "https://api.pokemontcg.io/v1/sets",
+  "allSetsUrl": "https://api.pokemontcg.io/v2/sets",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json",
   "bannerImageFileType": "jpg",
   "bannerImageUrl": "https://assets.pokemon.com/assets//cms2/img/trading-card-game/_tiles/tcg_product_gallery_169_en.jpg",
