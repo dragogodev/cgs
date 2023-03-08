@@ -340,6 +340,7 @@
   ],
   "gameStartHandCount": 7,
   "name": "Pokemon",
+  "setCodeIdentifier": "id",
   "setDataIdentifier": "data",
   "rulesUrl": "https://www.pokemon.com/us/pokemon-tcg/rules"
 }
