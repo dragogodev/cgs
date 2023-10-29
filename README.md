@@ -23,6 +23,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.link/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
 ## Candidates for Implementation
+- Sorcery: Contested Realm
 - Nostalgix
 - MetaZoo
 - Force of Will
