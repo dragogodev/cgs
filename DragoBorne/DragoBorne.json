@@ -59,7 +59,8 @@
       "type": "string"
     }
   ],
-  "cgsDeepLink": "https://cgs.link/dragoborne",
+  "cgsGamesLink": "https://cgs.games/dragogodev/dragoborne",
+  "copyright": "Bushiroad",
   "deckFileTxtId": "id",
   "deckSharePreference": "individual",
   "deckUrls": [
