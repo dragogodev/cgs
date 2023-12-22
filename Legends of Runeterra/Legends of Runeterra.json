@@ -1,9 +1,9 @@
 {
   "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json",
-  "bannerImageUrl": "https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt59123615aa4cd227/5e93c4cc20d76d763c41d768/Logo-No_Tag_No-Faction-ENG-RGB.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt59123615aa4cd227/5e93c4cc20d76d763c41d768/Logo-No_Tag_No-Faction-ENG-RGB.png",
   "cardBackImageFileType": "jpg",
-  "cardBackImageUrl": "https://runeterraccg.com/wp-content/uploads/FR-Cardback.jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/runeterraccg.com/wp-content/uploads/FR-Cardback.jpg",
   "cardIdIdentifier": "cardCode",
   "cardImageProperty": "assets[0].gameAbsolutePath",
   "cardPrimaryProperty": "descriptionRaw",
@@ -99,7 +99,8 @@
       "type": "boolean"
     }
   ],
-  "cgsDeepLink": "https://cgs.link/runeterra",
+  "cgsGamesLink": "https://cgs.games/dragogodev/legends_of_runeterra",
+  "copyright": "Riot Games",
   "deckFileType": "lor",
   "deckSharePreference": "individual",
   "enums": [
