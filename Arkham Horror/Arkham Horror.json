@@ -1,11 +1,11 @@
 {
-  "allCardsUrl": "https://arkhamdb.com/api/public/cards/?encounter=1",
-  "allSetsUrl": "https://arkhamdb.com/api/public/packs",
+  "allCardsUrl": "https://cgs.games/api/proxy/arkhamdb.com/api/public/cards/?encounter=1",
+  "allSetsUrl": "https://cgs.games/api/proxy/arkhamdb.com/api/public/packs",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json",
-  "bannerImageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/07/4d/074d2d55-363a-4d66-97a9-d07b62b7d079/ahc01_logo_700x.png",
-  "cardBackImageUrl": "https://cf.geekdo-images.com/imagepage/img/8jzjvQW9adqwSeeuIhwcK5UBF84=/fit-in/900x600/filters:no_upscale()/pic3311650.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/images-cdn.fantasyflightgames.com/filer_public/07/4d/074d2d55-363a-4d66-97a9-d07b62b7d079/ahc01_logo_700x.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/cf.geekdo-images.com/imagepage/img/8jzjvQW9adqwSeeuIhwcK5UBF84=/fit-in/900x600/filters:no_upscale()/pic3311650.png",
   "cardIdIdentifier": "code",
-  "cardImageUrl": "https://arkhamdb.com{imagesrc}",
+  "cardImageUrl": "https://cgs.games/api/proxy/arkhamdb.com{imagesrc}",
   "cardPrimaryProperty": "text",
   "cardProperties": [
     {
