@@ -1,13 +1,13 @@
 {
-  "allCardsUrl": "https://card-fight-vanguard-api.ue.r.appspot.com/api/v1/cards?pagesize=1000",
+  "allCardsUrl": "https://cgs.games/api/proxy/card-fight-vanguard-api.ue.r.appspot.com/api/v1/cards?pagesize=1000",
   "allCardsUrlPageCount": 11,
   "allCardsUrlPageIdentifier": "&page=",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json",
-  "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
-  "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardDataIdentifier": "data",
   "cardImageProperty": "imageurlen",
-  "cardImageUrl": "https://cfv-card-images.s3.us-east-2.amazonaws.com/{cardId}-jp.png",
+  "cardImageUrl": "https://cgs.games/api/proxy/cfv-card-images.s3.us-east-2.amazonaws.com/{cardId}-jp.png",
   "cardPrimaryProperty": "effect",
   "cardProperties": [
     {
@@ -211,10 +211,11 @@
   "cardSetIdentifier": "sets",
   "cardSetsInList": true,
   "cardSetsInListIsCsv": true,
-  "cgsDeepLink": "https://cgs.link/cardfight",
+  "cgsGamesLink": "https://cgs.games/dragogodev/cardfight_vanguard",
+  "copyright": "Bushiroad",
   "deckSharePreference": "individual",
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
-  "name": "Cardfight!! Vanguard",
+  "name": "Cardfight Vanguard",
   "rulesUrl": "https://en.cf-vanguard.com/howto/"
 }
