@@ -59,15 +59,15 @@
   "deckUrls": [
     {
       "name": "FFVII Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1Y-_ogJrSY3tiIh0ah9G3m7E5TFup7-dM"
+      "url": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1Y-_ogJrSY3tiIh0ah9G3m7E5TFup7-dM"
     },
     {
       "name": "FFX Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1LEZv5Y2JzbeJVvNgW08XMohocALCbScz"
+      "url": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1LEZv5Y2JzbeJVvNgW08XMohocALCbScz"
     },
     {
       "name": "FFXIII Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1J51MO3Y7HIC7CtQrqHwKVb3r8FCNUPG0"
+      "url": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1J51MO3Y7HIC7CtQrqHwKVb3r8FCNUPG0"
     }
   ],
   "enums": [
