@@ -1,13 +1,13 @@
 {
-  "allCardsUrl": "https://fftcg.square-enix-games.com/na/get-cards",
+  "allCardsUrl": "https://cgs.games/api/proxy/fftcg.square-enix-games.com/na/get-cards",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json",
-  "bannerImageUrl": "https://fftcg.square-enix-games.com/theme/fftcg/images/large-fftcg-logo.png",
-  "cardBackImageUrl": "https://vignette.wikia.nocookie.net/final-fantasy-card-game/images/1/16/Card_Back_Black.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/fftcg.square-enix-games.com/theme/fftcg/images/large-fftcg-logo.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/vignette.wikia.nocookie.net/final-fantasy-card-game/images/1/16/Card_Back_Black.png",
   "cardDataIdentifier": "cards",
   "cardIdIdentifier": "Code",
   "cardIdStop": "/",
   "cardImageFileType": "jpg",
-  "cardImageUrl": "https://fftcg.cdn.sewest.net/images/cards/full/{cardId}_eg.jpg",
+  "cardImageUrl": "https://cgs.games/api/proxy/fftcg.cdn.sewest.net/images/cards/full/{cardId}_eg.jpg",
   "cardNameIdentifier": "Name_EN",
   "cardNameIsUnique": false,
   "cardSetIdentifier": "Set",
@@ -52,7 +52,8 @@
       "type": "integer"
     }
   ],
-  "cgsDeepLink": "https://cgs.link/fftcg",
+  "cgsGamesLink": "https://cgs.games/dragogodev/final_fantasy_tcg",
+  "copyright": "Square Enix",
   "deckFileTxtId": "id",
   "deckSharePreference": "individual",
   "deckUrls": [
