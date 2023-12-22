@@ -126,7 +126,8 @@
   ],
   "cardSetIdentifier": "pack_code",
   "cardSetNameIdentifier": "pack_name",
-  "cgsDeepLink": "https://cgs.link/arkham",
+  "cgsDeepLink": "https://cgs.games/dragogodev/arkham_horror",
+  "copyright": "Fantasy Flight Games",
   "deckSharePreference": "individual",
   "deckUrls": [
     {
