@@ -1,9 +1,9 @@
 {
-  "allCardsUrl": "https://api.fabdb.net/cards",
+  "allCardsUrl": "https://cgs.games/api/proxy/api.fabdb.net/cards",
   "allCardsUrlPageCountIdentifier": "meta.last_page",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json",
-  "bannerImageUrl": "https://storage.googleapis.com/fabmaster/website/img/fab_logo.png",
-  "cardBackImageUrl": "https://storage.googleapis.com/fabmaster/media/images/cardback_3mm_63x88.width-300.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/website/img/fab_logo.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/media/images/cardback_3mm_63x88.width-300.png",
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "identifier",
   "cardImageProperty": "image",
@@ -83,7 +83,8 @@
   "cardSetIdentifier": "printings",
   "cardSetIsObject": true,
   "cardSetsInList": true,
-  "cgsDeepLink": "https://cgs.link/fab",
+  "cgsGamesLink": "https://cgs.games/dragogodev/flesh_and_blood",
+  "copyright": "Legendary Story Studios",
   "deckSharePreference": "individual",
   "enums": [
     {
