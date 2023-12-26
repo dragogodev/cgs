@@ -1,11 +1,11 @@
 {
-  "allCardsUrl": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+  "allCardsUrl": "https://cgs.games/api/proxy/db.ygoprodeck.com/api/v7/cardinfo.php",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json",
-  "bannerImageUrl": "https://vignette.wikia.nocookie.net/logopedia/images/7/73/Yugioh_tcg_logo_2011_thumb.png",
-  "cardBackImageUrl": "https://i.imgur.com/UjbK2Wb.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/vignette.wikia.nocookie.net/logopedia/images/7/73/Yugioh_tcg_logo_2011_thumb.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/i.imgur.com/UjbK2Wb.png",
   "cardDataIdentifier": "data",
   "cardImageFileType": "jpg",
-  "cardImageUrl": "https://storage.googleapis.com/ygoprodeck.com/pics/{id}.{cardImageFileType}",
+  "cardImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/ygoprodeck.com/pics/{id}.{cardImageFileType}",
   "cardSetIdentifier": "card_sets",
   "cardSetIsObject": true,
   "cardSetNameIdentifier": "set_code",
@@ -98,18 +98,19 @@
       "type": "string"
     }
   ],
-  "cgsDeepLink": "https://cgs.link/yugioh",
+  "cgsGamesLink": "https://cgs.games/dragogodev/yugioh",
+  "copyright": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI"
   "deckFileAltId": "id",
   "deckFileType": "ydk",
   "deckSharePreference": "individual",
   "deckUrls": [
     {
       "name": "Starter Deck Yugi",
-      "url": "https://ygoprodeck.com/YGOPRO_Decks/3/17940.ydk"
+      "url": "https://cgs.games/api/proxy/ygoprodeck.com/YGOPRO_Decks/3/17940.ydk"
     },
     {
       "name": "Starter Deck Kaiba",
-      "url": "https://ygoprodeck.com/YGOPRO_Decks/3/17675.ydk"
+      "url": "https://cgs.games/api/proxy/ygoprodeck.com/YGOPRO_Decks/3/17675.ydk"
     }
   ],
   "enums": [
