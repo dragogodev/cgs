@@ -1,13 +1,13 @@
 {
-  "allCardsUrl": "https://api.scryfall.com/cards/search?q=lang%3Aen",
+  "allCardsUrl": "https://cgs.games/api/proxy/api.scryfall.com/cards/search?q=lang%3Aen",
   "allCardsUrlPageCountIdentifier": "total_cards",
   "allCardsUrlPageCountDivisor": 175,
   "allCardsUrlPageIdentifier": "&page=",
-  "allSetsUrl": "https://api.scryfall.com/sets",
+  "allSetsUrl": "https://cgs.games/api/proxy/api.scryfall.com/sets",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json",
-  "bannerImageUrl": "https://media.wizards.com/2018/company/MTG_Logo.png",
+  "bannerImageUrl": "https://cgs.games/api/proxy/media.wizards.com/2018/company/MTG_Logo.png",
   "cardBackImageFileType": "jpg",
-  "cardBackImageUrl": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Magic_card_back.jpg/revision/latest",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Magic_card_back.jpg/revision/latest",
   "cardDataIdentifier": "data",
   "cardImageProperty": "image_uris.png",
   "cardPrimaryProperty": "oracle_text",
@@ -92,7 +92,8 @@
       "type": "stringEnum"
     }
   ],
-  "cgsDeepLink": "https://cgs.link/magic",
+  "cgsGamesLink": "https://cgs.games/dragogodev/magic_the_gathering",
+  "copyright": "Wizards of the Coast",
   "deckSharePreference": "individual",
   "enums": [
     {
@@ -157,7 +158,7 @@
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 7,
   "gameStartPointsCount": 20,
-  "name": "Magic: The Gathering",
+  "name": "Magic the Gathering",
   "setCodeIdentifier": "code",
   "setDataIdentifier": "data",
   "rulesUrl": "https://magic.wizards.com/en/game-info/gameplay/rules-and-formats/rules"
