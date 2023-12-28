@@ -51,7 +51,10 @@
   "copyright": "Cygames, Bushiroad",
   "deckSharePreference": "individual",
   "deckUrls": [
-    {"name": "Dragoncraft - Starter","url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/decks/Dragoncraft%20-%20Starter.txt"}
+    {
+      "name": "Dragoncraft - Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/decks/Dragoncraft%20-%20Starter.txt"
+    }
   ],
   "enums": [
     {
@@ -96,6 +99,20 @@
     }
   ],
   "gamePlayDeckName": "Main Deck",
+	"gamePlayDeckPositions": [
+		{
+			"x": 25,
+			"y": -5.5
+		},
+		{
+			"x": -25,
+			"y": -5.5
+		},
+		{
+			"x": 25,
+			"y": -2.5
+		}
+	],
   "gameStartHandCount": 4,
   "name": "Shadowverse Evolve",
   "playMatImageFileType": "jpg",
