@@ -50,12 +50,9 @@
   "cgsGamesLink": "https://cgs.games/dragogodev/shadowverse_evolve",
   "copyright": "Cygames, Bushiroad",
   "deckSharePreference": "individual",
-	"deckUrls": [
-		{
-			"name": "Dragoncraft - Starter",
-			"url": ""
-		}
-	],
+  "deckUrls": [
+    {"name": "Dragoncraft - Starter","url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/decks/Dragoncraft%20-%20Starter.txt"}
+  ],
   "enums": [
     {
       "property": "class",
