@@ -1,0 +1,80 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/shadowcard.io/api/search.php?database&sort=name",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/en.shadowverse-evolve.com/wordpress/wp-content/themes/en-shadowverse-evolve/assets/images/common/logo.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/assets/CardBack.jpg",
+  "cardImageFileType": "jpg",
+  "cardImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/cards/{cardId}.jpg",
+  "cardPrimaryProperty": "ability",
+  "cardProperties": [
+    {
+      "name": "class",
+      "display": "Class",
+      "type": "stringEnum"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "type": "integer"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "stats",
+      "display": "Stats",
+      "type": "string"
+    },
+    {
+      "name": "trait",
+      "display": "Trait",
+      "displayEmpty": "NONE or N/A",
+      "type": "string"
+    },
+    {
+      "name": "flavour",
+      "display": "Flavour",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "ability",
+      "display": "Ability",
+      "type": "string"
+    }
+  ],
+  "cgsGamesLink": "https://cgs.games/dragogodev/shadowverse_evolve",
+  "copyright": "Cygames, Bushiroad",
+  "deckSharePreference": "individual",
+  "enums": [
+    {
+      "property": "class",
+      "values": {
+        "Neutral": "Neutral",
+        "Forestcraft": "Forestcraft",
+        "Swordcraft": "Swordcraft",
+        "Runecraft": "Runecraft",
+        "Dragoncraft": "Dragoncraft",
+        "Shadowcraft": "Shadowcraft",
+        "Bloodcraft": "Bloodcraft",
+        "Havencraft": "Havencraft",
+        "Portalcraft": "Portalcraft"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Leader": "Leader",
+        "Follower": "Follower",
+        "Amulet": "Amulet",
+        "Spell": "Spell"
+      }
+    }
+  ],
+  "gameStartHandCount": 3,
+  "name": "Shadowverse Evolve",
+  "rulesUrl": "https://en.shadowverse-evolve.com/rules/"
+}
