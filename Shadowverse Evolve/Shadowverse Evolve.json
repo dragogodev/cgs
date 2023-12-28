@@ -101,16 +101,16 @@
   "gamePlayDeckName": "Main Deck",
   "gamePlayDeckPositions": [
     {
-      "x": 12,
-      "y": -6.5
+      "x": 13,
+      "y": -7.5
     },
     {
-      "x": 12,
-      "y": -1.5
+      "x": 13,
+      "y": -2.5
     },
     {
-      "x": -12,
-      "y": -6.5
+      "x": -13,
+      "y": -7.5
     }
   ],
   "gameStartHandCount": 4,
