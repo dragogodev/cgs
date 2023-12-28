@@ -255,24 +255,24 @@
   ],
   "gameDefaultCardAction": "tap",
   "gamePlayDeckName": "Main Deck",
-	"gamePlayDeckPositions": [
-		{
-			"x": 12.5,
-			"y": -5.5
-		},
-		{
-			"x": -12.5,
-			"y": -5.5
-		},
-		{
-			"x": 12.5,
-			"y": 5.5
-		},
-		{
-			"x": -12.5,
-			"y": 5.5
-		}
-	],
+  "gamePlayDeckPositions": [
+    {
+      "x": 13.5,
+      "y": -7.5
+    },
+    {
+      "x": -13.5,
+      "y": -7.5
+    },
+    {
+      "x": 13.5,
+      "y": 7.5
+    },
+    {
+      "x": -13.5,
+      "y": 7.5
+    }
+  ],
   "gameStartHandCount": 5,
   "gameStartPointsCount": 8000,
   "name": "Yugioh",
