@@ -101,8 +101,8 @@
   "playMatImageFileType": "jpg",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/PlayMat.jpg",
   "playMatSize": {
-		"x": 60,
-		"y": 60
+    "x": 30,
+    "y": 35
   },
   "rulesUrl": "https://en.shadowverse-evolve.com/rules/"
 }
