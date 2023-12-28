@@ -257,20 +257,20 @@
   "gamePlayDeckName": "Main Deck",
   "gamePlayDeckPositions": [
     {
-      "x": 13.5,
-      "y": -7.5
+      "x": 15,
+      "y": -10
     },
     {
-      "x": -13.5,
-      "y": -7.5
+      "x": -15,
+      "y": -10
     },
     {
-      "x": 13.5,
-      "y": 7.5
+      "x": 15,
+      "y": 10
     },
     {
-      "x": -13.5,
-      "y": 7.5
+      "x": -15,
+      "y": 10
     }
   ],
   "gameStartHandCount": 5,
