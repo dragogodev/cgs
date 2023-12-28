@@ -99,18 +99,18 @@
     }
   ],
   "gamePlayDeckName": "Main Deck",
-	"gamePlayDeckPositions": [
-		{
-			"x": 25,
-			"y": -5.5
+  "gamePlayDeckPositions": [
+    {
+			"x": 12,
+			"y": -6.5
 		},
 		{
-			"x": -25,
-			"y": -5.5
+			"x": 12,
+			"y": -1.5
 		},
 		{
-			"x": 25,
-			"y": -2.5
+			"x": -12,
+			"y": -6.5
 		}
 	],
   "gameStartHandCount": 4,
