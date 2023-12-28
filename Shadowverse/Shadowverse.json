@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "http://cgs.games/api/proxy/sv.bagoum.com/cardsFullJSON",
+  "allCardsUrl": "https://cgs.games/api/proxy/sv.bagoum.com/cardsFullJSON",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/shadowverse.com/news/wp-content/uploads/9d33fe1601f90fdff2e0ca2c111d8793.png",
   "cardBackImageFileType": "jpg",
