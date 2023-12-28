@@ -75,6 +75,23 @@
       }
     }
   ],
+  "extras": [
+    {
+      "group": "Leader",
+      "property": "type",
+      "value": "Leader"
+    },
+    {
+      "group": "Evolve Deck",
+      "property": "type",
+      "value": "Follower \/ Evolved"
+    },
+    {
+      "group": "Evolve Deck",
+      "property": "type",
+      "value": "Evolved Follower"
+    }
+  ],
   "gameStartHandCount": 4,
   "name": "Shadowverse Evolve",
   "rulesUrl": "https://en.shadowverse-evolve.com/rules/"
