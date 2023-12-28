@@ -20,6 +20,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Netrunner](https://cgs.games/dragogodev/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json`)
 - [Pokemon](https://cgs.games/dragogodev/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json`)
 - [Shadowverse](https://cgs.games/dragogodev/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json`)
+- [Shadowverse Evolve](https://cgs.games/dragogodev/shadowverse_evolve) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json`)
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
 ## Candidates for Implementation
