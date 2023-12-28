@@ -92,6 +92,7 @@
       "value": "Evolved Follower"
     }
   ],
+	"gamePlayDeckName": "Main Deck",
   "gameStartHandCount": 4,
   "name": "Shadowverse Evolve",
   "rulesUrl": "https://en.shadowverse-evolve.com/rules/"
