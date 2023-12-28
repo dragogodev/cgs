@@ -58,10 +58,8 @@
         "Swordcraft": "Swordcraft",
         "Runecraft": "Runecraft",
         "Dragoncraft": "Dragoncraft",
-        "Shadowcraft": "Shadowcraft",
-        "Bloodcraft": "Bloodcraft",
-        "Havencraft": "Havencraft",
-        "Portalcraft": "Portalcraft"
+        "Shadowcraft": "Abysscraft",
+        "Havencraft": "Havencraft"
       }
     },
     {
@@ -69,6 +67,8 @@
       "values": {
         "Leader": "Leader",
         "Follower": "Follower",
+        "Follower \/ Evolved": "Evolved Follower",
+        "Follower \/ Token": "Token",
         "Amulet": "Amulet",
         "Spell": "Spell"
       }
