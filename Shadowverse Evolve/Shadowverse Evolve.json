@@ -4,7 +4,7 @@
   "bannerImageUrl": "https://cgs.games/api/proxy/en.shadowverse-evolve.com/wordpress/wp-content/themes/en-shadowverse-evolve/assets/images/common/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/assets/CardBack.jpg",
-  "cardDataIdentifier": "data",
+  "cardDataIdentifier": "card",
   "cardImageFileType": "jpg",
   "cardImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/cards/{cardId}.jpg",
   "cardPrimaryProperty": "ability",
