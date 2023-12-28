@@ -95,6 +95,7 @@
   "gamePlayDeckName": "Main Deck",
   "gameStartHandCount": 4,
   "name": "Shadowverse Evolve",
-  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/PlayMat.png",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/PlayMat.jpg",
   "rulesUrl": "https://en.shadowverse-evolve.com/rules/"
 }
