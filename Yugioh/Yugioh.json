@@ -254,6 +254,7 @@
     }
   ],
   "gameDefaultCardAction": "tap",
+	"gamePlayDeckName": "Main Deck",
   "gameStartHandCount": 5,
   "gameStartPointsCount": 8000,
   "name": "Yugioh",
