@@ -1,0 +1,25 @@
+### Shadowverse Evolve Deck: Dragoncraft - Starter
+# Leader
+1 Rowen
+# Main Deck
+3 Fafnir
+3 Dragon Oracle
+3 Dragon Warrior
+3 Dragonewt Princess
+3 Dragonguard
+2 Fire Lizard
+2 Dread Dragon
+3 Roc
+3 Glint Dragon
+3 Dragonrider
+3 Seabrand Dragon
+2 Blazing Breath
+2 Dragon Wings
+2 Goliath
+1 Angelic Sword Maiden
+2 Angelic Snipe
+# Evolve Deck
+3 Dragonrider (Evolved)
+3 Dragon Warrior (Evolved)
+1 Goliath (Evolved)
+3 Roc (Evolved)
