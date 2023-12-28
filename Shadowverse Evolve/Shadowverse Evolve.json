@@ -101,18 +101,18 @@
   "gamePlayDeckName": "Main Deck",
   "gamePlayDeckPositions": [
     {
-			"x": 12,
-			"y": -6.5
-		},
-		{
-			"x": 12,
-			"y": -1.5
-		},
-		{
-			"x": -12,
-			"y": -6.5
-		}
-	],
+      "x": 12,
+      "y": -6.5
+    },
+    {
+      "x": 12,
+      "y": -1.5
+    },
+    {
+      "x": -12,
+      "y": -6.5
+    }
+  ],
   "gameStartHandCount": 4,
   "name": "Shadowverse Evolve",
   "playMatImageFileType": "jpg",
