@@ -13,7 +13,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Final Fantasy TCG](https://cgs.games/dragogodev/final_fantasy_tcg) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json`)
 - [Flesh and Blood](https://cgs.games/dragogodev/flesh_and_blood) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json`)
 - [Hearthstone](https://cgs.games/dragogodev/hearthstone) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json`)
-- [KeyForge](https://cgs.games/dragogodev/keyforge) (`https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json`)
+- [KeyForge](https://cgs.games/dragogodev/key_forge) (`https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json`)
 - [Legends of Runeterra](https://cgs.games/dragogodev/legends_of_runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json`)
 - [Lightseekers](https://cgs.games/dragogodev/lightseekers) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json`)
 - [Magic the Gathering](https://cgs.games/dragogodev/magic_the_gathering) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json`)
