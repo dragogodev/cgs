@@ -68,6 +68,7 @@
       "type": "boolean"
     }
   ],
+  "cardSetIdentifier": "expansion",
   "cgsGamesLink": "https://cgs.games/dragogodev/key_forge",
   "copyright": "Ghost Galaxy",
   "deckSharePreference": "individual",
