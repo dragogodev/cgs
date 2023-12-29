@@ -1,6 +1,5 @@
 {
-  "allCardsUrl": "https://raw.githubusercontent.com/keyforg/keyforge-cards-json/master/cards.json",
-  "allSetsUrl": "https://raw.githubusercontent.com/keyforg/keyforge-cards-json/master/expansions.json",
+  "allCardsUrl": "https://cgs.games/api/proxy/www.keyforgegame.com/api/decks/?page=1&links=cards",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/images-cdn.fantasyflightgames.com/filer_public/15/91/15912457-5917-474f-8ce3-9dd24e1659e3/kf01_logo.png",
   "cardBackImageFileType": "jpg",
@@ -68,7 +67,6 @@
       "type": "boolean"
     }
   ],
-  "cardSetIdentifier": "expansion",
   "cgsGamesLink": "https://cgs.games/dragogodev/key_forge",
   "copyright": "Ghost Galaxy",
   "deckSharePreference": "individual",
