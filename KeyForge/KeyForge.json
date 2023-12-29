@@ -117,6 +117,6 @@
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 7,
   "name": "KeyForge",
-  "rulesUrl": "https://op.keyforgegame.com/en/rules/",
+  "rulesUrl": "https://keyforging.com/wp-content/uploads/2023/11/KeyForge-Rulebook-v17-2.pdf",
   "setCodeIdentifier": "id"
 }
