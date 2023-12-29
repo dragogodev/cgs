@@ -5,7 +5,7 @@
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json"
     },
     {
-      "name": "Cardfight!! Vanguard",
+      "name": "Cardfight Vanguard",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json"
     },
     {
@@ -41,9 +41,13 @@
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json"
     },
     {
-      "name": "Magic: The Gathering",
+      "name": "Magic the Gathering",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json"
     },
+    {
+      "name": "Magic: Starcraft",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json"
+    }
     {
       "name": "Netrunner",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json"
