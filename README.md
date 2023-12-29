@@ -14,6 +14,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Flesh and Blood](https://cgs.games/dragogodev/flesh_and_blood) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json`)
 - [Hearthstone](https://cgs.games/dragogodev/hearthstone) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json`)
 - [KeyForge](https://cgs.games/dragogodev/keyforge) (`https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json`)
+- [Legends of Runeterra](https://cgs.games/dragogodev/legends_of_runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json`)
 - [Lightseekers](https://cgs.games/dragogodev/lightseekers) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json`)
 - [Magic the Gathering](https://cgs.games/dragogodev/magic_the_gathering) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json`)
 - [Magic_Starcraft](https://cgs.games/dragogodev/magic_starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
@@ -41,4 +42,3 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/Artifact.json`)
-- [Legends of Runeterra](https://cgs.games/dragogodev/legends_of_runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json`)
