@@ -4,50 +4,50 @@
   "bannerImageUrl": "https://cgs.games/api/proxy/fftcg.square-enix-games.com/theme/fftcg/images/large-fftcg-logo.png",
   "cardBackImageUrl": "https://cgs.games/api/proxy/vignette.wikia.nocookie.net/final-fantasy-card-game/images/1/16/Card_Back_Black.png",
   "cardDataIdentifier": "cards",
-  "cardIdIdentifier": "Code",
+  "cardIdIdentifier": "code",
   "cardIdStop": "/",
   "cardImageFileType": "jpg",
   "cardImageUrl": "https://cgs.games/api/proxy/fftcg.cdn.sewest.net/images/cards/full/{cardId}_eg.jpg",
-  "cardNameIdentifier": "Name_EN",
+  "cardNameIdentifier": "name_en",
   "cardNameIsUnique": false,
-  "cardSetIdentifier": "Set",
-  "cardPrimaryProperty": "Text_EN",
+  "cardSetIdentifier": "set",
+  "cardPrimaryProperty": "text_en",
   "cardProperties": [
     {
-      "name": "Cost",
+      "name": "cost",
       "type": "integer"
     },
     {
-      "name": "Type_EN",
+      "name": "type_en",
       "display": "Type",
       "type": "stringEnum"
     },
     {
-      "name": "Element",
+      "name": "element",
       "type": "stringEnum"
     },
     {
-      "name": "Category_1",
+      "name": "category_1",
       "display": "Category",
       "type": "stringEnumList",
       "delimiter": " &middot; "
     },
     {
-      "name": "Job_EN",
+      "name": "job_en",
       "display": "Job",
       "type": "string"
     },
     {
-      "name": "Rarity",
+      "name": "rarity",
       "type": "stringEnum"
     },
     {
-      "name": "Text_EN",
+      "name": "text_en",
       "display": "Card Text",
       "type": "string"
     },
     {
-      "name": "Power",
+      "name": "power",
       "displayEmpty": "N / A",
       "type": "integer"
     }
@@ -72,7 +72,7 @@
   ],
   "enums": [
     {
-      "property": "Type_EN",
+      "property": "type_en",
       "values": {
         "Forward": "Forward",
         "Backup": "Backup",
@@ -81,7 +81,7 @@
       }
     },
     {
-      "property": "Element",
+      "property": "element",
       "values": {
         "火": "Fire",
         "氷": "Ice",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "property": "Category_1",
+      "property": "category_1",
       "values": {
         "I": "Final Fantasy I",
         "II": "Final Fantasy II",
@@ -126,7 +126,7 @@
       }
     },
     {
-      "property": "Rarity",
+      "property": "rarity",
       "values": {
         "S": "Starter",
         "C": "Common",
