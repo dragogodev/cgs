@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/carddatabase-es.lightseekers.cards/lightseekers-cards/_search",
+  "allCardsUrl": "https://carddatabase-es.lightseekers.cards/lightseekers-cards/_search",
   "allCardsUrlPostBodyContent": "\"size\":1000",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/www.lightseekers.cards/wp-content/themes/lightseekers/images/logo.png",
