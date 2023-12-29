@@ -9,6 +9,10 @@
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json"
     },
     {
+      "name": "Digimon",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/Digimon.json"
+    },
+    {
       "name": "DragoBorne",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json"
     },
@@ -59,6 +63,10 @@
     {
       "name": "Shadowverse",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json"
+    },
+    {
+      "name": "Shadowverse Evolve",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json"
     },
     {
       "name": "Yugioh",
