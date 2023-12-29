@@ -8,7 +8,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Arkham Horror](https://cgs.games/dragogodev/arkham_horror) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/Arkham%20Horror.json`)
 - [Cardfight Vanguard](https://cgs.games/dragogodev/cardfight_vanguard) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Cardfight%20Vanguard.json`)
 - [Digimon](https://cgs.games/dragogodev/digimon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/Digimon.json`)
-- [DragoBorne](https://cgs.games/dragogodev/dragoborne) (`https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json`)
+- [DragoBorne](https://cgs.games/dragogodev/drago_borne) (`https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json`)
 - [Dragon Ball Super](https://cgs.games/dragogodev/dragon_ball_super) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json`)
 - [Final Fantasy TCG](https://cgs.games/dragogodev/final_fantasy_tcg) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json`)
 - [Flesh and Blood](https://cgs.games/dragogodev/flesh_and_blood) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json`)
