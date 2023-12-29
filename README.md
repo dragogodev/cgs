@@ -17,7 +17,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Legends of Runeterra](https://cgs.games/dragogodev/legends_of_runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json`)
 - [Lightseekers](https://cgs.games/dragogodev/lightseekers) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json`)
 - [Magic the Gathering](https://cgs.games/dragogodev/magic_the_gathering) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json`)
-- [Magic_Starcraft](https://cgs.games/dragogodev/magic_starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
+- [Magic: Starcraft](https://cgs.games/dragogodev/magic_starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
 - [Netrunner](https://cgs.games/dragogodev/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json`)
 - [Pokemon](https://cgs.games/dragogodev/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json`)
 - [Shadowverse](https://cgs.games/dragogodev/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json`)
