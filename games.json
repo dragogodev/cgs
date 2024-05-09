@@ -21,6 +21,10 @@
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json"
     },
     {
+      "name": "Dragon Ball Super Fusion World",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super%20Fusion%20World.json"
+    },
+    {
       "name": "Final Fantasy TCG",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json"
     },
