@@ -1,0 +1,16 @@
+1 [FS02-01] Vegeta // Vegeta
+4 [FS02-02] Gotenks
+2 [FS02-03] Gotenks
+4 [FS02-04] Son Goku
+4 [FS02-05] Son Goten
+4 [FS02-06] Son Goten
+2 [FS02-07] Son Gohan: Adolescence
+4 [FS02-08] Trunks: Youth
+2 [FS02-09] Trunks: Youth
+4 [FS02-10] Videl
+4 [FS02-11] Piccolo
+4 [FS02-12] Bulma
+2 [FS02-13] Vegeta
+4 [FS02-14] Majin Buu : Good
+2 [FS02-15] Galick Gun
+4 [FS02-16] Final Flash
