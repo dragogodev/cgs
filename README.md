@@ -10,6 +10,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Digimon](https://cgs.games/dragogodev/digimon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/Digimon.json`)
 - [DragoBorne](https://cgs.games/dragogodev/drago_borne) (`https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json`)
 - [Dragon Ball Super](https://cgs.games/dragogodev/dragon_ball_super) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/Dragon%20Ball%20Super.json`)
+- [Dragon Ball Super](https://cgs.games/dragogodev/dragon_ball_super_fusion_world) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/Dragon%20Ball%20Super%20Fusion%20World.json`)
 - [Final Fantasy TCG](https://cgs.games/dragogodev/final_fantasy_tcg) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/Final%20Fantasy%20TCG.json`)
 - [Flesh and Blood](https://cgs.games/dragogodev/flesh_and_blood) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json`)
 - [Hearthstone](https://cgs.games/dragogodev/hearthstone) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/Hearthstone.json`)
