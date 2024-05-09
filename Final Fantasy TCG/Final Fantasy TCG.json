@@ -12,6 +12,7 @@
   "cardNameIdentifier": "name_en",
   "cardNameIsUnique": false,
   "cardSetIdentifier": "set",
+  "cardSetInList": true,
   "cardPrimaryProperty": "text_en",
   "cardProperties": [
     {
