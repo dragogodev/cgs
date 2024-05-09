@@ -88,6 +88,24 @@
   "copyright": "Bandai",
   "deckFileTxtId": "id",
   "deckSharePreference": "individual",
+	"deckUrls": [
+		{
+			"name": "Broly Starter Deck",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/decks/Broly%20Starter%20Deck.txt"
+		},
+		{
+			"name": "Frieza Starter Deck",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/decks/Frieza%20Starter%20Deck.txt"
+		},
+		{
+			"name": "Goku Starter Deck",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/decks/Goku%20Starter%20Deck.txt"
+		},
+		{
+			"name": "Vegeta Starter Deck",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/decks/Vegeta%20Starter%20Deck.txt"
+		},
+	],
   "enums": [
     {
       "property": "card_type",
