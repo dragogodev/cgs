@@ -86,6 +86,7 @@
   "cardSetIdentifier": "card_series",
   "cgsGamesLink": "https://cgs.games/dragogodev/dragon_ball_super_fusion_world",
   "copyright": "Bandai",
+  "deckFileTxtId": "id",
   "deckSharePreference": "individual",
   "enums": [
     {
