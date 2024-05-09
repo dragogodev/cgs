@@ -1,4 +1,4 @@
-1 [FS04-01] Frieza // Frieza
+1 [FS04-01] Frieza
 4 [FS04-02] Cui
 2 [FS04-03] Golden Frieza
 2 [FS04-04] King Cold
