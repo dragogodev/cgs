@@ -1,0 +1,3409 @@
+{
+    "meta": {
+        "filter_count": 359
+    },
+    "data": [
+        {
+            "id": 54,
+            "card_color": "Red",
+            "card_number": "FS01-08",
+            "card_energy_cost": 5,
+            "card_front_name": "Son Goku",
+            "card_front_power": "35000",
+            "card_front_trait": "Saiyan/Universe 7",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-purple-fw\">Double Strike</span><em>(This card inflicts 2 damage instead of 1 when attacking.)</em> <br> <span class=\"skill-text skill-blue\">On Play</span> Choose up to 1 of your opponent's Battle Cards and it gets -20000 power for the turn.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 1350,
+            "card_series": "FS01",
+            "ratings": [
+                {
+                    "card_id": 54,
+                    "rating": 5,
+                    "userID": "c44e288c-9ae0-4e9c-861b-182e694166d2"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 2,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 3.5,
+                    "userID": "ea94e628-b000-496d-a509-cd6d0dcaefb9"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 2.5,
+                    "userID": "89587482-d085-4b12-9551-ccb234ba4b73"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 2.5,
+                    "userID": "0e35ae9d-b2af-4a21-8eab-e6ad504665e6"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 3.5,
+                    "userID": "d82a7b06-7a3a-4c0f-a2a1-298088b29c08"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 3.5,
+                    "userID": "95058250-40e1-42b1-9276-12af2b9cdd1b"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 4.5,
+                    "userID": "d1540dd7-a681-408b-a9b5-114e01c94abd"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 3,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 5,
+                    "userID": "ba6fcdfe-297c-4c99-bf33-26d1788621e5"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 3.5,
+                    "userID": "95b80573-4628-44ef-a51f-64569dd35b70"
+                },
+                {
+                    "card_id": 54,
+                    "rating": 3.5,
+                    "userID": "7be56032-d14a-4cb0-8f2e-6b7ddfcb6d37"
+                },
+                {
+                    "card_id": "54",
+                    "rating": 3,
+                    "userID": "6d6c714f-dedc-4f15-8d1e-8567a1c33e7b"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "10",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 13,
+            "card_color": "Red",
+            "card_number": "FB01-029",
+            "card_energy_cost": 2,
+            "card_front_name": "Magetta",
+            "card_front_power": "20000",
+            "card_front_trait": "Universe 6",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "-",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 172,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 13,
+                    "rating": 0.5,
+                    "userID": "dc664019-da2c-4dc2-9b27-4cab77b98cc3"
+                },
+                {
+                    "card_id": 13,
+                    "rating": 1,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "100",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 10,
+            "card_color": "Red",
+            "card_number": "FB01-024",
+            "card_energy_cost": 3,
+            "card_front_name": "Frieza",
+            "card_front_power": "25000",
+            "card_front_trait": "Frieza Clan/Universe 7",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "-",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 340,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 10,
+                    "rating": 4,
+                    "userID": "cdd5653a-aca4-450f-a1de-41d755545761"
+                },
+                {
+                    "card_id": 10,
+                    "rating": 3,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "95",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 372,
+            "card_color": "Blue",
+            "card_number": "FB02-066",
+            "card_energy_cost": 3,
+            "card_front_name": "Fusion of Evil Power",
+            "card_front_power": "(Blue)",
+            "card_front_trait": null,
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span> Place 1 &lt;Goku Black&gt; and 1 &lt;Zamasu&gt; card from your hand or your Battle Area at the bottom of your deck : Draw 2 cards. Then, play up to 1 &lt;Zamasu : Fused&gt; with a cost of 4 from your hand.",
+            "card_back_skill": "undefined",
+            "card_rarity": "R",
+            "card_type": "EXTRA",
+            "card_combo_power": null,
+            "view_count": 339,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 372,
+                    "rating": 4,
+                    "userID": "075eb40d-7def-49b2-a406-7ba8f1554b64"
+                },
+                {
+                    "card_id": 372,
+                    "rating": 2.5,
+                    "userID": "502a1ab6-11d5-4191-bc11-54c5e4d1f193"
+                },
+                {
+                    "card_id": "372",
+                    "rating": 4.5,
+                    "userID": "0e403c9f-f842-4838-97c4-b3d2d07c7294"
+                },
+                {
+                    "card_id": 372,
+                    "rating": 4.5,
+                    "userID": "902628c7-2ac6-443e-93a4-f61ec9e39ef3"
+                },
+                {
+                    "card_id": "372",
+                    "rating": 4,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 126,
+            "card_color": "Green",
+            "card_number": "FB01-102",
+            "card_energy_cost": 3,
+            "card_front_name": "Dr. Gero's Lab",
+            "card_front_power": "",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-purple-fw\">Field</span> (<em> This card remains in your Battle Area until you place another <span class=\"skill-text skill-purple-fw\">Field</span></em>.) <br> <span class=\"skill-text skill-orange\">Activate: Main</span><img src=\"/assets/img/card/card_parts/fw_green_ball.png\" alt=\"\" class=\"colorCostBall\">, switch this card to Rest Mode: If your Leader is &lt;Android 17&gt;, add up to 1 card with ≪Android≫ in its special traits from your Drop to your energy.",
+            "card_back_skill": "",
+            "card_rarity": "R",
+            "card_type": "EXTRA",
+            "card_combo_power": "",
+            "view_count": 1444,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 126,
+                    "rating": 0.5,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 4.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 3,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 3,
+                    "userID": "74138378-c01b-4567-a46d-80ff1eeab11d"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 1,
+                    "userID": "3328543c-4f7a-464c-92b0-1ef09a0d36aa"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 3,
+                    "userID": "8cd4729a-f5e7-4a93-b8a6-dcc3a289d908"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 4.5,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 4,
+                    "userID": "5541bf52-09b0-4eaf-82c1-58b64c09f249"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 4.5,
+                    "userID": "23a9f1d8-f210-4df9-901b-1fdb16eef47a"
+                },
+                {
+                    "card_id": "126",
+                    "rating": 4,
+                    "userID": "74937a9e-b35f-4883-aa47-9c18647cdcb4"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 1.5,
+                    "userID": "cdd5653a-aca4-450f-a1de-41d755545761"
+                },
+                {
+                    "card_id": 126,
+                    "rating": 4.5,
+                    "userID": "a3f283e0-4237-4715-9a5e-879dc19899c4"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "177",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 64,
+            "card_color": "Green",
+            "card_number": "FB01-070",
+            "card_energy_cost": null,
+            "card_front_name": "Android 17",
+            "card_front_power": "15000",
+            "card_front_trait": "Android",
+            "card_back_name": "Android 17/Android 18",
+            "card_back_power": "20000",
+            "card_back_trait": "Android",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card. <br> <span class=\"skill-text skill-yellow\">Awaken</span> When your life is at 4 or less, draw 1 card. Then, flip this card over.",
+            "card_back_skill": "<span class=\"skill-text skill-pink\">Permanent</span><span class=\"skill-text skill-red\">Your Turn</span> If you have 6 or more energy, this card gets +10000 power. <br> <span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card.",
+            "card_rarity": "L",
+            "card_type": "LEADER",
+            "card_combo_power": "",
+            "view_count": 310,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 64,
+                    "rating": 3,
+                    "userID": "6fbec963-3ac4-4fcd-b178-16d92939e167"
+                },
+                {
+                    "card_id": 64,
+                    "rating": 3,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 64,
+                    "rating": 2.5,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 64,
+                    "rating": 3,
+                    "userID": "9f3c58e2-a954-477c-adbd-2e11adf4b01a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "143",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 227,
+            "card_color": "Red",
+            "card_number": "FS01-10",
+            "card_energy_cost": 1,
+            "card_front_name": "Tien Shinhan",
+            "card_front_power": "15000",
+            "card_front_trait": "Earthling/Universe 7",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "-",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 317,
+            "card_series": "FS01",
+            "ratings": [
+                {
+                    "card_id": 227,
+                    "rating": 4.5,
+                    "userID": "0e35ae9d-b2af-4a21-8eab-e6ad504665e6"
+                },
+                {
+                    "card_id": 227,
+                    "rating": 5,
+                    "userID": "84aed2f8-c33b-4715-a153-3fc8b10ced36"
+                },
+                {
+                    "card_id": 227,
+                    "rating": 3,
+                    "userID": "1ea75ba0-f95c-4bb9-9ba1-d91d535a0082"
+                },
+                {
+                    "card_id": "227",
+                    "rating": 5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 227,
+                    "rating": 3.5,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "12",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 325,
+            "card_color": "Red",
+            "card_number": "FB02-003",
+            "card_energy_cost": 4,
+            "card_front_name": "Kakunsa",
+            "card_front_power": "(Red)",
+            "card_front_trait": "20000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span><span class=\"skill-text skill-red\">Once per turn</span> Switch this card to Active Mode. Then, this card gets -5000 power for the turn.",
+            "card_back_skill": "undefined",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 200,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 325,
+                    "rating": 4,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                },
+                {
+                    "card_id": 325,
+                    "rating": 2.5,
+                    "userID": "502a1ab6-11d5-4191-bc11-54c5e4d1f193"
+                },
+                {
+                    "card_id": "325",
+                    "rating": 4,
+                    "userID": "15c342b8-1360-4a92-8db4-e697212ed30c"
+                },
+                {
+                    "card_id": 325,
+                    "rating": 2.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 311,
+            "card_color": "Green",
+            "card_number": "FB02-084",
+            "card_energy_cost": 8,
+            "card_front_name": "Cell",
+            "card_front_power": "45000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Place 3 cards from your energy in your Drop: Choose up to 2 of your opponent's Battle Cards and KO them. Then, add the top card of your deck to your life.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 628,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": "311",
+                    "rating": 4,
+                    "userID": "cbcd18a5-9dd8-4466-8531-da307801245e"
+                },
+                {
+                    "card_id": "311",
+                    "rating": 4.5,
+                    "userID": "1ed42520-8464-4feb-8800-734c93255dc5"
+                },
+                {
+                    "card_id": "311",
+                    "rating": 5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 311,
+                    "rating": 4.5,
+                    "userID": "e781cb5d-db02-4a06-9360-599c45b0bf40"
+                },
+                {
+                    "card_id": 311,
+                    "rating": 5,
+                    "userID": "2fa4934d-a235-4d93-be59-832b283aa2d0"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 103,
+            "card_color": "Yellow",
+            "card_number": "FS04-14",
+            "card_energy_cost": 1,
+            "card_front_name": "Lemo: BR",
+            "card_front_power": "15000",
+            "card_front_trait": "Frieza's Army",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "-",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 143,
+            "card_series": "FS04",
+            "ratings": [],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "67",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 29,
+            "card_color": "Green",
+            "card_number": "FB01-083",
+            "card_energy_cost": 1,
+            "card_front_name": "Android 20",
+            "card_front_power": "5000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Look at 5 cards from the top of your deck, reveal up to 1 &lt;Android 17&gt; or up to 1 &lt;Android 18&gt; and add it to your hand. Place the rest at the bottom of your deck in a random order.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1436,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 29,
+                    "rating": 3.5,
+                    "userID": "b0aacbe4-c4ef-4ab0-aea1-0ab3e2d1145e"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 4,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 5,
+                    "userID": "74138378-c01b-4567-a46d-80ff1eeab11d"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 2.5,
+                    "userID": "1cf100d6-a85c-4532-b06f-48aebb317e3a"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 2.5,
+                    "userID": "4c64d4b4-9950-4e47-8816-61bc1216e99f"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 0.5,
+                    "userID": "23a9f1d8-f210-4df9-901b-1fdb16eef47a"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 0.5,
+                    "userID": "cdd5653a-aca4-450f-a1de-41d755545761"
+                },
+                {
+                    "card_id": 29,
+                    "rating": 3,
+                    "userID": "0be1ef60-95f3-4ad9-aad8-9ce2c7a94bff"
+                },
+                {
+                    "card_id": "29",
+                    "rating": 3,
+                    "userID": "5d0eda72-f44d-4aa4-8efc-e472b940dede"
+                },
+                {
+                    "card_id": "29",
+                    "rating": 4,
+                    "userID": "c649ab79-d27d-48de-a6d0-4887f688740c"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "158",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 155,
+            "card_color": "Red",
+            "card_number": "FB01-021",
+            "card_energy_cost": 2,
+            "card_front_name": "Hit",
+            "card_front_power": "20000",
+            "card_front_trait": "Universe 6",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">When Attacking</span> Add up to 1 card from your life to your hand. Then, choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1461,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 155,
+                    "rating": 4.5,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 2.5,
+                    "userID": "cb3b035d-ac21-4af3-bd78-9d3a04889111"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 2,
+                    "userID": "8ece8635-b3a3-49bb-bcb5-ad935f9664d9"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 3.5,
+                    "userID": "de65b16d-46ad-448d-8c33-0f08b387db2e"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 1,
+                    "userID": "2c05996a-cd3f-45e8-beb7-c55aadbfcc78"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 0.5,
+                    "userID": "bd78040c-5c7b-45ae-a687-1f1c3331c292"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 3.5,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 5,
+                    "userID": "44962d76-3a3f-40e8-8473-226db4446c42"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 4,
+                    "userID": "de3fdab6-ebfb-4025-a65c-d37cd0347c16"
+                },
+                {
+                    "card_id": "155",
+                    "rating": 3,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 3,
+                    "userID": "dc664019-da2c-4dc2-9b27-4cab77b98cc3"
+                },
+                {
+                    "card_id": "155",
+                    "rating": 5,
+                    "userID": "380076d6-fca8-44f9-892e-7780b21677fe"
+                },
+                {
+                    "card_id": "155",
+                    "rating": 5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 155,
+                    "rating": 3.5,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "92",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 339,
+            "card_color": "Red",
+            "card_number": "FB02-020",
+            "card_energy_cost": 1,
+            "card_front_name": "Basil",
+            "card_front_power": "(Red)",
+            "card_front_trait": "5000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Look at 5 cards from the top of your deck, reveal up to 1 non-&lt;Basil&gt; card with a cost of 4 or less and 《Tournament of Power》 in its special traits and add it to your hand. Place the rest at the bottom of your deck in a random order.",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 463,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": "339",
+                    "rating": 5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 339,
+                    "rating": 5,
+                    "userID": "15c342b8-1360-4a92-8db4-e697212ed30c"
+                },
+                {
+                    "card_id": 339,
+                    "rating": 4,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                },
+                {
+                    "card_id": "339",
+                    "rating": 2.5,
+                    "userID": "129f9655-aee7-41e6-bcfc-f7f9ef6d39d2"
+                },
+                {
+                    "card_id": "339",
+                    "rating": 4,
+                    "userID": "0640d33f-35b2-424e-97fc-66d248ef68b3"
+                },
+                {
+                    "card_id": "339",
+                    "rating": 2.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 161,
+            "card_color": "Blue",
+            "card_number": "FB01-043",
+            "card_energy_cost": 1,
+            "card_front_name": "Zamasu",
+            "card_front_power": "10000",
+            "card_front_trait": "Supreme Kai",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-pink\">Permanent</span> If you have a &lt;Goku Black&gt; Battle Card, this card gains <span class=\"skill-text skill-purple-fw\">Blocker</span>. <br> (<em> Blocker: After and opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card. </em>) ",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 1054,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 161,
+                    "rating": 2.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 161,
+                    "rating": 4.5,
+                    "userID": "b0aacbe4-c4ef-4ab0-aea1-0ab3e2d1145e"
+                },
+                {
+                    "card_id": 161,
+                    "rating": 3.5,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": 161,
+                    "rating": 1.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "116",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 143,
+            "card_color": "Green",
+            "card_number": "FB01-084",
+            "card_energy_cost": 3,
+            "card_front_name": "Android 20",
+            "card_front_power": "10000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span> KO this card: Look at 10 cards from the top of your deck and place up to 1 &lt;Dr. Gero's Lab&gt; in your Battle Area. Place the rest at the bottom of your deck in a random order.",
+            "card_back_skill": "",
+            "card_rarity": "R",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 1232,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 143,
+                    "rating": 2.5,
+                    "userID": "fd8adb71-75a5-4178-b795-ee0679e95221"
+                },
+                {
+                    "card_id": 143,
+                    "rating": 3.5,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 143,
+                    "rating": 3.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 143,
+                    "rating": 4,
+                    "userID": "8bcfda3b-fecb-483b-801b-c8c9af96320f"
+                },
+                {
+                    "card_id": 143,
+                    "rating": 0.5,
+                    "userID": "399b06d6-3b69-48d2-b63d-91ccb6efa337"
+                },
+                {
+                    "card_id": 143,
+                    "rating": 2.5,
+                    "userID": "4c64d4b4-9950-4e47-8816-61bc1216e99f"
+                },
+                {
+                    "card_id": 143,
+                    "rating": 3.5,
+                    "userID": "23a9f1d8-f210-4df9-901b-1fdb16eef47a"
+                },
+                {
+                    "card_id": "143",
+                    "rating": 0.5,
+                    "userID": "7be56032-d14a-4cb0-8f2e-6b7ddfcb6d37"
+                },
+                {
+                    "card_id": "143",
+                    "rating": 2,
+                    "userID": "c3815bc8-201d-4aaa-9281-3896198d7141"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "159",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 16,
+            "card_color": "Blue",
+            "card_number": "FB01-041",
+            "card_energy_cost": 2,
+            "card_front_name": "Gowasu",
+            "card_front_power": "15000",
+            "card_front_trait": "Supreme Kai",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">When KO'd</span> Choose up to 1 card with a cost of 2 or less in the Battle Area and return it to its owner's hand.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 841,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 16,
+                    "rating": 4,
+                    "userID": "fd8adb71-75a5-4178-b795-ee0679e95221"
+                },
+                {
+                    "card_id": 16,
+                    "rating": 3.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 16,
+                    "rating": 2.5,
+                    "userID": "7c5e6a53-efbe-49c2-a388-7cf9db989100"
+                },
+                {
+                    "card_id": 16,
+                    "rating": 1.5,
+                    "userID": "1cf100d6-a85c-4532-b06f-48aebb317e3a"
+                },
+                {
+                    "card_id": 16,
+                    "rating": 5,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": 16,
+                    "rating": 2.5,
+                    "userID": "4f23a49e-64e2-43e9-8e17-d7b79cba7ed2"
+                },
+                {
+                    "card_id": 16,
+                    "rating": 4,
+                    "userID": "efa820cf-9cf2-4049-9499-a94a0ffc3fd4"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "114",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 171,
+            "card_color": "Green",
+            "card_number": "FB01-077",
+            "card_energy_cost": 4,
+            "card_front_name": "Android 17",
+            "card_front_power": "20000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Add up to 1 card from your life to your hand. Then, play up to 1 &lt;Android 18&gt; with a cost of 3 or less from your Drop.",
+            "card_back_skill": "",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1596,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 171,
+                    "rating": 3.5,
+                    "userID": "fd8adb71-75a5-4178-b795-ee0679e95221"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 5,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 2,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 4.5,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 4,
+                    "userID": "80e54d38-5d80-4e82-9cea-4a490f4b2b77"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 5,
+                    "userID": "cb3b035d-ac21-4af3-bd78-9d3a04889111"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 4.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 2,
+                    "userID": "7e9bd149-fd8d-4cb2-b0b1-9ee337ff5a91"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 5,
+                    "userID": "f7330c41-7e20-48c0-891b-1b1faf257b92"
+                },
+                {
+                    "card_id": 171,
+                    "rating": 4,
+                    "userID": "e85628be-2d0f-40cd-9963-9ff3a029e887"
+                },
+                {
+                    "card_id": "171",
+                    "rating": 5,
+                    "userID": "ce1d4bd9-ff4a-492d-a00f-d546d9eb7b94"
+                },
+                {
+                    "card_id": "171",
+                    "rating": 3.5,
+                    "userID": "77536778-7b25-4c95-8f17-44450bcf0faa"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "152",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 102,
+            "card_color": "Yellow",
+            "card_number": "FS04-13",
+            "card_energy_cost": 3,
+            "card_front_name": "Frieza",
+            "card_front_power": "25000",
+            "card_front_trait": "Frieza Clan/Frieza's Army",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "-",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 433,
+            "card_series": "FS04",
+            "ratings": [
+                {
+                    "card_id": "102",
+                    "rating": 5,
+                    "userID": "1cbe5526-33dd-4f69-8462-88d916dd0567"
+                },
+                {
+                    "card_id": "102",
+                    "rating": 4.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "66",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 8,
+            "card_color": "Red",
+            "card_number": "FB01-011",
+            "card_energy_cost": 4,
+            "card_front_name": "Champa",
+            "card_front_power": "30000",
+            "card_front_trait": "God of Destruction/Universe 6",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "-",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 254,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 8,
+                    "rating": 4.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 8,
+                    "rating": 1.5,
+                    "userID": "902628c7-2ac6-443e-93a4-f61ec9e39ef3"
+                },
+                {
+                    "card_id": "8",
+                    "rating": 3,
+                    "userID": "9c28d00c-702c-4c08-928d-840321478502"
+                },
+                {
+                    "card_id": 8,
+                    "rating": 3,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "82",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 297,
+            "card_color": "Yellow",
+            "card_number": "FB02-121",
+            "card_energy_cost": 2,
+            "card_front_name": "Son Gohan: Adolescence",
+            "card_front_power": "15000",
+            "card_front_trait": "Saiyan/Earthling",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Choose up to 1 of your &lt;Piccolo&gt; Battle Cards with a cost of 3 and switch it to Active Mode.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 349,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 297,
+                    "rating": 3,
+                    "userID": "f6a50b36-4d6f-49b6-872d-43e84082310d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 359,
+            "card_color": "Blue",
+            "card_number": "FB02-052",
+            "card_energy_cost": 1,
+            "card_front_name": "Son Goten",
+            "card_front_power": "(Blue)",
+            "card_front_trait": "5000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Choose up to 1 of your opponent's Battle Cards with a cost of 2 or less and return it to its owner's hand.",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 398,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 359,
+                    "rating": 3.5,
+                    "userID": "502a1ab6-11d5-4191-bc11-54c5e4d1f193"
+                },
+                {
+                    "card_id": 359,
+                    "rating": 5,
+                    "userID": "1ea75ba0-f95c-4bb9-9ba1-d91d535a0082"
+                },
+                {
+                    "card_id": "359",
+                    "rating": 5,
+                    "userID": "4b8a6230-42f7-428a-93c6-6bba8003f9f7"
+                },
+                {
+                    "card_id": "359",
+                    "rating": 5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 359,
+                    "rating": 5,
+                    "userID": "c33c5528-1dc0-4ecb-9476-5f56ea962fe8"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 215,
+            "card_color": "Green",
+            "card_number": "FB01-140",
+            "card_energy_cost": 7,
+            "card_front_name": "Son Gohan: Childhood",
+            "card_front_power": "50000",
+            "card_front_trait": "Saiyan/Earthling",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Discard 1 card from your hand : Choose all of your opponent's Battle Cards with costs of 5 or less and KO them. Then, this card can't attack for the turn.",
+            "card_back_skill": "undefined",
+            "card_rarity": "SCR",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 1110,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 215,
+                    "rating": 3.5,
+                    "userID": "89ad29fe-e698-45c7-a65e-f2f46c49f20c"
+                },
+                {
+                    "card_id": 215,
+                    "rating": 4.5,
+                    "userID": "8cd4729a-f5e7-4a93-b8a6-dcc3a289d908"
+                },
+                {
+                    "card_id": 215,
+                    "rating": 2,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 215,
+                    "rating": 3,
+                    "userID": "6d9de69e-f3bc-4bda-bc3f-4e8138ac546e"
+                },
+                {
+                    "card_id": 215,
+                    "rating": 5,
+                    "userID": "d98f7f4b-2b1b-4514-8714-1bbead86c111"
+                },
+                {
+                    "card_id": "215",
+                    "rating": 4.5,
+                    "userID": "ec47e889-8ee2-4355-8285-3ed3cb606376"
+                },
+                {
+                    "card_id": "215",
+                    "rating": 3.5,
+                    "userID": "33513fcb-5a9e-4038-86f9-266a1b8eb902"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "217",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 384,
+            "card_color": "Green",
+            "card_number": "FB02-083",
+            "card_energy_cost": 3,
+            "card_front_name": "Cell",
+            "card_front_power": "(Green)",
+            "card_front_trait": "25000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "undefined",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 89,
+            "card_series": "FB02",
+            "ratings": [],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 172,
+            "card_color": "Green",
+            "card_number": "FB01-078",
+            "card_energy_cost": 6,
+            "card_front_name": "Android 17/Android 18",
+            "card_front_power": "40000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-purple-fw\">Double Strike</span>(<em>This card inflicts 2 damage instead of 1 when attacking.</em>) <br> <span class=\"skill-text skill-blue\">On Play</span> Choose up to 2 of your opponent's Battle Cards with costs of 3 or less and KO them.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 1643,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 172,
+                    "rating": 4,
+                    "userID": "c44e288c-9ae0-4e9c-861b-182e694166d2"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 1,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 1.5,
+                    "userID": "b0aacbe4-c4ef-4ab0-aea1-0ab3e2d1145e"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 0.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 3,
+                    "userID": "74138378-c01b-4567-a46d-80ff1eeab11d"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 4.5,
+                    "userID": "4c64d4b4-9950-4e47-8816-61bc1216e99f"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 5,
+                    "userID": "beea0913-4ceb-487f-8ca6-0d2bc42d2dd7"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 5,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 5,
+                    "userID": "5541bf52-09b0-4eaf-82c1-58b64c09f249"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 5,
+                    "userID": "34b106ca-ba0f-41f6-9f79-3cd4f5bc01d7"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 4.5,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 172,
+                    "rating": 4,
+                    "userID": "33513fcb-5a9e-4038-86f9-266a1b8eb902"
+                },
+                {
+                    "card_id": "172",
+                    "rating": 3,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "153",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 366,
+            "card_color": "Blue",
+            "card_number": "FB02-059",
+            "card_energy_cost": 4,
+            "card_front_name": "Vegeta",
+            "card_front_power": "(Blue)",
+            "card_front_trait": "30000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">When Attacking</span> If your Leader is &lt;Trunks : Future&gt;, look at the bottom card of your deck and play up to 1 blue Battle Card with a cost of 2 or less. Place the rest at the bottom of your deck.",
+            "card_back_skill": "undefined",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 343,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 366,
+                    "rating": 3.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 366,
+                    "rating": 5,
+                    "userID": "502a1ab6-11d5-4191-bc11-54c5e4d1f193"
+                },
+                {
+                    "card_id": 366,
+                    "rating": 2.5,
+                    "userID": "2c05996a-cd3f-45e8-beb7-c55aadbfcc78"
+                },
+                {
+                    "card_id": 366,
+                    "rating": 0.5,
+                    "userID": "7c5c59dc-60be-44d9-bfa7-4639fc61b82c"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 318,
+            "card_color": "Green",
+            "card_number": "FB02-077",
+            "card_energy_cost": 4,
+            "card_front_name": "Android 17/Android 18",
+            "card_front_power": "20000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Place 2 cards from your energy in your Drop: If your Leader is &lt;Android 17&gt;, add up to 3 cards with ≪Android≫ in their special traits from your Drop to your energy.",
+            "card_back_skill": "",
+            "card_rarity": "R",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 469,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": "318",
+                    "rating": 4.5,
+                    "userID": "1ed42520-8464-4feb-8800-734c93255dc5"
+                },
+                {
+                    "card_id": 318,
+                    "rating": 3.5,
+                    "userID": "a17688f9-303d-4b6b-b937-5593843e8771"
+                },
+                {
+                    "card_id": 318,
+                    "rating": 3,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": "318",
+                    "rating": 5,
+                    "userID": "f6a50b36-4d6f-49b6-872d-43e84082310d"
+                },
+                {
+                    "card_id": "318",
+                    "rating": 4,
+                    "userID": "5d0eda72-f44d-4aa4-8efc-e472b940dede"
+                },
+                {
+                    "card_id": 318,
+                    "rating": 3,
+                    "userID": "325b919b-dff9-409b-8e49-b2d791165191"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 375,
+            "card_color": "Green",
+            "card_number": "FB02-071",
+            "card_energy_cost": 1,
+            "card_front_name": "Kami",
+            "card_front_power": "(Green)",
+            "card_front_trait": "5000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Choose up to 1 of your opponent's Battle Cards with a cost of 1 or less and KO it.",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 395,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 375,
+                    "rating": 2,
+                    "userID": "cbcd18a5-9dd8-4466-8531-da307801245e"
+                },
+                {
+                    "card_id": "375",
+                    "rating": 3.5,
+                    "userID": "f6a50b36-4d6f-49b6-872d-43e84082310d"
+                },
+                {
+                    "card_id": "375",
+                    "rating": 4.5,
+                    "userID": "5d0eda72-f44d-4aa4-8efc-e472b940dede"
+                },
+                {
+                    "card_id": "375",
+                    "rating": 2,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": 375,
+                    "rating": 3.5,
+                    "userID": "325b919b-dff9-409b-8e49-b2d791165191"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 173,
+            "card_color": "Green",
+            "card_number": "FB01-079",
+            "card_energy_cost": 2,
+            "card_front_name": "Android 18",
+            "card_front_power": "20000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Draw 1 card. Then, discard 1 card from your hand. <br> <span class=\"skill-text skill-blue\">When Attacking</span> If you have 6 or more energy, draw 1 card.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1911,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 173,
+                    "rating": 0.5,
+                    "userID": "b0aacbe4-c4ef-4ab0-aea1-0ab3e2d1145e"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 5,
+                    "userID": "c44e288c-9ae0-4e9c-861b-182e694166d2"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 3.5,
+                    "userID": "6fbec963-3ac4-4fcd-b178-16d92939e167"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 4,
+                    "userID": "d53fa2d8-1a4e-4ff3-adc1-2cbd45af17b8"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 3,
+                    "userID": "74138378-c01b-4567-a46d-80ff1eeab11d"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 4.5,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 5,
+                    "userID": "3328543c-4f7a-464c-92b0-1ef09a0d36aa"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 5,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 5,
+                    "userID": "5541bf52-09b0-4eaf-82c1-58b64c09f249"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 1,
+                    "userID": "825c634f-2dfe-4b6e-a1a9-7eece5ee4ed4"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 4.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 2.5,
+                    "userID": "4f23a49e-64e2-43e9-8e17-d7b79cba7ed2"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 3.5,
+                    "userID": "33513fcb-5a9e-4038-86f9-266a1b8eb902"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 5,
+                    "userID": "44962d76-3a3f-40e8-8473-226db4446c42"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 5,
+                    "userID": "f7330c41-7e20-48c0-891b-1b1faf257b92"
+                },
+                {
+                    "card_id": 173,
+                    "rating": 4,
+                    "userID": "367b96dc-6e73-41c4-a80b-17867f5cefc3"
+                },
+                {
+                    "card_id": "173",
+                    "rating": 4,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": "173",
+                    "rating": 4,
+                    "userID": "5d0eda72-f44d-4aa4-8efc-e472b940dede"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "154",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 30,
+            "card_color": "Green",
+            "card_number": "FB01-085",
+            "card_energy_cost": 1,
+            "card_front_name": "Son Goku",
+            "card_front_power": "5000",
+            "card_front_trait": "Saiyan",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Draw 1 card.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1325,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 30,
+                    "rating": 4,
+                    "userID": "2c05996a-cd3f-45e8-beb7-c55aadbfcc78"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 5,
+                    "userID": "cb3b035d-ac21-4af3-bd78-9d3a04889111"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 4,
+                    "userID": "d53fa2d8-1a4e-4ff3-adc1-2cbd45af17b8"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 2,
+                    "userID": "bc3bc796-073c-4d54-bec6-e7f389591df9"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 4.5,
+                    "userID": "8cd4729a-f5e7-4a93-b8a6-dcc3a289d908"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 3.5,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 4.5,
+                    "userID": "77418752-a80e-4603-aa8a-a7d147094d2d"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 4,
+                    "userID": "e26be7ef-dee2-4d71-bc6c-7bbcbc33ba7e"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 0.5,
+                    "userID": "e3f61d87-88a1-4ecb-9816-8d1b1b911d71"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 4.5,
+                    "userID": "f7330c41-7e20-48c0-891b-1b1faf257b92"
+                },
+                {
+                    "card_id": 30,
+                    "rating": 4,
+                    "userID": "6d9de69e-f3bc-4bda-bc3f-4e8138ac546e"
+                },
+                {
+                    "card_id": "30",
+                    "rating": 5,
+                    "userID": "33513fcb-5a9e-4038-86f9-266a1b8eb902"
+                },
+                {
+                    "card_id": "30",
+                    "rating": 2,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "160",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 63,
+            "card_color": "Blue",
+            "card_number": "FB01-036",
+            "card_energy_cost": null,
+            "card_front_name": "Trunks: Future",
+            "card_front_power": "15000",
+            "card_front_trait": "Saiyan/Earthling",
+            "card_back_name": "Trunks: Future",
+            "card_back_power": "20000",
+            "card_back_trait": "Saiyan/Earthling",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card. <br> <span class=\"skill-text skill-yellow\">Awaken</span> When your life is at 4 or less, draw 1 card. Then, flip this card over.",
+            "card_back_skill": "<span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card. <br> <span class=\"skill-text skill-orange\">Activate: Main</span><span class=\"skill-text skill-red\">Once per turn</span> Choose up to 1 Battle Card with a cost of 3 or less and return it to its owner's hand.",
+            "card_rarity": "L",
+            "card_type": "LEADER",
+            "card_combo_power": "",
+            "view_count": 357,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 63,
+                    "rating": 1.5,
+                    "userID": "fd8adb71-75a5-4178-b795-ee0679e95221"
+                },
+                {
+                    "card_id": 63,
+                    "rating": 5,
+                    "userID": "6fbec963-3ac4-4fcd-b178-16d92939e167"
+                },
+                {
+                    "card_id": 63,
+                    "rating": 4.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 63,
+                    "rating": 4.5,
+                    "userID": "3328543c-4f7a-464c-92b0-1ef09a0d36aa"
+                },
+                {
+                    "card_id": 63,
+                    "rating": 1.5,
+                    "userID": "129f9655-aee7-41e6-bcfc-f7f9ef6d39d2"
+                },
+                {
+                    "card_id": "63",
+                    "rating": 4,
+                    "userID": "298efdfd-93c3-45f9-ae6e-af2ef46641cd"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "108",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 335,
+            "card_color": "Red",
+            "card_number": "FB02-014",
+            "card_energy_cost": 1,
+            "card_front_name": "Sidra",
+            "card_front_power": "(Red)",
+            "card_front_trait": "15000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Choose up to 1 of your opponent's Battle Cards with 5000 power or less and KO it.",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 182,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 335,
+                    "rating": 0.5,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 327,
+            "card_color": "Red",
+            "card_number": "FB02-005",
+            "card_energy_cost": 3,
+            "card_front_name": "Ganos",
+            "card_front_power": "(Red)",
+            "card_front_trait": "20000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-pink\">Permanent</span> This card gets +25000 power while it's in a battle with an opponent's Battle Card.",
+            "card_back_skill": "undefined",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 205,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 327,
+                    "rating": 1.5,
+                    "userID": "502a1ab6-11d5-4191-bc11-54c5e4d1f193"
+                },
+                {
+                    "card_id": 327,
+                    "rating": 4,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                },
+                {
+                    "card_id": 327,
+                    "rating": 3.5,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 87,
+            "card_color": "Green",
+            "card_number": "FS03-07",
+            "card_energy_cost": 2,
+            "card_front_name": "Paragus",
+            "card_front_power": "15000",
+            "card_front_trait": "Saiyan",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Add up to 1 card from your life to you hand. <br> <span class=\"skill-text skill-blue\">When Attacking</span> If your Leader is &lt;Broly&gt; and you have no &lt;Shamoian&gt; Battle Cards, play up to 1 &lt;Shamoian&gt; with a cost of 1 from your Drop.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 918,
+            "card_series": "FS03",
+            "ratings": [
+                {
+                    "card_id": 87,
+                    "rating": 4,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 87,
+                    "rating": 1.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 87,
+                    "rating": 2.5,
+                    "userID": "23a9f1d8-f210-4df9-901b-1fdb16eef47a"
+                },
+                {
+                    "card_id": 87,
+                    "rating": 3,
+                    "userID": "f49b957d-48f0-4f45-ba88-61f59885da0e"
+                },
+                {
+                    "card_id": 87,
+                    "rating": 5,
+                    "userID": "d53fa2d8-1a4e-4ff3-adc1-2cbd45af17b8"
+                },
+                {
+                    "card_id": 87,
+                    "rating": 1.5,
+                    "userID": "6818acbd-2b6e-40d4-b090-df542ba81205"
+                },
+                {
+                    "card_id": "87",
+                    "rating": 4,
+                    "userID": "cbcd18a5-9dd8-4466-8531-da307801245e"
+                },
+                {
+                    "card_id": "87",
+                    "rating": 4.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "43",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 358,
+            "card_color": "Blue",
+            "card_number": "FB02-051",
+            "card_energy_cost": 4,
+            "card_front_name": "Son Goku",
+            "card_front_power": "(Blue)",
+            "card_front_trait": "30000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span><span class=\"skill-text skill-red\">Once per turn</span> Discard 3 cards with 《Saiyan》 in their special traits from your hand : Switch this card to Active Mode and this card gets +25000 power for the turn.",
+            "card_back_skill": "undefined",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 246,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 358,
+                    "rating": 5,
+                    "userID": "075eb40d-7def-49b2-a406-7ba8f1554b64"
+                },
+                {
+                    "card_id": 358,
+                    "rating": 3.5,
+                    "userID": "502a1ab6-11d5-4191-bc11-54c5e4d1f193"
+                },
+                {
+                    "card_id": 358,
+                    "rating": 5,
+                    "userID": "0640d33f-35b2-424e-97fc-66d248ef68b3"
+                },
+                {
+                    "card_id": 358,
+                    "rating": 2.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 416,
+            "card_color": "Yellow",
+            "card_number": "FB02-131",
+            "card_energy_cost": 3,
+            "card_front_name": "Vegeta",
+            "card_front_power": "(Yellow)",
+            "card_front_trait": "25000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "undefined",
+            "card_back_skill": "undefined",
+            "card_rarity": "C",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 31,
+            "card_series": "FB02",
+            "ratings": [],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 88,
+            "card_color": "Green",
+            "card_number": "FS03-10",
+            "card_energy_cost": 8,
+            "card_front_name": "Broly: BR",
+            "card_front_power": "45000",
+            "card_front_trait": "Saiyan",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Draw 1 card. Then, choose up to 1 of your opponent's Battle Cards and KO it. <br> <span class=\"skill-text skill-blue\">When Attacking</span><span class=\"skill-text skill-red\">Once per turn</span> Switch this card to Active Mode.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 1234,
+            "card_series": "FS03",
+            "ratings": [
+                {
+                    "card_id": 88,
+                    "rating": 4.5,
+                    "userID": "f6417097-ca40-4a4c-b10e-437874ae963f"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 1,
+                    "userID": "470244da-8c12-4dbf-8913-cffadd0cc8ad"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 3.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 2,
+                    "userID": "4c64d4b4-9950-4e47-8816-61bc1216e99f"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 5,
+                    "userID": "8ece8635-b3a3-49bb-bcb5-ad935f9664d9"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 4.5,
+                    "userID": "43d551ee-65bb-4d70-adac-29c7e18f0589"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 4.5,
+                    "userID": "e592dcda-d7a6-43ad-be3f-29cbfd6ed042"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 4,
+                    "userID": "4f23a49e-64e2-43e9-8e17-d7b79cba7ed2"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 2.5,
+                    "userID": "f2a8cb40-e373-44ba-8adc-2c09f343e0c6"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 5,
+                    "userID": "13fd62aa-2a81-438f-9d21-77d9e25c11fa"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 5,
+                    "userID": "f48f9ba6-48d5-48eb-8211-2d127f7ad459"
+                },
+                {
+                    "card_id": 88,
+                    "rating": 5,
+                    "userID": "6d9de69e-f3bc-4bda-bc3f-4e8138ac546e"
+                },
+                {
+                    "card_id": "88",
+                    "rating": 5,
+                    "userID": "ec47e889-8ee2-4355-8285-3ed3cb606376"
+                },
+                {
+                    "card_id": "88",
+                    "rating": 4.5,
+                    "userID": "33513fcb-5a9e-4038-86f9-266a1b8eb902"
+                },
+                {
+                    "card_id": "88",
+                    "rating": 4.5,
+                    "userID": "84aed2f8-c33b-4715-a153-3fc8b10ced36"
+                },
+                {
+                    "card_id": "88",
+                    "rating": 3.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "46",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 299,
+            "card_color": "Yellow",
+            "card_number": "FB02-130",
+            "card_energy_cost": 1,
+            "card_front_name": "Bulma",
+            "card_front_power": "5000",
+            "card_front_trait": "Earthling",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Battle</span> Switch this card to Rest Mode: Add up to 1 card from your life to your hand. Then choose one -- <ul> <li> Choose up to 1 of your opponent's Battle Card with a cost of 4 or less and switch it to Rest Mode.</li> <li> If you have a Rest Mode Battle Card with a cost of 3 or more, draw 1 card.</li> </ul>",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 708,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 299,
+                    "rating": 5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 299,
+                    "rating": 5,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                },
+                {
+                    "card_id": 299,
+                    "rating": 4.5,
+                    "userID": "902628c7-2ac6-443e-93a4-f61ec9e39ef3"
+                },
+                {
+                    "card_id": "299",
+                    "rating": 3,
+                    "userID": "fd16cc81-d1ee-4c00-a358-e5215d16587c"
+                },
+                {
+                    "card_id": 299,
+                    "rating": 4,
+                    "userID": "9e370787-8747-4644-a18f-074b8629e7b0"
+                },
+                {
+                    "card_id": "299",
+                    "rating": 5,
+                    "userID": "d3b85c18-1c8d-4bcb-b7b9-9e9b5a4523ab"
+                },
+                {
+                    "card_id": "299",
+                    "rating": 5,
+                    "userID": "4ece7c6b-aeae-48a0-b197-3743af575ea1"
+                },
+                {
+                    "card_id": "299",
+                    "rating": 2.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 170,
+            "card_color": "Green",
+            "card_number": "FB01-074",
+            "card_energy_cost": 6,
+            "card_front_name": "Android 16",
+            "card_front_power": "15000",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-purple-fw\">Blocker</span>(<em>After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.</em>) <br> <span class=\"skill-text skill-blue\">When KO'd</span> Play up to 1 &lt;Son Gohan: Childhood&gt; with a cost of 6 from your Drop.",
+            "card_back_skill": "",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 1365,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 170,
+                    "rating": 2.5,
+                    "userID": "c44e288c-9ae0-4e9c-861b-182e694166d2"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 5,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 4,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 2.5,
+                    "userID": "cbd0056d-afea-408e-a514-d74935706a1a"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 0.5,
+                    "userID": "f0dd33e1-07e0-4720-90ce-da6a089ae86d"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 4,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 4.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 170,
+                    "rating": 1,
+                    "userID": "3b0678ba-2270-4d05-84d6-0141449d7361"
+                },
+                {
+                    "card_id": "170",
+                    "rating": 3,
+                    "userID": "1ea75ba0-f95c-4bb9-9ba1-d91d535a0082"
+                },
+                {
+                    "card_id": "170",
+                    "rating": 4.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": "170",
+                    "rating": 5,
+                    "userID": "dba4e7a3-4808-484f-8517-ba7d7d663e78"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "149",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 157,
+            "card_color": "Red",
+            "card_number": "FB01-027",
+            "card_energy_cost": 2,
+            "card_front_name": "Vegeta",
+            "card_front_power": "20000",
+            "card_front_trait": "Saiyan/Universe 7",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-pink\">Permanent</span><span class=\"skill-text skill-red\">Your Turn</span> This card gets +10000 power while it's in a battle with an opponent's Battle Card.",
+            "card_back_skill": "",
+            "card_rarity": "R",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1298,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 157,
+                    "rating": 5,
+                    "userID": "c44e288c-9ae0-4e9c-861b-182e694166d2"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 4.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 3.5,
+                    "userID": "cb3b035d-ac21-4af3-bd78-9d3a04889111"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 2,
+                    "userID": "a55dee40-aea1-408f-9d40-89567ec70ad3"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 4.5,
+                    "userID": "2c05996a-cd3f-45e8-beb7-c55aadbfcc78"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 0.5,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 3.5,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 4,
+                    "userID": "117a3f41-154e-4c2f-aa33-3df7c4b1ae8f"
+                },
+                {
+                    "card_id": 157,
+                    "rating": 1,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": "157",
+                    "rating": 5,
+                    "userID": "99ba2041-73cc-40e0-a35d-1d9719fc24f0"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "98",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 14,
+            "card_color": "Red",
+            "card_number": "FB01-033",
+            "card_energy_cost": 3,
+            "card_front_name": "Time-Skip",
+            "card_front_power": "",
+            "card_front_trait": "Universe 6",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span> Choose any number of your opponent's Battle Cards that add up to a total power of 35000 or less and KO them.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "EXTRA",
+            "card_combo_power": "",
+            "view_count": 1245,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 14,
+                    "rating": 4,
+                    "userID": "fd8adb71-75a5-4178-b795-ee0679e95221"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 2.5,
+                    "userID": "c72e3f01-af79-4a18-80d3-2f6cf861ed21"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 4,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 3.5,
+                    "userID": "01195553-b3f7-4596-afec-118a9561b66e"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 4,
+                    "userID": "e592dcda-d7a6-43ad-be3f-29cbfd6ed042"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 5,
+                    "userID": "de65b16d-46ad-448d-8c33-0f08b387db2e"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 4,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 4,
+                    "userID": "d82a7b06-7a3a-4c0f-a2a1-298088b29c08"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 3,
+                    "userID": "f3c348cb-1b8b-4f11-a71a-8fd789fd4c63"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 0.5,
+                    "userID": "fcc41a0a-214a-4b78-9976-e5fc2c292054"
+                },
+                {
+                    "card_id": 14,
+                    "rating": 2,
+                    "userID": "1b1d524e-7439-4e70-92cb-257d8fd650e9"
+                },
+                {
+                    "card_id": "14",
+                    "rating": 2,
+                    "userID": "cbcd18a5-9dd8-4466-8531-da307801245e"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "104",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 383,
+            "card_color": "Green",
+            "card_number": "FB02-082",
+            "card_energy_cost": 2,
+            "card_front_name": "Cell",
+            "card_front_power": "(Green)",
+            "card_front_trait": "15000",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span><span class=\"skill-text skill-red\">Once per turn</span> Place 1 card with 《Earthling》 in its special traits from your energy into your Drop : This card gets +15000 power for the turn.",
+            "card_back_skill": "undefined",
+            "card_rarity": "UC",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 368,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 383,
+                    "rating": 4,
+                    "userID": "b0db7b09-6963-424b-89ee-be0472c1a32f"
+                },
+                {
+                    "card_id": 383,
+                    "rating": 2,
+                    "userID": "33513fcb-5a9e-4038-86f9-266a1b8eb902"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 55,
+            "card_color": "Red",
+            "card_number": "FS01-09",
+            "card_energy_cost": 4,
+            "card_front_name": "Son Gohan: Adolescence",
+            "card_front_power": "25000",
+            "card_front_trait": "Saiyan/Earthling/Universe 7",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-purple-fw\">Critical</span><em>(When this card inflicts damage with an attack, the life is placed in the Drop.)</em> <br> <span class=\"skill-text skill-blue\">When Attacking</span> Choose up to 1 of your opponent's Battle Cards an it gets -10000 power for the turn.",
+            "card_back_skill": "",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "5000",
+            "view_count": 1541,
+            "card_series": "FS01",
+            "ratings": [
+                {
+                    "card_id": 55,
+                    "rating": 3.5,
+                    "userID": "fa6d9ee7-ec5f-4a88-b7dd-6fec90776984"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 5,
+                    "userID": "7d865b41-2724-4ad0-9e17-34c605bfd8a2"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 5,
+                    "userID": "89587482-d085-4b12-9551-ccb234ba4b73"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 2.5,
+                    "userID": "117a3f41-154e-4c2f-aa33-3df7c4b1ae8f"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 4,
+                    "userID": "de65b16d-46ad-448d-8c33-0f08b387db2e"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 2.5,
+                    "userID": "af1cd737-f8c0-4ff6-9fd4-f0c9aea16839"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 2,
+                    "userID": "37632d54-fd0a-4e2e-9aa4-3b30b0b387be"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 5,
+                    "userID": "b9c919d9-feae-4cd0-8d00-8f5798a476e0"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 5,
+                    "userID": "727f665e-41de-4ef0-abde-833cfc0cd270"
+                },
+                {
+                    "card_id": "55",
+                    "rating": 0.5,
+                    "userID": "1ea75ba0-f95c-4bb9-9ba1-d91d535a0082"
+                },
+                {
+                    "card_id": "55",
+                    "rating": 1.5,
+                    "userID": "367b96dc-6e73-41c4-a80b-17867f5cefc3"
+                },
+                {
+                    "card_id": "55",
+                    "rating": 5,
+                    "userID": "cbcd18a5-9dd8-4466-8531-da307801245e"
+                },
+                {
+                    "card_id": 55,
+                    "rating": 4,
+                    "userID": "a0666d47-9aaa-4614-9d98-e8aebfe8d22d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "11",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 1,
+            "card_color": "Red",
+            "card_number": "FS01-01",
+            "card_energy_cost": null,
+            "card_front_name": "Son Goku",
+            "card_front_power": "15000",
+            "card_front_trait": "Saiyan/Universe 7",
+            "card_back_name": "Son Goku",
+            "card_back_power": "20000",
+            "card_back_trait": "Saiyan/Universe 7",
+            "card_front_skill": " <span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card. <br> <span class=\"skill-text skill-yellow\">Awaken</span> When your life is at 4 or less, draw 1 card. Then, flip this card over.  ",
+            "card_back_skill": " <span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card. <br> <span class=\"skill-text skill-orange\">Activate: Battle</span><span class=\"skill-text skill-red\">Once per turn</span> Choose up to 1 of your Battle Cards and it gets +5000 power for the battle.  ",
+            "card_rarity": "L",
+            "card_type": "LEADER",
+            "card_combo_power": null,
+            "view_count": 535,
+            "card_series": "FS01",
+            "ratings": [
+                {
+                    "card_id": 1,
+                    "rating": 5,
+                    "userID": "b0aacbe4-c4ef-4ab0-aea1-0ab3e2d1145e"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 1,
+                    "userID": "6fbec963-3ac4-4fcd-b178-16d92939e167"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 1.5,
+                    "userID": "1e417faf-2355-4479-86c1-0761bfb351bf"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 1.5,
+                    "userID": "ea94e628-b000-496d-a509-cd6d0dcaefb9"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 4,
+                    "userID": "129f9655-aee7-41e6-bcfc-f7f9ef6d39d2"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 3,
+                    "userID": "11fb9627-b4cb-44f5-a248-1dba06eb5b5b"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 3.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 1,
+                    "userID": "a1ec5a55-f6bb-4fa8-9151-2e55a998ab64"
+                },
+                {
+                    "card_id": 1,
+                    "rating": 2,
+                    "userID": "ae9e6020-c233-4bfd-92e4-d9999f95ad4f"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "2",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 61,
+            "card_color": "Red",
+            "card_number": "FB01-002",
+            "card_energy_cost": null,
+            "card_front_name": "Beerus",
+            "card_front_power": "15000",
+            "card_front_trait": "God of Destruction/Universe 7",
+            "card_back_name": "Beerus",
+            "card_back_power": "20000",
+            "card_back_trait": "God of Destruction/Universe 7",
+            "card_front_skill": "<span class=\"skill-text skill-purple-fw\">Critical</span>(<em> When this card inflicts damage with an attack, the life is placed in the Drop.</em>) <br> <span class=\"skill-text skill-pink\">Permanent</span><span class=\"skill-text skill-red\">Your Turn</span> This card gets +5000 power. <br> <span class=\"skill-text skill-yellow\">Awaken</span> When your life is at 4 or less, draw 1 card. Then, flip this card over.",
+            "card_back_skill": "<span class=\"skill-text skill-blue\">When Attacking</span> Draw 1 card. <br> <span class=\"skill-text skill-orange\">Activate: Main</span><span class=\"skill-text skill-red\">Once per turn</span> Choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the turn.",
+            "card_rarity": "L",
+            "card_type": "LEADER",
+            "card_combo_power": "",
+            "view_count": 329,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 61,
+                    "rating": 3.5,
+                    "userID": "6fbec963-3ac4-4fcd-b178-16d92939e167"
+                },
+                {
+                    "card_id": 61,
+                    "rating": 4.5,
+                    "userID": "a1ec5a55-f6bb-4fa8-9151-2e55a998ab64"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "72",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 198,
+            "card_color": "Blue",
+            "card_number": "FB01-039",
+            "card_energy_cost": 6,
+            "card_front_name": "Goku Black",
+            "card_front_power": "40000",
+            "card_front_trait": "Saiyan",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Add up to 1 card with a cost of 4 or less from your Drop to your hand.<br><span class=\"skill-text skill-blue\">When Attacking</span> If you have 7 or fewer cards in your hand, play up to 1 Battle Card with a cost of 4 or less from your hand.",
+            "card_back_skill": "undefined",
+            "card_rarity": "SR",
+            "card_type": "BATTLE",
+            "card_combo_power": "0",
+            "view_count": 1500,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 198,
+                    "rating": 2.5,
+                    "userID": "8bcfda3b-fecb-483b-801b-c8c9af96320f"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 3.5,
+                    "userID": "1cf100d6-a85c-4532-b06f-48aebb317e3a"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 5,
+                    "userID": "902628c7-2ac6-443e-93a4-f61ec9e39ef3"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 4.5,
+                    "userID": "0569e4a8-8ff7-496f-96db-1d8f7ae55478"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 4.5,
+                    "userID": "de65b16d-46ad-448d-8c33-0f08b387db2e"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 5,
+                    "userID": "d1540dd7-a681-408b-a9b5-114e01c94abd"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 4.5,
+                    "userID": "23a9f1d8-f210-4df9-901b-1fdb16eef47a"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 4,
+                    "userID": "cdd5653a-aca4-450f-a1de-41d755545761"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 3.5,
+                    "userID": "f1232ed8-e707-4039-9992-ead7247d4258"
+                },
+                {
+                    "card_id": 198,
+                    "rating": 4.5,
+                    "userID": "43024cca-6638-42cf-a97c-5c1b0636e3e4"
+                },
+                {
+                    "card_id": "198",
+                    "rating": 4,
+                    "userID": "0353b4c1-5622-4d04-a8d0-8edebe82ed8c"
+                },
+                {
+                    "card_id": "198",
+                    "rating": 4,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": "198",
+                    "rating": 0.5,
+                    "userID": "4b8a6230-42f7-428a-93c6-6bba8003f9f7"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "112",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 243,
+            "card_color": "Red",
+            "card_number": "FP-005",
+            "card_energy_cost": 2,
+            "card_front_name": "Awakening to Super Saiyan",
+            "card_front_power": null,
+            "card_front_trait": "Saiyan",
+            "card_back_name": null,
+            "card_back_power": null,
+            "card_back_trait": null,
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Main</span> Choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the turn. Then, if your Leader is awakened, the chosen card gets -10000 power for the turn.",
+            "card_back_skill": "undefined",
+            "card_rarity": "PR",
+            "card_type": "EXTRA",
+            "card_combo_power": null,
+            "view_count": 996,
+            "card_series": "PR",
+            "ratings": [
+                {
+                    "card_id": 243,
+                    "rating": 3,
+                    "userID": "01195553-b3f7-4596-afec-118a9561b66e"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 0.5,
+                    "userID": "e592dcda-d7a6-43ad-be3f-29cbfd6ed042"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 3,
+                    "userID": "4b6e8ae3-7f08-488c-887a-ff794492ac2d"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 3,
+                    "userID": "af1cd737-f8c0-4ff6-9fd4-f0c9aea16839"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 3,
+                    "userID": "2c05996a-cd3f-45e8-beb7-c55aadbfcc78"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 4,
+                    "userID": "44962d76-3a3f-40e8-8473-226db4446c42"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 2.5,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 3.5,
+                    "userID": "cbcd18a5-9dd8-4466-8531-da307801245e"
+                },
+                {
+                    "card_id": "243",
+                    "rating": 0.5,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                },
+                {
+                    "card_id": "243",
+                    "rating": 3,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                },
+                {
+                    "card_id": "243",
+                    "rating": 3,
+                    "userID": "026ad58e-0acd-4ed3-b8f4-b3cf5666437c"
+                },
+                {
+                    "card_id": 243,
+                    "rating": 0.5,
+                    "userID": "4e42eb6f-60ab-441c-853c-5bc052f5794f"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "222",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 80,
+            "card_color": "Blue",
+            "card_number": "FS02-15",
+            "card_energy_cost": 1,
+            "card_front_name": "Galick Gun",
+            "card_front_power": "",
+            "card_front_trait": "Saiyan",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Battle</span> Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle. Then, if you have 7 or fewer cards in your hand, draw 1 card.",
+            "card_back_skill": "",
+            "card_rarity": "C",
+            "card_type": "EXTRA",
+            "card_combo_power": "",
+            "view_count": 1161,
+            "card_series": "FS02",
+            "ratings": [
+                {
+                    "card_id": 80,
+                    "rating": 2,
+                    "userID": "cb3b035d-ac21-4af3-bd78-9d3a04889111"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 5,
+                    "userID": "f0093589-4eb9-40a3-aa86-9a7a9148a508"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 4,
+                    "userID": "2c05996a-cd3f-45e8-beb7-c55aadbfcc78"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 1.5,
+                    "userID": "eb1d2371-e105-4eaa-9be0-6f8865179620"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 2.5,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 4,
+                    "userID": "4f23a49e-64e2-43e9-8e17-d7b79cba7ed2"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 3,
+                    "userID": "187df209-d993-4376-bd92-922f859bd210"
+                },
+                {
+                    "card_id": 80,
+                    "rating": 4,
+                    "userID": "de5f1821-9923-44e9-8854-f6c31e81b1bd"
+                },
+                {
+                    "card_id": "80",
+                    "rating": 4,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "34",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 305,
+            "card_color": "Red",
+            "card_number": "FB02-026",
+            "card_energy_cost": 4,
+            "card_front_name": "Heles",
+            "card_front_power": "25000",
+            "card_front_trait": "God of Destruction/Universe 2",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-blue\">On Play</span> Choose up to 1 of your opponent's Battle Cards with 30000 power or more and it gets -20000 power for the turn.",
+            "card_back_skill": "",
+            "card_rarity": "R",
+            "card_type": "BATTLE",
+            "card_combo_power": "10000",
+            "view_count": 275,
+            "card_series": "FB02",
+            "ratings": [
+                {
+                    "card_id": 305,
+                    "rating": 0.5,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": null,
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 178,
+            "card_color": "Green",
+            "card_number": "FB01-100",
+            "card_energy_cost": 1,
+            "card_front_name": "Brother-Sister Combination",
+            "card_front_power": "",
+            "card_front_trait": "Android",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-orange\">Activate: Battle</span><span class=\"skill-text skill-red\">Opponent's Turn</span> Choose your Leader or up to 1 of your Battle Cards and it gets +20000 power for the battle. Then, if you have 15 or more cards in your Drop, add up to 1 card with a cost of 3 or more from your Drop to your energy in Rest Mode.",
+            "card_back_skill": "",
+            "card_rarity": "UC",
+            "card_type": "EXTRA",
+            "card_combo_power": "",
+            "view_count": 1566,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 178,
+                    "rating": 3.5,
+                    "userID": "fd8adb71-75a5-4178-b795-ee0679e95221"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 3.5,
+                    "userID": "9d48dd1a-3347-4546-83c1-b9192ba0803a"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4.5,
+                    "userID": "1cf100d6-a85c-4532-b06f-48aebb317e3a"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 1.5,
+                    "userID": "4c64d4b4-9950-4e47-8816-61bc1216e99f"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4,
+                    "userID": "5541bf52-09b0-4eaf-82c1-58b64c09f249"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4,
+                    "userID": "d53fa2d8-1a4e-4ff3-adc1-2cbd45af17b8"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 3.5,
+                    "userID": "68595214-ca84-4126-9135-da7f7058aa10"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4.5,
+                    "userID": "83760de9-f306-4ca3-88e8-b25624a71b49"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 5,
+                    "userID": "e3caafb8-09ec-491a-a5d1-32121a036091"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 4.5,
+                    "userID": "4f23a49e-64e2-43e9-8e17-d7b79cba7ed2"
+                },
+                {
+                    "card_id": 178,
+                    "rating": 5,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": "178",
+                    "rating": 5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "175",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        },
+        {
+            "id": 146,
+            "card_color": "Green",
+            "card_number": "FB01-103",
+            "card_energy_cost": 2,
+            "card_front_name": "Big Bang Attack",
+            "card_front_power": "",
+            "card_front_trait": "Saiyan",
+            "card_back_name": "",
+            "card_back_power": "",
+            "card_back_trait": "",
+            "card_front_skill": "<span class=\"skill-text skill-pink\">Permanent</span> If you have 6 or more energy, reduce the cost of this card in your hand by 1. <br> <span class=\"skill-text skill-orange\">Activate: Main</span> Place 1 of your energy in your Drop: Choose up to 1 of your opponent's Battle Cards with a cost of 5 or less and KO it.",
+            "card_back_skill": "",
+            "card_rarity": "UC",
+            "card_type": "EXTRA",
+            "card_combo_power": "",
+            "view_count": 1833,
+            "card_series": "FB01",
+            "ratings": [
+                {
+                    "card_id": 146,
+                    "rating": 3,
+                    "userID": "c44e288c-9ae0-4e9c-861b-182e694166d2"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 4.5,
+                    "userID": "078b3b9b-855d-4ab6-a59f-8dc172e53e4d"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 4.5,
+                    "userID": "d53fa2d8-1a4e-4ff3-adc1-2cbd45af17b8"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 1,
+                    "userID": "c52e11c6-c828-4038-97b9-a8dcc77a74ea"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 5,
+                    "userID": "cb3b035d-ac21-4af3-bd78-9d3a04889111"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 2,
+                    "userID": "1cf100d6-a85c-4532-b06f-48aebb317e3a"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 0.5,
+                    "userID": "4c64d4b4-9950-4e47-8816-61bc1216e99f"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 3,
+                    "userID": "825c634f-2dfe-4b6e-a1a9-7eece5ee4ed4"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 3.5,
+                    "userID": "fe8315e4-bdd0-455d-972a-d2d0362e6b0d"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 4.5,
+                    "userID": "50e9c482-fa6f-4d41-b794-395439fad3f7"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 4.5,
+                    "userID": "44962d76-3a3f-40e8-8473-226db4446c42"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 3.5,
+                    "userID": "7a26b114-cac6-499b-abb9-979650d3cb7c"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 1.5,
+                    "userID": "23a9f1d8-f210-4df9-901b-1fdb16eef47a"
+                },
+                {
+                    "card_id": 146,
+                    "rating": 4,
+                    "userID": "6d9de69e-f3bc-4bda-bc3f-4e8138ac546e"
+                },
+                {
+                    "card_id": "146",
+                    "rating": 4.5,
+                    "userID": "2815704a-4159-4ba3-96f4-51abc940784a"
+                }
+            ],
+            "sort": null,
+            "is_banned": null,
+            "is_limited": null,
+            "has_errata": null,
+            "limited_to": 4,
+            "errata_back": null,
+            "errata_front": null,
+            "digital_card_code": "178",
+            "card_front_skill_unstyled": null,
+            "card_back_skill_unstyled": null,
+            "variant_of": null
+        }
+    ]
+}
