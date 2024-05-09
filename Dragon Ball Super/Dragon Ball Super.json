@@ -158,7 +158,7 @@
   "extras": [
     {
       "group": "Leader",
-      "property": "cardType",
+      "property": "card_type",
       "value": "LEADER"
     }
   ],
