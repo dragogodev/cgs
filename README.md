@@ -28,6 +28,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 ## Candidates for Implementation
 - Lorcana
 - One Piece TCG
+- Battle Spirits Saga
 - Sorcery: Contested Realm
 - Nostalgix
 - MetaZoo
