@@ -1,4 +1,4 @@
-1 [FS01-01] Son Goku // Son Goku
+1 [FS01-01] Son Goku
 4 [FS01-02] Whis
 4 [FS01-03] Master Roshi
 2 [FS01-04] Krillin
