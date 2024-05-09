@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/dbs-deckplanet-api.com/items/fw_cards?limit=400",
+  "allCardsUrl": "https://cgs.games/api/proxy/dbs-deckplanet-api.com/items/fw_cards?limit=10000",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/Dragon%20Ball%20Super%20Fusion%20World.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/www.dbs-cardgame.com/fw/images/common/logo_fw2.png",
   "cardBackImageFileType": "jpg",
