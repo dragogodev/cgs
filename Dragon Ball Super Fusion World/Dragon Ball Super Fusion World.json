@@ -135,5 +135,6 @@
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 6,
   "name": "Dragon Ball Super Fusion World",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/PlayMat.png",
   "rulesUrl": "https://www.dbs-cardgame.com/fw/en/news/01_31.html"
 }
