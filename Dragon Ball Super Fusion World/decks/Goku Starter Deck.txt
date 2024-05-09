@@ -1,0 +1,16 @@
+1 [FS01-01] Son Goku // Son Goku
+4 [FS01-02] Whis
+4 [FS01-03] Master Roshi
+2 [FS01-04] Krillin
+4 [FS01-05] Shin
+4 [FS01-06] Android 17
+4 [FS01-07] Android 18
+2 [FS01-08] Son Goku
+2 [FS01-09] Son Gohan: Adolescence
+4 [FS01-10] Tien Shinhan
+4 [FS01-11] Piccolo
+2 [FS01-12] Beerus
+4 [FS01-13] Frieza
+4 [FS01-14] Vegeta
+2 [FS01-15] Kamehameha
+4 [FS01-16] God Kamehameha

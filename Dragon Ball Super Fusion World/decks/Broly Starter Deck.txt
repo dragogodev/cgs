@@ -1,0 +1,16 @@
+1 [FS03-01] Broly // Broly
+4 [FS03-02] Angol
+4 [FS03-03] Shamoian
+2 [FS03-04] Turles
+4 [FS03-05] Nappa
+4 [FS03-06] Paragus
+2 [FS03-07] Paragus
+4 [FS03-08] Broly
+4 [FS03-09] Broly
+2 [FS03-10] Broly: BR
+2 [FS03-11] Vegeta
+4 [FS03-12] King Vegeta
+4 [FS03-13] Moah
+4 [FS03-14] Raditz
+2 [FS03-15] Gigantic Meteor
+4 [FS03-16] Destructive Strength

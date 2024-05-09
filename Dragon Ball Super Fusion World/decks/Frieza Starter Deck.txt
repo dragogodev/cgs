@@ -1,0 +1,16 @@
+1 [FS04-01] Frieza // Frieza
+4 [FS04-02] Cui
+2 [FS04-03] Golden Frieza
+2 [FS04-04] King Cold
+2 [FS04-05] Zarbon
+4 [FS04-06] Shisami
+4 [FS04-07] Sorbet
+4 [FS04-08] Tagoma
+4 [FS04-09] Cheelai: BR
+4 [FS04-10] Dodoria
+4 [FS04-11] Frieza
+2 [FS04-12] Frieza
+4 [FS04-13] Frieza
+4 [FS04-14] Lemo: BR
+4 [FS04-15] Golden Death Beam
+2 [FS04-16] Death Ball
