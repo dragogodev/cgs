@@ -8,6 +8,7 @@
   "cardIdIdentifier": "card_number",
   "cardImageUrl": "https://cgs.games/api/proxy/dbs-deckplanet.us-southeast-1.linodeobjects.com/deckplanet_card_images/{cardId}.png",
   "cardNameIdentifier": "card_front_name",
+  "cardNameIsUnique": false,
   "cardPrimaryProperty": "card_front_skill",
   "cardProperties": [
     {
