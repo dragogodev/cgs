@@ -1,4 +1,4 @@
-1 [FS02-01] Vegeta // Vegeta
+1 [FS02-01] Vegeta
 4 [FS02-02] Gotenks
 2 [FS02-03] Gotenks
 4 [FS02-04] Son Goku
