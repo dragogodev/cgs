@@ -7,9 +7,10 @@
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "card_number",
   "cardImageUrl": "https://cgs.games/api/proxy/dbs-deckplanet.us-southeast-1.linodeobjects.com/deckplanet_card_images/{cardId}.png",
+  "cardNameBackIdentifier": "card_back_name",
   "cardNameIdentifier": "card_front_name",
   "cardNameIsUnique": false,
-  "cardPrimaryProperty": "card_front_skill",
+  "cardPrimaryProperty": "skill",
   "cardProperties": [
     {
       "name": "card_type",
@@ -29,21 +30,27 @@
       "type": "string"
     },
     {
-      "name": "card_front_skill",
+      "name": "skill",
       "display": "Skill",
-      "type": "string"
+      "type": "string",
+      "backName": "card_back_skill",
+      "frontName": "card_front_skill"
     },
     {
-      "name": "errata_front",
+      "name": "errata",
       "display": "Errata",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "string",
+      "backName": "errata_back",
+      "frontName": "errata_front"
     },
     {
-      "name": "card_front_power",
+      "name": "power",
       "display": "Power",
       "displayEmpty": "-",
-      "type": "integer"
+      "type": "integer",
+      "backName": "card_back_power",
+      "frontName": "card_front_power"
     },
     {
       "name": "card_combo_power",
@@ -52,10 +59,12 @@
       "type": "integer"
     },
     {
-      "name": "card_front_trait",
+      "name": "trait",
       "display": "Trait(s)",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "string",
+      "backName": "card_back_trait",
+      "frontName": "card_front_trait"
     },
     {
       "name": "card_rarity",
@@ -133,6 +142,138 @@
     }
   ],
   "gameDefaultCardAction": "tap",
+	"gamePlayDeckPositions": [
+		{
+			"x": 14.5,
+			"y": -8.75
+		},
+		{
+			"x": -14.5,
+			"y": -3.75
+		},
+		{
+			"x": -14.5,
+			"y": 8.75
+		},
+		{
+			"x": 14.5,
+			"y": 3.75
+		}
+	],
+	"gamePlayZones": [
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 2.6,
+				"y": -3.4
+			},
+			"rotation": 0,
+			"size": {
+				"x": 27.75,
+				"y": 4.5
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0.3,
+				"y": -8.35
+			},
+			"rotation": 0,
+			"size": {
+				"x": 23.25,
+				"y": 4.5
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0.3,
+				"y": -13.25
+			},
+			"rotation": 0,
+			"size": {
+				"x": 23.25,
+				"y": 4.5
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -17,
+				"y": -6
+			},
+			"rotation": 0,
+			"size": {
+				"x": 5.5,
+				"y": 9.5
+			},
+			"type": "vertical"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -2.6,
+				"y": 3.4
+			},
+			"rotation": 180,
+			"size": {
+				"x": 28,
+				"y": 4.5
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -0.3,
+				"y": 8.35
+			},
+			"rotation": 180,
+			"size": {
+				"x": 23.25,
+				"y": 4.5
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -0.3,
+				"y": 13.25
+			},
+			"rotation": 180,
+			"size": {
+				"x": 23.25,
+				"y": 4.5
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 17.25,
+				"y": 6
+			},
+			"rotation": 180,
+			"size": {
+				"x": 5.5,
+				"y": 9.5
+			},
+			"type": "vertical"
+		}
+	],
   "gameStartHandCount": 6,
   "name": "Dragon Ball Super Fusion World",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/PlayMat.png",
