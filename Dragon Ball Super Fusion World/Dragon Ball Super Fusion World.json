@@ -205,7 +205,7 @@
 		},
 		{
 			"defaultCardAction": "tap",
-			"face": "up",
+			"face": "down",
 			"position": {
 				"x": -17,
 				"y": -6
@@ -261,7 +261,7 @@
 		},
 		{
 			"defaultCardAction": "tap",
-			"face": "up",
+			"face": "down",
 			"position": {
 				"x": 17.25,
 				"y": 6
