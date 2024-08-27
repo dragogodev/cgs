@@ -5,7 +5,7 @@
   "allCardsUrlPageIdentifier": "&page=",
   "allSetsUrl": "https://cgs.games/api/proxy/api.scryfall.com/sets",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json",
-  "bannerImageUrl": "https://cgs.games/api/proxy/media.wizards.com/2018/company/MTG_Logo.png",
+  "bannerImageUrl": "https://1000logos.net/wp-content/uploads/2022/10/Magic-The-Gathering-logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Magic_card_back.jpg/revision/latest",
   "cardDataIdentifier": "data",
