@@ -30,9 +30,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - One Piece TCG
 - Battle Spirits Saga
 - Lorcana
-- Sorcery: Contested Realm
-- Nostalgix
-- MetaZoo
 - Force of Will
 - Weiss Schwarz
 - WIXOSS
