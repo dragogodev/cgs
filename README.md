@@ -28,8 +28,8 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 ## Candidates for Implementation
 - Star Wars Unlimited
 - One Piece TCG
-- Battle Spirits Saga
 - Lorcana
+- Battle Spirits Saga
 - Force of Will
 - Weiss Schwarz
 - WIXOSS
