@@ -59,6 +59,11 @@
       "name": "rarity",
       "display": "Rarity",
       "type": "string"
+    },
+    {
+      "name": "image_url",
+      "display": "Image Url",
+      "type": "string"
     }
   ],
   "cardSetIdentifier": "set_id",
