@@ -1,106 +1,70 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/api.fabdb.net/cards",
-  "allCardsUrlPageCountIdentifier": "meta.last_page",
+  "allCardsUrl": "https://the-fab-cube.github.io/flesh-and-blood-cards/json/english/card-flattened.json",
+  "allSetsUrl": "https://the-fab-cube.github.io/flesh-and-blood-cards/json/english/set.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/website/img/fab_logo.png",
   "cardBackImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/media/images/cardback_3mm_63x88.width-300.png",
-  "cardDataIdentifier": "data",
-  "cardIdIdentifier": "identifier",
-  "cardImageProperty": "image",
+  "cardIdIdentifier": "id",
+  "cardImageProperty": "image_url",
   "cardNameIsUnique": false,
-  "cardPrimaryProperty": "text",
+  "cardPrimaryProperty": "functional_text_plain",
   "cardProperties": [
     {
-      "name": "text",
+      "name": "functional_text_plain",
       "display": "Card Text",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "keywords",
+      "name": "card_keywords",
       "display": "Class, Card Type(s), and Keyword(s)",
       "type": "stringList"
     },
     {
-      "name": "stats",
-      "display": "Stats",
-      "displayEmpty": "NONE or N/A",
-      "type": "object",
-      "properties": [
-        {
-          "name": "resource",
-          "display": "Pitch",
-          "type": "integer"
-        },
-        {
-          "name": "life",
-          "display": "Life",
-          "displayEmpty": "N/A",
-          "type": "string"
-        },
-        {
-          "name": "intellect",
-          "display": "Intellect",
-          "displayEmpty": "N/A",
-          "type": "string"
-        },
-        {
-          "name": "attack",
-          "display": "Attack",
-          "displayEmpty": "0 or N/A",
-          "type": "string"
-        },
-        {
-          "name": "defense",
-          "display": "Defense",
-          "displayEmpty": "0 or N/A",
-          "type": "string"
-        },
-        {
-          "name": "cost",
-          "display": "Cost",
-          "displayEmpty": "0 or N/A",
-          "type": "string"
-        }
-      ]
+      "name": "pitch",
+      "display": "Pitch",
+      "type": "integer"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "0 or N/A",
+      "type": "string"
+    },
+    {
+      "name": "health",
+      "display": "Health",
+      "displayEmpty": "N/A",
+      "type": "string"
+    },
+    {
+      "name": "intelligence",
+      "display": "Intelligence",
+      "displayEmpty": "N/A",
+      "type": "string"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "displayEmpty": "0 or N/A",
+      "type": "string"
+    },
+    {
+      "name": "defense",
+      "display": "Defense",
+      "displayEmpty": "0 or N/A",
+      "type": "string"
     },
     {
       "name": "rarity",
       "display": "Rarity",
-      "type": "stringEnum"
-    },
-    {
-      "name": "banned",
-      "display": "Banned?",
-      "type": "boolean"
-    },
-    {
-      "name": "rulings.description",
-      "display": "Rulings",
-      "type": "stringList"
+      "type": "string"
     }
   ],
-  "cardSetIdentifier": "printings",
-  "cardSetIsObject": true,
-  "cardSetsInList": true,
+  "cardSetIdentifier": "set_id",
   "cgsGamesLink": "https://cgs.games/dragogodev/flesh_and_blood",
   "copyright": "Legendary Story Studios",
   "deckSharePreference": "individual",
-  "enums": [
-    {
-      "property": "rarity",
-      "values": {
-        "C": "Common",
-        "R": "Rare",
-        "S": "Super Rare",
-        "T": "Token",
-        "M": "Majestic",
-        "L": "Legendary",
-        "F": "Fabled",
-        "P": "Promo"
-      }
-    }
-  ],
   "extras": [
     {
       "group": "Hero",
@@ -122,6 +86,6 @@
   "gameStartPointsCount": 30,
   "name": "Flesh and Blood",
   "setCodeIdentifier": "id",
-  "setNameIdentifier": "set",
+  "setNameIdentifier": "name",
   "rulesUrl": "https://fabtcg.com/resources/rules-and-policy-center/"
 }
