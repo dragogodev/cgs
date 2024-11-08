@@ -7,6 +7,12 @@
   "cardImageProperty": "",
   "cardPrimaryProperty": "",
   "cardProperties": [
+    {
+      "name": "",
+      "display": "Text",
+      "displayEmpty": "-",
+      "type": "string"
+    }
   ],
   "cardSetIdentifier": "",
   "cgsGamesLink": "https://cgs.games/dragogodev/",
