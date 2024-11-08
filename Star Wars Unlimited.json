@@ -1,0 +1,27 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/api.swu-db.com/cards/sor",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/Star%20Wars%20Unlimited.json",
+  "bannerImageUrl": "https://static.wikia.nocookie.net/starwars/images/a/a3/SWUnlimitedLogo.png/revision/latest",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/oasisgamesslc.com/img/product/starwars/cardback.png",
+  "cardDataIdentifier": "data",
+  "cardIdIdentifier": "Number",
+  "cardImageProperty": "FrontArt",
+  "cardNameIdentifier": "Name",
+  "cardPrimaryProperty": "FrontText",
+  "cardProperties": [
+    {
+      "name": "FrontText",
+      "display": "Text",
+      "displayEmpty": "-",
+      "type": "string"
+    }
+  ],
+  "cardSetIdentifier": "Set",
+  "cgsGamesLink": "https://cgs.games/dragogodev/star_wars_unlimited",
+  "copyright": "Fantasy Flight Publishing, Inc",
+  "deckSharePreference": "individual",
+  "gameStartHandCount": 6,
+  "gameStartPointsCount": 30,
+  "name": "Star Wars Unlimited",
+  "rulesUrl": "https://starwarsunlimited.com/how-to-play?chapter=how-to-play"
+}
