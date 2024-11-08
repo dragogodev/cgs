@@ -23,6 +23,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Pokemon](https://cgs.games/dragogodev/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json`)
 - [Shadowverse](https://cgs.games/dragogodev/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json`)
 - [Shadowverse Evolve](https://cgs.games/dragogodev/shadowverse_evolve) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json`)
+- [Star Wars Unlimited](https://cgs.games/dragogodev/star_wars_unlimited) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/Star%20Wars%20Unlimited.json`)
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
 ## Candidates for Implementation
