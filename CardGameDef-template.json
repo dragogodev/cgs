@@ -1,0 +1,21 @@
+{
+  "allCardsUrl": "",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/",
+  "bannerImageUrl": "",
+  "cardBackImageUrl": "",
+  "cardIdIdentifier": "",
+  "cardImageProperty": "",
+  "cardPrimaryProperty": "",
+  "cardProperties": [
+  ],
+  "cardSetIdentifier": "",
+  "cgsGamesLink": "https://cgs.games/dragogodev/",
+  "copyright": "",
+  "deckSharePreference": "individual",
+  "enums": [
+  ],
+  "gameStartHandCount": 0,
+  "gameStartPointsCount": 0,
+  "name": "",
+  "rulesUrl": ""
+}
