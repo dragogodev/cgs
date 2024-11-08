@@ -73,6 +73,10 @@
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json"
     },
     {
+      "name": "Star Wars Unlimited",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20EWars%20Unlimited/Star%20EWars%20Unlimited.json"
+    },
+    {
       "name": "Yugioh",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json"
     }
