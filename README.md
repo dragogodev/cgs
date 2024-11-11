@@ -21,6 +21,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Magic the Gathering](https://cgs.games/dragogodev/magic_the_gathering) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json`)
 - [Magic: Starcraft](https://cgs.games/dragogodev/magic_starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
 - [Netrunner](https://cgs.games/dragogodev/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json`)
+- [One Piece](https://cgs.games/dragogodev/one_piece) (`https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/One%20Piece.json`)
 - [Pokemon](https://cgs.games/dragogodev/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/Pokemon.json`)
 - [Shadowverse](https://cgs.games/dragogodev/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json`)
 - [Shadowverse Evolve](https://cgs.games/dragogodev/shadowverse_evolve) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json`)
@@ -28,7 +29,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
 ## Candidates for Implementation
-- One Piece TCG
 - Battle Spirits Saga
 - Force of Will
 - Weiss Schwarz
