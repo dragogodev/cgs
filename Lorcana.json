@@ -1,0 +1,25 @@
+{
+  "allCardsUrl": "https://api.lorcana-api.com/bulk/cards",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/Lorcana.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/www.disneylorcana.com/_nuxt/img/logo-br-2x.01ec294.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/wiki.mushureport.com/images/d/d7/Card_Back_official.png",
+  "cardIdIdentifier": "Unique_ID",
+  "cardImageProperty": "Image",
+  "cardPrimaryProperty": "Body_Text",
+  "cardProperties": [
+    {
+      "name": "Body_Text",
+      "display": "Text",
+      "displayEmpty": "-",
+      "type": "string"
+    }
+  ],
+  "cardSetIdentifier": "Set_ID",
+  "cgsGamesLink": "https://cgs.games/dragogodev/lorcana",
+  "copyright": "Disney/Ravensburger",
+  "deckSharePreference": "individual",
+  "gameStartHandCount": 7,
+  "gameStartPointsCount": 0,
+  "name": "Lorcana",
+  "rulesUrl": "https://www.disneylorcana.com/en-US/how-to-play"
+}
