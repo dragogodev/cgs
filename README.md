@@ -17,6 +17,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [KeyForge](https://cgs.games/dragogodev/key_forge) (`https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json`)
 - [Legends of Runeterra](https://cgs.games/dragogodev/legends_of_runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/Legends%20of%20Runeterra.json`)
 - [Lightseekers](https://cgs.games/dragogodev/lightseekers) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json`)
+- [Lorcana](https://cgs.games/dragogodev/lorcana) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/Lorcana.json`)
 - [Magic the Gathering](https://cgs.games/dragogodev/magic_the_gathering) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json`)
 - [Magic: Starcraft](https://cgs.games/dragogodev/magic_starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json`)
 - [Netrunner](https://cgs.games/dragogodev/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/Netrunner.json`)
