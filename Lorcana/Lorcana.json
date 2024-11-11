@@ -5,6 +5,7 @@
   "cardBackImageUrl": "https://cgs.games/api/proxy/wiki.mushureport.com/images/d/d7/Card_Back_official.png",
   "cardIdIdentifier": "Unique_ID",
   "cardImageProperty": "Image",
+  "cardNameIdentifier": "Name",
   "cardPrimaryProperty": "Body_Text",
   "cardProperties": [
     {
@@ -12,9 +13,58 @@
       "display": "Text",
       "displayEmpty": "-",
       "type": "string"
+    },
+    {
+      "name": "Cost",
+      "display": "Cost",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "Color",
+      "display": "Color",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "Type",
+      "display": "Type",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "Lore",
+      "display": "Lore",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "Strength",
+      "display": "Strength",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "Willpower",
+      "display": "Willpower",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "Artist",
+      "display": "Artist",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "Rarity",
+      "display": "Rarity",
+      "displayEmpty": "-",
+      "type": "string"
     }
   ],
   "cardSetIdentifier": "Set_ID",
+  "cardSetNameIdentifier": "Set_Name",
   "cgsGamesLink": "https://cgs.games/dragogodev/lorcana",
   "copyright": "Disney/Ravensburger",
   "deckSharePreference": "individual",
