@@ -49,6 +49,10 @@
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json"
     },
     {
+      "name": "Lorcana",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/Lorcana.json"
+    },
+    {
       "name": "Magic the Gathering",
       "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/Magic.json"
     },
