@@ -18,13 +18,13 @@
       "name": "Cost",
       "display": "Cost",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "integer"
     },
     {
       "name": "Color",
       "display": "Color",
       "displayEmpty": "-",
-      "type": "integer"
+      "type": "string"
     },
     {
       "name": "Type",
