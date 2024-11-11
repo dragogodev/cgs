@@ -27,7 +27,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
 ## Candidates for Implementation
-- Star Wars Unlimited
 - One Piece TCG
 - Lorcana
 - Battle Spirits Saga
