@@ -1,121 +1,57 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/sv.bagoum.com/cardsFullJSON",
+  "allCardsUrl": "https://cgs.games/api/proxy/shadowverse-portal.com/api/v1/cards?format=json&lang=en",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/shadowverse.com/news/wp-content/uploads/9d33fe1601f90fdff2e0ca2c111d8793.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg",
+  "cardDataIdentifier": "data.cards",
+  "cardIdIdentifier": "card_id",
   "cardImageUrl": "https://cgs.games/api/proxy/shadowverse-portal.com/image/card/phase2/common/C/C_{cardId}.png",
-  "cardSetIdentifier": "expansion",
-  "cardPrimaryProperty": "baseData.description",
+  "cardNameIdentifier": "card_name",
+  "cardSetIdentifier": "card_set_id",
+  "cardPrimaryProperty": "skill_disc",
   "cardProperties": [
     {
-      "name": "rot",
-      "display": "Format",
+      "name": "clan",
+      "display": "Craft",
+      "displayEmpty": "-",
       "type": "stringEnum"
     },
     {
-      "name": "manaCost",
-      "display": "Mana Cost",
+      "name": "char_type",
+      "display": "Type",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "skill_disc",
+      "display": "Skill",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "-",
       "type": "integer"
     },
     {
-      "name": "faction",
-      "display": "Faction",
-      "type": "stringEnum"
+      "name": "atk",
+      "display": "Atk",
+      "displayEmpty": "-",
+      "type": "integer"
     },
     {
-      "name": "type",
-      "display": "Type",
-      "type": "stringEnum"
+      "name": "life",
+      "display": "Life",
+      "displayEmpty": "-",
+      "type": "integer"
     },
     {
       "name": "rarity",
       "display": "Rarity",
-      "type": "stringEnum"
-    },
-    {
-      "name": "race",
-      "display": "Race",
-      "displayEmpty": "NONE or N/A",
+      "displayEmpty": "-",
       "type": "string"
-    },
-    {
-      "name": "searchableText",
-      "display": "Search Text",
-      "type": "string"
-    },
-    {
-      "name": "baseData",
-      "display": "Base Data",
-      "type": "object",
-      "properties": [
-        {
-          "name": "description",
-          "display": "Base Description",
-          "displayEmpty": "N / A",
-          "type": "string"
-        },
-        {
-          "name": "flair",
-          "display": "Base Flair",
-          "displayEmpty": "N / A",
-          "type": "string"
-        },
-        {
-          "name": "attack",
-          "display": "Base Attack",
-          "displayEmpty": "N / A",
-          "type": "integer"
-        },
-        {
-          "name": "defense",
-          "display": "Base Defense",
-          "displayEmpty": "N / A",
-          "type": "integer"
-        }
-      ]
-    },
-    {
-      "name": "hasEvo",
-      "display": "Evolves?",
-      "type": "boolean"
-    },
-    {
-      "name": "evoData",
-      "display": "Evolution Data",
-      "displayEmpty": "N / A",
-      "type": "object",
-      "properties": [
-        {
-          "name": "description",
-          "display": "Evolved Description",
-          "displayEmpty": "N / A",
-          "type": "string"
-        },
-        {
-          "name": "flair",
-          "display": "Evolved Flair",
-          "displayEmpty": "N / A",
-          "type": "string"
-        },
-        {
-          "name": "attack",
-          "display": "Evolved Attack",
-          "displayEmpty": "N / A",
-          "type": "integer"
-        },
-        {
-          "name": "defense",
-          "display": "Evolved Defense",
-          "displayEmpty": "N / A",
-          "type": "integer"
-        }
-      ]
-    },
-    {
-      "name": "hasAlt",
-      "display": "Has Alternate?",
-      "type": "boolean"
     }
   ],
   "cgsGamesLink": "https://cgs.games/dragogodev/shadowverse",
@@ -123,41 +59,35 @@
   "deckSharePreference": "individual",
   "enums": [
     {
-      "property": "rot",
+      "property": "clan",
       "values": {
-        "Rotation": "Rotation",
-        "Unlimited": "Unlimited"
+        "0": "Neutral",
+        "1": "Forestcraft",
+        "2": "Swordcraft",
+        "3": "Runecraft",
+        "4": "Dragoncraft",
+        "5": "Shadowcraft",
+        "6": "Bloodcraft",
+        "7": "Havencraft",
+        "8": "Portalcraft"
       }
     },
     {
-      "property": "faction",
+      "property": "char_type",
       "values": {
-        "Neutral": "Neutral",
-        "Forestcraft": "Forestcraft",
-        "Swordcraft": "Swordcraft",
-        "Runecraft": "Runecraft",
-        "Dragoncraft": "Dragoncraft",
-        "Shadowcraft": "Shadowcraft",
-        "Bloodcraft": "Bloodcraft",
-        "Havencraft": "Havencraft",
-        "Portalcraft": "Portalcraft"
+        "1": "Follower",
+        "2": "Amulet",
+        "3": "Amulet",
+        "4": "Spell"
       }
     },
     {
       "property": "rarity",
       "values": {
-        "Bronze": "Bronze",
-        "Silver": "Silver",
-        "Gold": "Gold",
-        "Legendary": "Legendary"
-      }
-    },
-    {
-      "property": "type",
-      "values": {
-        "Follower": "Follower",
-        "Amulet": "Amulet",
-        "Spell": "Spell"
+        "1": "Bronze",
+        "2": "Silver",
+        "3": "Gold",
+        "4": "Legendary"
       }
     }
   ],
