@@ -19,6 +19,12 @@
   "copyright": "",
   "deckSharePreference": "individual",
   "enums": [
+    {
+      "property": "",
+      "values": {
+        "key": "value"
+      }
+    }
   ],
   "gameStartHandCount": 0,
   "gameStartPointsCount": 0,
