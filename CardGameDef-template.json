@@ -5,6 +5,7 @@
   "cardBackImageUrl": "",
   "cardIdIdentifier": "",
   "cardImageProperty": "",
+  "cardImageUrl": "",
   "cardPrimaryProperty": "",
   "cardProperties": [
     {
@@ -26,8 +27,42 @@
       }
     }
   ],
+  "extras": [
+    {
+      "group": "",
+      "property": "",
+      "value": ""
+    }
+  ]
+  "gamePlayDeckPositions": [
+		{
+			"x": 0,
+			"y": 0
+		}
+  ],
+  "gamePlayZones": [
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y":0
+			},
+			"rotation": 0,
+			"size": {
+				"x": 0,
+				"y": 0
+			},
+			"type": "horizontal"
+		}
+  ],
   "gameStartHandCount": 0,
   "gameStartPointsCount": 0,
   "name": "",
+  "playMatImageUrl": "",
+  "playMatSize": {
+		"x": 0,
+		"y": 0
+	},
   "rulesUrl": ""
 }
