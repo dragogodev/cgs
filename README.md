@@ -29,6 +29,8 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/Yugioh.json`)
 
 ## Candidates for Implementation
+- add playmats, extras, gamePlayDeckPositions, and gamePlayZones for all games
+- Gundam
 - Battle Spirits Saga
 - Force of Will
 - Weiss Schwarz
