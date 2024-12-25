@@ -129,16 +129,16 @@
 			"y": -9.37
 		},
 		{
-			"x": 0,
-			"y": -16.5
+			"x": 15.5,
+			"y": -3
 		},
 		{
 			"x": -15.5,
 			"y": 9.37
 		},
 		{
-			"x": 0,
-			"y": 16.5
+			"x": -15.5,
+			"y": 3
 		}
   ],
   "gamePlayZones": [
@@ -146,7 +146,7 @@
 			"defaultCardAction": "flip",
 			"face": "down",
 			"position": {
-				"x": -9,
+				"x": -8.5,
 				"y": -3
 			},
 			"rotation": 0,
@@ -188,7 +188,7 @@
 			"defaultCardAction": "tap",
 			"face": "up",
 			"position": {
-				"x": -9,
+				"x": -8.5,
 				"y": -8
 			},
 			"rotation": 0,
@@ -230,7 +230,7 @@
 			"defaultCardAction": "flip",
 			"face": "down",
 			"position": {
-				"x": -9,
+				"x": -8.5,
 				"y": -11
 			},
 			"rotation": 0,
@@ -286,7 +286,7 @@
 			"defaultCardAction": "flip",
 			"face": "down",
 			"position": {
-				"x": -9,
+				"x": -8.5,
 				"y": 3
 			},
 			"rotation": 180,
@@ -328,7 +328,7 @@
 			"defaultCardAction": "tap",
 			"face": "up",
 			"position": {
-				"x": -9,
+				"x": -8.5,
 				"y": 8
 			},
 			"rotation": 180,
@@ -370,7 +370,7 @@
 			"defaultCardAction": "flip",
 			"face": "down",
 			"position": {
-				"x": -9,
+				"x": -8.5,
 				"y": 11
 			},
 			"rotation": 180,
@@ -413,12 +413,12 @@
 			"face": "up",
 			"position": {
 				"x": 0,
-				"y": 15.75
+				"y": 16.5
 			},
 			"rotation": 180,
 			"size": {
 				"x": 24,
-				"y": 5
+				"y": 6
 			},
 			"type": "horizontal"
 		}
