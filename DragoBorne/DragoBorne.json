@@ -151,7 +151,7 @@
 			},
 			"rotation": 0,
 			"size": {
-				"x": 7.5,
+				"x": 5.5,
 				"y": 4
 			},
 			"type": "horizontal"
@@ -165,7 +165,7 @@
 			},
 			"rotation": 0,
 			"size": {
-				"x": 7.5,
+				"x": 5.5,
 				"y": 4
 			},
 			"type": "horizontal"
@@ -179,7 +179,7 @@
 			},
 			"rotation": 0,
 			"size": {
-				"x": 7.5,
+				"x": 5.5,
 				"y": 4
 			},
 			"type": "horizontal"
@@ -278,7 +278,7 @@
 			"rotation": 0,
 			"size": {
 				"x": 24,
-				"y": 4
+				"y": 5
 			},
 			"type": "horizontal"
 		}
@@ -291,7 +291,7 @@
 			},
 			"rotation": 180,
 			"size": {
-				"x": 7.5,
+				"x": 5.5,
 				"y": 4
 			},
 			"type": "horizontal"
@@ -305,7 +305,7 @@
 			},
 			"rotation": 180,
 			"size": {
-				"x": 7.5,
+				"x": 5.5,
 				"y": 4
 			},
 			"type": "horizontal"
@@ -319,7 +319,7 @@
 			},
 			"rotation": 180,
 			"size": {
-				"x": 7.5,
+				"x": 5.5,
 				"y": 4
 			},
 			"type": "horizontal"
@@ -418,7 +418,7 @@
 			"rotation": 180,
 			"size": {
 				"x": 24,
-				"y": 4
+				"y": 5
 			},
 			"type": "horizontal"
 		}
