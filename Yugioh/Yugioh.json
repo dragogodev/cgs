@@ -273,6 +273,288 @@
       "y": 12
     }
   ],
+  "gamePlayZones": [
+		{
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -10,
+				"y": -6
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -5,
+				"y": -6
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 0,
+				"y": -6
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 5,
+				"y": -6
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 10,
+				"y": -6
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+		{
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -10,
+				"y": -10
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -5,
+				"y": -10
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 0,
+				"y": -10
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 5,
+				"y": -10
+			},
+			"rotation": 0,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 10,
+				"y": 10
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -10,
+				"y": 6
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -5,
+				"y": 6
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 0,
+				"y": 6
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 5,
+				"y": 6
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 10,
+				"y": 6
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+		{
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -10,
+				"y": 10
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": -5,
+				"y": 10
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 0,
+				"y": 10
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 5,
+				"y": 10
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		},
+    {
+			"defaultCardAction": "flip",
+			"face": "any",
+			"position": {
+				"x": 10,
+				"y": 10
+			},
+			"rotation": 180,
+			"size": {
+				"x": 3,
+				"y": 4
+			},
+			"type": "vertical"
+		}
+  ],
   "gameStartHandCount": 5,
   "gameStartPointsCount": 8000,
   "name": "Yugioh",
