@@ -270,7 +270,7 @@
 		},
 	  {
 			"defaultCardAction": "tap",
-			"face": "any",
+			"face": "up",
 			"position": {
 				"x": 0,
 				"y": -15.75
@@ -410,7 +410,7 @@
 		},
 	  {
 			"defaultCardAction": "tap",
-			"face": "any",
+			"face": "up",
 			"position": {
 				"x": 0,
 				"y": 15.75
