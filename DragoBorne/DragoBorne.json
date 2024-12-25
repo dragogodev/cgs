@@ -123,7 +123,17 @@
     }
   ],
   "gameDefaultCardAction": "tap",
+  "gamePlayDeckPositions": [
+  ],
+  "gamePlayZones": [
+  ],
   "gameStartHandCount": 5,
   "name": "DragoBorne",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/PlayMat.jpg",
+  "playMatSize": {
+		"x": 72,
+		"y": 76.5
+	},
   "rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
 }
