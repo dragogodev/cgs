@@ -273,12 +273,12 @@
 			"face": "up",
 			"position": {
 				"x": 0,
-				"y": -15.75
+				"y": -16.25
 			},
 			"rotation": 0,
 			"size": {
 				"x": 24,
-				"y": 5
+				"y": 6
 			},
 			"type": "horizontal"
 		}
@@ -413,7 +413,7 @@
 			"face": "up",
 			"position": {
 				"x": 0,
-				"y": 16.5
+				"y": 16.25
 			},
 			"rotation": 180,
 			"size": {
