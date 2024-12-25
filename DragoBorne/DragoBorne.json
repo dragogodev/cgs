@@ -124,8 +124,304 @@
   ],
   "gameDefaultCardAction": "tap",
   "gamePlayDeckPositions": [
+		{
+			"x": 15.5,
+			"y": -9.37
+		},
+		{
+			"x": 0,
+			"y": -16.5
+		},
+		{
+			"x": -15.5,
+			"y": 9.37
+		},
+		{
+			"x": 0,
+			"y": 16.5
+		}
   ],
   "gamePlayZones": [
+		{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -9,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -9,
+				"y": -8
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y": -8
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 8.5,
+				"y": -8
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -9,
+				"y": -11
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": -11
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": -11
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "any",
+			"position": {
+				"x": 0,
+				"y": -15.75
+			},
+			"rotation": 0,
+			"size": {
+				"x": 24,
+				"y": 4
+			},
+			"type": "horizontal"
+		}
+	  ,{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -9,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -9,
+				"y": 8
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y": 8
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 8.5,
+				"y": 8
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -9,
+				"y": 11
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": 11
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": 11
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "any",
+			"position": {
+				"x": 0,
+				"y": 15.75
+			},
+			"rotation": 180,
+			"size": {
+				"x": 24,
+				"y": 4
+			},
+			"type": "horizontal"
+		}
   ],
   "gameStartHandCount": 5,
   "name": "DragoBorne",
