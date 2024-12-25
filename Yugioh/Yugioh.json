@@ -106,11 +106,11 @@
   "deckUrls": [
     {
       "name": "Starter Deck Yugi",
-      "url": "https://cgs.games/api/proxy/ygoprodeck.com/YGOPRO_Decks/3/17940.ydk"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/decks/Starter%20Deck%20Yugi.ydk"
     },
     {
       "name": "Starter Deck Kaiba",
-      "url": "https://cgs.games/api/proxy/ygoprodeck.com/YGOPRO_Decks/3/17675.ydk"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/decks/Starter%20Deck%20Kaiba.ydk"
     }
   ],
   "enums": [
