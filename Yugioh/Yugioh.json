@@ -418,7 +418,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": -9.5,
+				"x": -8.5,
 				"y": 8.75
 			},
 			"rotation": 180,
@@ -432,7 +432,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": -4.5,
+				"x": -3.5,
 				"y": 8.75
 			},
 			"rotation": 180,
@@ -488,7 +488,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": -9.5,
+				"x": -8.5,
 				"y": 3.75
 			},
 			"rotation": 180,
@@ -502,7 +502,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": -4.5,
+				"x": -3.5,
 				"y": 3.75
 			},
 			"rotation": 180,
