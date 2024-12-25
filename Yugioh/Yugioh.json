@@ -320,7 +320,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 4.5,
+				"x": 3.5,
 				"y": -7.5
 			},
 			"rotation": 0,
@@ -334,7 +334,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 9.5,
+				"x": 8.5,
 				"y": -7.5
 			},
 			"rotation": 0,
@@ -390,7 +390,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 4.5,
+				"x": 3.5,
 				"y": -2.5
 			},
 			"rotation": 0,
@@ -404,10 +404,10 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 9.5,
+				"x": 8.5,
 				"y": -2.5
 			},
-			"rotation": 180,
+			"rotation": 0,
 			"size": {
 				"x": 3,
 				"y": 4
@@ -460,7 +460,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 4.5,
+				"x": 3.5,
 				"y": 7.5
 			},
 			"rotation": 180,
@@ -474,7 +474,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 9.5,
+				"x": 8.5,
 				"y": 7.5
 			},
 			"rotation": 180,
@@ -530,7 +530,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 4.5,
+				"x": 3.5,
 				"y": 2.5
 			},
 			"rotation": 180,
@@ -544,7 +544,7 @@
 			"defaultCardAction": "flip",
 			"face": "any",
 			"position": {
-				"x": 9.5,
+				"x": 8.5,
 				"y": 2.5
 			},
 			"rotation": 180,
