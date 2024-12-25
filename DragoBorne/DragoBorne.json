@@ -431,5 +431,9 @@
 		"x": 36,
 		"y": 38.25
 	},
+  "playMatGridCellSize": {
+		"x": 0,
+		"y": 0
+	},
   "rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
 }
