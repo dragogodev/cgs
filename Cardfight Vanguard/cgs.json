@@ -1,0 +1,221 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/card-fight-vanguard-api.ue.r.appspot.com/api/v1/cards?pagesize=1000",
+  "allCardsUrlPageCount": 11,
+  "allCardsUrlPageIdentifier": "&page=",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
+  "cardDataIdentifier": "data",
+  "cardImageProperty": "imageurlen",
+  "cardImageUrl": "https://cgs.games/api/proxy/cfv-card-images.s3.us-east-2.amazonaws.com/{cardId}-jp.png",
+  "cardPrimaryProperty": "effect",
+  "cardProperties": [
+    {
+      "name": "cardtype",
+      "display": "Card Type",
+      "type": "string"
+    },
+    {
+      "name": "clan",
+      "display": "Clan",
+      "type": "string"
+    },
+    {
+      "name": "critical",
+      "display": "Critical",
+      "type": "integer"
+    },
+    {
+      "name": "designillus",
+      "display": "Designer / Illustrator",
+      "type": "string"
+    },
+    {
+      "name": "effect",
+      "display": "Effect",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor",
+      "type": "string"
+    },
+    {
+      "name": "format",
+      "display": "Format",
+      "type": "string"
+    },
+    {
+      "name": "grade",
+      "display": "Grade",
+      "type": "integer"
+    },
+    {
+      "name": "illust",
+      "display": "Additional Illustrator",
+      "type": "string"
+    },
+    {
+      "name": "illust2",
+      "display": "Additional Illustrator 2",
+      "type": "string"
+    },
+    {
+      "name": "illust3",
+      "display": "Additional Illustrator 3",
+      "type": "string"
+    },
+    {
+      "name": "illust4",
+      "display": "Additional Illustrator 4",
+      "type": "string"
+    },
+    {
+      "name": "illust5",
+      "display": "Additional Illustrator 5",
+      "type": "string"
+    },
+    {
+      "name": "illustcolor",
+      "display": "Additional Illustrator and Colorer",
+      "type": "string"
+    },
+    {
+      "name": "imaginarygift",
+      "display": "Imaginary Gift",
+      "type": "string"
+    },
+    {
+      "name": "italian",
+      "display": "Italian Translation",
+      "type": "string"
+    },
+    {
+      "name": "kana",
+      "display": "Kana Translation",
+      "type": "string"
+    },
+    {
+      "name": "kanji",
+      "display": "Kanji Translation",
+      "type": "string"
+    },
+    {
+      "name": "korean",
+      "display": "Korean Translation",
+      "type": "string"
+    },
+    {
+      "name": "limitationtext",
+      "display": "Limitation Text",
+      "type": "string"
+    },
+    {
+      "name": "mangaillust",
+      "display": "Manga Illustrator",
+      "type": "string"
+    },
+    {
+      "name": "nation",
+      "display": "Nation",
+      "type": "string"
+    },
+    {
+      "name": "note",
+      "display": "Note",
+      "type": "string"
+    },
+    {
+      "name": "othernames",
+      "display": "Other Names",
+      "type": "string"
+    },
+    {
+      "name": "phonetic",
+      "display": "Japanese Phonetic",
+      "type": "string"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "type": "integer"
+    },
+    {
+      "name": "race",
+      "display": "Race",
+      "type": "string"
+    },
+    {
+      "name": "rideskill",
+      "display": "Rideskill",
+      "type": "string"
+    },
+    {
+      "name": "shield",
+      "display": "Shield",
+      "type": "integer"
+    },
+    {
+      "name": "skill",
+      "display": "Skill",
+      "type": "string"
+    },
+    {
+      "name": "thai",
+      "display": "Thai Translation",
+      "type": "string"
+    },
+    {
+      "name": "tournamentstatuses",
+      "display": "Tournament Statuses",
+      "type": "object",
+      "properties": [
+        {
+          "name": "en",
+          "display": "English Tournament Status",
+          "type": "string"
+        },
+        {
+          "name": "jp",
+          "display": "Japanese Tournament Status",
+          "type": "string"
+        },
+        {
+          "name": "kr",
+          "display": "Korean Tournament Status",
+          "type": "string"
+        },
+        {
+          "name": "th",
+          "display": "Thai Tournament Status",
+          "type": "string"
+        },
+        {
+          "name": "it",
+          "display": "Italian Tournament Status",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "translation",
+      "display": "Japanese Translation",
+      "type": "string"
+    },
+    {
+      "name": "triggereffect",
+      "display": "Trigger Effect",
+      "type": "string"
+    }
+  ],
+  "cardSetIdentifier": "sets",
+  "cardSetsInList": true,
+  "cardSetsInListIsCsv": true,
+  "cgsGamesLink": "https://cgs.games/dragogodev/cardfight_vanguard",
+  "copyright": "Bushiroad",
+  "deckSharePreference": "individual",
+  "gameDefaultCardAction": "tap",
+  "gameStartHandCount": 5,
+  "name": "Cardfight Vanguard",
+  "rulesUrl": "https://en.cf-vanguard.com/howto/"
+}
