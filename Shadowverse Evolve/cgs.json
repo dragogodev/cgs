@@ -1,0 +1,125 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/shadowcard.io/api/search.php?database&sort=name",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/en.shadowverse-evolve.com/wordpress/wp-content/themes/en-shadowverse-evolve/assets/images/common/logo.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/assets/CardBack.jpg",
+  "cardDataIdentifier": "card",
+  "cardImageFileType": "jpg",
+  "cardImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/cards/{cardId}.jpg",
+  "cardPrimaryProperty": "ability",
+  "cardProperties": [
+    {
+      "name": "class",
+      "display": "Class",
+      "type": "stringEnum"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "type": "integer"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "stats",
+      "display": "Stats",
+      "type": "string"
+    },
+    {
+      "name": "trait",
+      "display": "Trait",
+      "displayEmpty": "NONE or N/A",
+      "type": "string"
+    },
+    {
+      "name": "flavour",
+      "display": "Flavour",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "ability",
+      "display": "Ability",
+      "type": "string"
+    }
+  ],
+  "cgsGamesLink": "https://cgs.games/dragogodev/shadowverse_evolve",
+  "copyright": "Cygames, Bushiroad",
+  "deckSharePreference": "individual",
+  "deckUrls": [
+    {
+      "name": "Dragoncraft - Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/decks/Dragoncraft%20-%20Starter.txt"
+    }
+  ],
+  "enums": [
+    {
+      "property": "class",
+      "values": {
+        "Neutral": "Neutral",
+        "Forestcraft": "Forestcraft",
+        "Swordcraft": "Swordcraft",
+        "Runecraft": "Runecraft",
+        "Dragoncraft": "Dragoncraft",
+        "Shadowcraft": "Abysscraft",
+        "Havencraft": "Havencraft"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Leader": "Leader",
+        "Follower": "Follower",
+        "Follower \/ Evolved": "Evolved Follower",
+        "Follower \/ Token": "Token",
+        "Amulet": "Amulet",
+        "Spell": "Spell"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Leader",
+      "property": "type",
+      "value": "Leader"
+    },
+    {
+      "group": "Evolve Deck",
+      "property": "type",
+      "value": "Follower \/ Evolved"
+    },
+    {
+      "group": "Evolve Deck",
+      "property": "type",
+      "value": "Evolved Follower"
+    }
+  ],
+  "gamePlayDeckName": "Main Deck",
+  "gamePlayDeckPositions": [
+    {
+      "x": 13,
+      "y": -7.5
+    },
+    {
+      "x": 13,
+      "y": -2.5
+    },
+    {
+      "x": -13,
+      "y": -7.5
+    }
+  ],
+  "gameStartHandCount": 4,
+  "name": "Shadowverse Evolve",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/PlayMat.jpg",
+  "playMatSize": {
+    "x": 30,
+    "y": 35
+  },
+  "rulesUrl": "https://en.shadowverse-evolve.com/rules/"
+}
