@@ -1,0 +1,439 @@
+{
+  "allCardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllSets.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json",
+  "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/Banner.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/CardBack.jpg",
+  "cardImageProperty": "image_url",
+  "cardPrimaryProperty": "ability",
+  "cardProperties": [
+    {
+      "name": "cost",
+      "display": "Cost",
+      "type": "integer"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "trait",
+      "display": "Trait",
+      "type": "string"
+    },
+    {
+      "name": "ability",
+      "display": "Ability",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor",
+      "type": "string"
+    },
+    {
+      "name": "attack",
+      "display": "ATK",
+      "type": "integer"
+    },
+    {
+      "name": "endurance",
+      "display": "EDR",
+      "type": "integer"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "type": "string"
+    }
+  ],
+  "cgsGamesLink": "https://cgs.games/dragogodev/drago_borne",
+  "copyright": "Bushiroad",
+  "deckFileTxtId": "id",
+  "deckSharePreference": "individual",
+  "deckUrls": [
+    {
+      "name": "TD01 - Shadow Legion",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD01%20-%20Shadow%20Legion.txt"
+    },
+    {
+      "name": "TD02 - Mystical Hunters",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD02%20-%20Mystical%20Hunters.txt"
+    },
+    {
+      "name": "TD03 - Alpha Dominance",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD03%20-%20Alpha%20Dominance.txt"
+    },
+    {
+      "name": "TD04 - Reaper's Gift",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD04%20-%20Reaper's%20Gift.txt"
+    },
+    {
+      "name": "TD05 - Nature's Wrath",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD05%20-%20Nature's%20Wrath.txt"
+    }
+  ],
+  "enums": [
+    {
+      "property": "type",
+      "values": {
+        "Creature": "Creature",
+        "Spell": "Spell",
+        "Banner": "Banner"
+      }
+    },
+    {
+      "property": "color",
+      "values": {
+        "Y": "Yellow (Logres)",
+        "G": "Green (Tir Na Nog)",
+        "U": "Blue (Olous)",
+        "R": "Red (Tauris)",
+        "B": "Black (Niflheim)"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "C": "Common",
+        "U": "Uncommon",
+        "R": "Rare",
+        "RR": "Double Rare",
+        "SR": "Secret Rare"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Banners",
+      "property": "type",
+      "value": "Banner"
+    }
+  ],
+  "gameDefaultCardAction": "tap",
+  "gamePlayDeckPositions": [
+		{
+			"x": 15.5,
+			"y": -9.37
+		},
+		{
+			"x": 15.5,
+			"y": -3
+		},
+		{
+			"x": -15.5,
+			"y": 9.37
+		},
+		{
+			"x": -15.5,
+			"y": 3
+		}
+  ],
+  "gamePlayZones": [
+		{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -8.5,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 5.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 5.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 5.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -8.5,
+				"y": -8
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y": -8
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 8.5,
+				"y": -8
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -8.5,
+				"y": -11
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": -11
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": -11
+			},
+			"rotation": 0,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y": -16.25
+			},
+			"rotation": 0,
+			"size": {
+				"x": 24,
+				"y": 6
+			},
+			"type": "horizontal"
+		}
+	  ,{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -8.5,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 5.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 5.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 5.5,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": -8.5,
+				"y": 8
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y": 8
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 8.5,
+				"y": 8
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+		{
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": -8.5,
+				"y": 11
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 0,
+				"y": 11
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "flip",
+			"face": "down",
+			"position": {
+				"x": 8.5,
+				"y": 11
+			},
+			"rotation": 180,
+			"size": {
+				"x": 7.5,
+				"y": 3
+			},
+			"type": "horizontal"
+		},
+	  {
+			"defaultCardAction": "tap",
+			"face": "up",
+			"position": {
+				"x": 0,
+				"y": 16.25
+			},
+			"rotation": 180,
+			"size": {
+				"x": 24,
+				"y": 6
+			},
+			"type": "horizontal"
+		}
+  ],
+  "gameStartHandCount": 5,
+  "name": "DragoBorne",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/PlayMat.jpg",
+  "playMatSize": {
+		"x": 36,
+		"y": 38.25
+	},
+  "playMatGridCellSize": {
+		"x": 0,
+		"y": 0
+	},
+  "rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
+}
