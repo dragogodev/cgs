@@ -1,0 +1,26 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/digimoncard.io/api-public/getAllCards.php",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/world.digimoncard.com/images/common/header/img_logo.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/digimoncardgame/images/c/ce/Digimon-Card-Back.png",
+  "cardIdIdentifier": "cardnumber",
+  "cardImageFileType": "jpg",
+  "cardImageUrl": "https://cgs.games/api/proxy/images.digimoncard.io/images/cards/{cardId}.jpg",
+  "cardNameIsUnique": false,
+  "cardPrimaryProperty": "cardnumber",
+  "cardProperties": [
+    {
+      "name": "cardnumber",
+      "type": "string"
+    }
+  ],
+  "cgsDeepLink": "https://cgs.games/dragogodev/digimon",
+  "copyright": "The Upper Deck Company",
+  "deckFileTxtId": "id",
+  "deckSharePreference": "individual",
+  "gameDefaultCardAction": "tap",
+  "gameStartHandCount": 5,
+  "name": "Digimon",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/PlayMat.png",
+  "rulesUrl": "https://world.digimoncard.com/rule/"
+}
