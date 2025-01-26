@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://cgs.games/api/proxy/shadowverse-portal.com/api/v1/cards?format=json&lang=en",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/Shadowverse.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/shadowverse.com/news/wp-content/uploads/9d33fe1601f90fdff2e0ca2c111d8793.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg",
