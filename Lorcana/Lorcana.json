@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://api.lorcana-api.com/bulk/cards",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/Lorcana.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/www.disneylorcana.com/_nuxt/img/logo-br-2x.89c4bd2.png",
   "cardBackImageUrl": "https://cgs.games/api/proxy/wiki.mushureport.com/images/d/d7/Card_Back_official.png",
   "cardIdIdentifier": "Unique_ID",
