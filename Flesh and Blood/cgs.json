@@ -1,0 +1,96 @@
+{
+  "allCardsUrl": "https://the-fab-cube.github.io/flesh-and-blood-cards/json/english/card-flattened.json",
+  "allSetsUrl": "https://the-fab-cube.github.io/flesh-and-blood-cards/json/english/set.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/website/img/fab_logo.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/media/images/cardback_3mm_63x88.width-300.png",
+  "cardIdIdentifier": "id",
+  "cardImageProperty": "image_url",
+  "cardNameIsUnique": false,
+  "cardPrimaryProperty": "functional_text_plain",
+  "cardProperties": [
+    {
+      "name": "functional_text_plain",
+      "display": "Card Text",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_keywords",
+      "display": "Class, Card Type(s), and Keyword(s)",
+      "type": "stringList"
+    },
+    {
+      "name": "pitch",
+      "display": "Pitch",
+      "type": "integer"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "0 or N/A",
+      "type": "string"
+    },
+    {
+      "name": "health",
+      "display": "Health",
+      "displayEmpty": "N/A",
+      "type": "string"
+    },
+    {
+      "name": "intelligence",
+      "display": "Intelligence",
+      "displayEmpty": "N/A",
+      "type": "string"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "displayEmpty": "0 or N/A",
+      "type": "string"
+    },
+    {
+      "name": "defense",
+      "display": "Defense",
+      "displayEmpty": "0 or N/A",
+      "type": "string"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "string"
+    },
+    {
+      "name": "image_url",
+      "display": "Image Url",
+      "type": "string"
+    }
+  ],
+  "cardSetIdentifier": "set_id",
+  "cgsGamesLink": "https://cgs.games/dragogodev/flesh_and_blood",
+  "copyright": "Legendary Story Studios",
+  "deckSharePreference": "individual",
+  "extras": [
+    {
+      "group": "Hero",
+      "property": "keywords",
+      "value": "hero"
+    },
+    {
+      "group": "Weapon(s)",
+      "property": "keywords",
+      "value": "weapon"
+    },
+    {
+      "group": "Equipment",
+      "property": "keywords",
+      "value": "equipment"
+    }
+  ],
+  "gameStartHandCount": 4,
+  "gameStartPointsCount": 30,
+  "name": "Flesh and Blood",
+  "setCodeIdentifier": "id",
+  "setNameIdentifier": "name",
+  "rulesUrl": "https://fabtcg.com/resources/rules-and-policy-center/"
+}
