@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://cgs.games/api/proxy/www.magicmultiverse.net/cardsets/358.json",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/Magic_Starcraft.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json",
   "bannerImageFileType": "jpg",
   "bannerImageUrl": "https://cgs.games/api/proxy/i.imgur.com/0xAjTK2.jpg",
   "cardBackImageFileType": "jpg",
