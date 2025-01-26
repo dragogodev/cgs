@@ -1,0 +1,348 @@
+{
+  "allCardsUrl": "https://api.pokemontcg.io/v2/cards",
+  "allCardsUrlPageCountIdentifier": "totalCount",
+  "allCardsUrlPageCountDivisor": 250,
+  "allCardsUrlRequestHeaderValue": "80401600-3ad9-42b1-b709-f78e5b168705",
+  "allSetsUrl": "https://cgs.games/api/proxy/api.pokemontcg.io/v2/sets",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json",
+  "bannerImageFileType": "jpg",
+  "bannerImageUrl": "https://cgs.games/api/proxy/assets.pokemon.com/assets/cms2/img/trading-card-game/_tiles/tcg_product_gallery_169_en.jpg",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/upload.wikimedia.org/wikipedia/en/3/3b/Pokemon_Trading_Card_Game_cardback.jpg",
+  "cardDataIdentifier": "data",
+  "cardImageProperty": "images.large",
+  "cardNameIsUnique": false,
+  "cardSetIsObject": true,
+  "cardPrimaryProperty": "rules",
+  "cardProperties": [
+    {
+      "name": "nationalPokedexNumbers",
+      "display": "National Pokedex Number(s)",
+      "type": "stringList"
+    },
+    {
+      "name": "series",
+      "display": "Series",
+      "type": "stringEnum"
+    },
+    {
+      "name": "number",
+      "display": "Number in Series",
+      "type": "string"
+    },
+    {
+      "name": "supertype",
+      "display": "Supertype",
+      "type": "stringEnum"
+    },
+    {
+      "name": "types",
+      "display": "Type",
+      "displayEmpty": "N / A",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "subtypes",
+      "display": "Subtype(s)",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "hp",
+      "display": "HP",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "rules",
+      "display": "Card Rules",
+      "displayEmpty": "NONE or N/A",
+      "type": "stringList"
+    },
+    {
+      "name": "attacks",
+      "display": "Attacks",
+      "displayEmpty": "NONE or N/A",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "cost",
+          "display": "Attack Cost",
+          "displayEmpty": "NONE or N/A",
+          "type": "stringEnumList"
+        },
+        {
+          "name": "name",
+          "display": "Attack Name",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "text",
+          "display": "Attack Text",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "damage",
+          "display": "Attack Damage",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "convertedEnergyCost",
+          "display": "Attack Converted Energy Cost",
+          "displayEmpty": "NONE or N/A",
+          "type": "integer"
+        }
+      ]
+    },
+    {
+      "name": "abilities",
+      "display": "Ability(s)",
+      "displayEmpty": "NONE or N/A",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "name",
+          "display": "Ability Name",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "text",
+          "display": "Ability Text",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        },
+        {
+          "name": "type",
+          "display": "Ability Type",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "resistances",
+      "display": "Resistances",
+      "displayEmpty": "NONE or N/A",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "type",
+          "display": "Resistance Type",
+          "displayEmpty": "NONE or N/A",
+          "type": "stringEnum"
+        },
+        {
+          "name": "value",
+          "display": "Resistance Value",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "weaknesses",
+      "display": "Weaknesses",
+      "displayEmpty": "NONE or N/A",
+      "type": "objectList",
+      "properties": [
+        {
+          "name": "type",
+          "display": "Weakness Type",
+          "displayEmpty": "NONE or N/A",
+          "type": "stringEnum"
+        },
+        {
+          "name": "value",
+          "display": "Weakness Value",
+          "displayEmpty": "NONE or N/A",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "retreatCost",
+      "display": "Retreat Cost",
+      "displayEmpty": "NONE or N/A",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "convertedRetreatCost",
+      "display": "Converted Retreat Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "evolvesTo",
+      "display": "Evolves To",
+      "type": "stringList"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "flavorText",
+      "display": "Flavor Text",
+      "type": "string"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "type": "string"
+    }
+  ],
+  "cgsGamesLink": "https://cgs.games/dragogodev/pokemon",
+  "copyright": "The Pokemon Company",
+  "deckSharePreference": "individual",
+  "enums": [
+    {
+      "property": "series",
+      "values": {
+        "EX": "EX",
+        "Diamond & Pearl": "Diamond & Pearl",
+        "Platinum": "Platinum",
+        "Call of Legends & HGSS Series": "Call of Legends & HGSS Series",
+        "Black & White": "Black & White",
+        "XY": "XY",
+        "Sun & Moon": "Sun & Moon"
+      }
+    },
+    {
+      "property": "supertype",
+      "values": {
+        "Energy": "Energy",
+        "Pokémon": "Pokemon",
+        "Trainer": "Trainer"
+      }
+    },
+    {
+      "property": "types",
+      "values": {
+        "Colorless": "Colorless",
+        "Darkness": "Darkness",
+        "Dragon": "Dragon",
+        "Fairy": "Fairy",
+        "Fighting": "Fighting",
+        "Fire": "Fire",
+        "Grass": "Grass",
+        "Lightning": "Lightning",
+        "Metal": "Metal",
+        "Psychic": "Psychic",
+        "Water": "Water"
+      }
+    },
+    {
+      "property": "subtype",
+      "values": {
+        "EX": "EX",
+        "Special": "Special",
+        "Restored": "Restored",
+        "Level Up": "Level Up",
+        "MEGA": "MEGA",
+        "Technical Machine": "Technical Machine",
+        "Item": "Item",
+        "Stadium": "Stadium",
+        "Supporter": "Supporter",
+        "Stage 1": "Stage 1",
+        "GX": "GX",
+        "Pokémon Tool": "Pokemon Tool",
+        "Basic": "Basic",
+        "LEGEND": "LEGEND",
+        "Stage 2": "Stage 2",
+        "BREAK": "BREAK",
+        "Rocket's Secret Machine": "Rocket's Secret Machine"
+      }
+    },
+    {
+      "property": "attacks.cost",
+      "values": {
+        "Colorless": "Colorless",
+        "Darkness": "Darkness",
+        "Dragon": "Dragon",
+        "Fairy": "Fairy",
+        "Fighting": "Fighting",
+        "Fire": "Fire",
+        "Grass": "Grass",
+        "Lightning": "Lightning",
+        "Metal": "Metal",
+        "Psychic": "Psychic",
+        "Water": "Water"
+      }
+    },
+    {
+      "property": "resistances.type",
+      "values": {
+        "Colorless": "Colorless",
+        "Darkness": "Darkness",
+        "Dragon": "Dragon",
+        "Fairy": "Fairy",
+        "Fighting": "Fighting",
+        "Fire": "Fire",
+        "Grass": "Grass",
+        "Lightning": "Lightning",
+        "Metal": "Metal",
+        "Psychic": "Psychic",
+        "Water": "Water"
+      }
+    },
+    {
+      "property": "weaknesses.type",
+      "values": {
+        "Colorless": "Colorless",
+        "Darkness": "Darkness",
+        "Dragon": "Dragon",
+        "Fairy": "Fairy",
+        "Fighting": "Fighting",
+        "Fire": "Fire",
+        "Grass": "Grass",
+        "Lightning": "Lightning",
+        "Metal": "Metal",
+        "Psychic": "Psychic",
+        "Water": "Water"
+      }
+    },
+    {
+      "property": "retreatCost",
+      "values": {
+        "Colorless": "Colorless",
+        "Darkness": "Darkness",
+        "Dragon": "Dragon",
+        "Fairy": "Fairy",
+        "Fighting": "Fighting",
+        "Fire": "Fire",
+        "Grass": "Grass",
+        "Lightning": "Lightning",
+        "Metal": "Metal",
+        "Psychic": "Psychic",
+        "Water": "Water"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "Common": "Common",
+        "Uncommon": "Uncommon",
+        "Rare": "Rare",
+        "Rare Holo": "Rare Holo",
+        "Rare Holo GX": "Rare Holo GX",
+        "Rare Holo EX": "Rare Holo EX",
+        "Rare Holo Lv.X": "Rare Holo Lv.X",
+        "Rare Prime": "Rare Prime",
+        "Rare Ultra": "Rare Ultra",
+        "Rare Rainbow": "Rare Rainbow",
+        "Rare ACE": "Rare ACE",
+        "Rare BREAK": "Rare BREAK",
+        "Legend": "Legend"
+      }
+    }
+  ],
+  "gameStartHandCount": 7,
+  "name": "Pokemon",
+  "setCodeIdentifier": "id",
+  "setDataIdentifier": "data",
+  "rulesUrl": "https://www.pokemon.com/us/pokemon-tcg/rules"
+}
