@@ -1,0 +1,27 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/onepiece-cardgame.dev/cards.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/en.onepiece-cardgame.com/images/common/logo_op.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__original/img/w7theJY22QZ2z1V9GZHeexQo6_Q=/0x0/filters:format(jpeg)/pic6974116.jpg",
+  "cardIdIdentifier": "cid",
+  "cardImageProperty": "iu",
+  "cardNameIdentifier": "n",
+  "cardPrimaryProperty": "e",
+  "cardProperties": [
+    {
+      "name": "e",
+      "display": "Text",
+      "displayEmpty": "-",
+      "type": "string"
+    }
+  ],
+  "cardSetIdentifier": "srcN",
+  "cgsGamesLink": "https://cgs.games/dragogodev/one_piece",
+  "copyright": "Eiichiro Oda/Shueisha, Toei Animation",
+  "deckSharePreference": "individual",
+  "gameStartHandCount": 5,
+  "gameStartPointsCount": 0,
+  "name": "One Piece",
+  "rulesUrl": "https://en.onepiece-cardgame.com/rules/"
+}
