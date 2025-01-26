@@ -1,0 +1,205 @@
+{
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/AllSets.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/cgs.json",
+  "bannerImageUrl": "https://www.riotgames.com/darkroom/800/9c08e3b3ce6281f252a4dfbf61357a11:75ab7e60b85225c6c7f19ae4024e27a6/lol-logo-rendered-hi-res.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/runeterraccg.com/wp-content/uploads/FR-Cardback.jpg",
+  "cardIdIdentifier": "cardCode",
+  "cardImageProperty": "assets[0].gameAbsolutePath",
+  "cardPrimaryProperty": "descriptionRaw",
+  "cardProperties": [
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "regionRef",
+      "display": "Region",
+      "displayEmpty": "Neutral",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "subtypes",
+      "display": "Sub-Type(s)",
+      "displayEmpty": "N/A or None",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "superType",
+      "display": "Super-Type",
+      "displayEmpty": "N/A or None",
+      "type": "stringEnum"
+    },
+    {
+      "name": "descriptionRaw",
+      "display": "Description",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "levelupDescriptionRaw",
+      "display": "Level-up Description",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "flavorText",
+      "display": "Flavor Text",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "artistName",
+      "display": "Artist Name",
+      "displayEmpty": "N / A",
+      "type": "string"
+    },
+    {
+      "name": "keywordRefs",
+      "display": "Keywords",
+      "displayEmpty": "N / A",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "spellSpeedRef",
+      "display": "Spell Speed",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "attack",
+      "display": "Attack",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "health",
+      "display": "Health",
+      "displayEmpty": "N / A",
+      "type": "integer"
+    },
+    {
+      "name": "rarityRef",
+      "display": "Rarity",
+      "displayEmpty": "N / A",
+      "type": "stringEnum"
+    },
+    {
+      "name": "collectible",
+      "display": "Collectible?",
+      "displayEmpty": "N / A",
+      "type": "boolean"
+    }
+  ],
+  "cgsGamesLink": "https://cgs.games/dragogodev/legends_of_runeterra",
+  "copyright": "Riot Games",
+  "deckFileType": "lor",
+  "deckSharePreference": "individual",
+  "enums": [
+    {
+      "property": "regionRef",
+      "values": {
+        "Noxus": "Noxus",
+        "Demacia": "Demacia",
+        "Freljord": "Freljord",
+        "ShadowIsles": "Shadow Isles",
+        "Ionia": "Ionia",
+        "Bilgewater": "Bilgewater",
+        "PiltoverZaun": "Piltover & Zaun"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Unit": "Unit",
+        "Spell": "Spell"
+      }
+    },
+    {
+      "property": "subtypes",
+      "values": {
+        "Elite": "Elite",
+        "Spider": "Spider",
+        "Poro": "Poro",
+        "Elnuk": "Elnuk",
+        "Tech": "Tech"
+      }
+    },
+    {
+      "property": "superType",
+      "values": {
+        "Champion": "Champion",
+        "Follower": "Follower"
+      }
+    },
+    {
+      "property": "keywordRefs",
+      "values": {
+        "Obliterate": "Obliterate",
+        "Skill": "Skill",
+        "DoubleStrike": "Double Attack",
+        "Weakest": "Weakest",
+        "Vulnerable": "Vulnerable",
+        "AttackSkillMark": "Attack",
+        "Elusive": "Elusive",
+        "Drain": "Drain",
+        "Stun": "Stun",
+        "Autoplay": "Trap",
+        "Attune": "Attune",
+        "Barrier": "Barrier",
+        "Immobile": "Immobile",
+        "Capture": "Capture",
+        "Frostbite": "Frostbite",
+        "Fleeting": "Fleeting",
+        "Overwhelm": "Overwhelm",
+        "PlaySkillMark": "Play",
+        "QuickStrike": "Quick Attack",
+        "Tough": "Tough",
+        "Recall": "Recall",
+        "Regeneration": "Regeneration",
+        "Silenced": "Silenced",
+        "Lifesteal": "Lifesteal",
+        "Enlightened": "Enlightened",
+        "Scout": "Scout",
+        "Ephemeral": "Ephemeral",
+        "LastBreath": "Last Breath",
+        "Nab": "Nab",
+        "Challenger": "Challenger",
+        "Imbue": "Imbue",
+        "Fearsome": "Fearsome",
+        "CantBlock": "Can't Block",
+        "Deep": "Deep"
+      }
+    },
+    {
+      "property": "spellSpeedRef",
+      "values": {
+        "Slow": "Slow",
+        "Burst": "Burst",
+        "Fast": "Fast"
+      }
+    },
+    {
+      "property": "rarityRef",
+      "values": {
+        "Common": "Common",
+        "Rare": "Rare",
+        "Epic": "Epic",
+        "Champion": "Champion",
+        "None": "None"
+      }
+    }
+  ],
+  "gameStartHandCount": 4,
+  "gameStartPointsCount": 20,
+  "name": "Legends of Runeterra",
+  "rulesUrl": "https://playruneterra.com/en-us/"
+}
