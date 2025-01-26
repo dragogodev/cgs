@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllCards.json",
   "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllSets.json",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/DragoBorne.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json",
   "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/Banner.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/CardBack.jpg",
