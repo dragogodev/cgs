@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://carddatabase-es.lightseekers.cards/lightseekers-cards/_search",
   "allCardsUrlPostBodyContent": "\"size\":1000",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/Lightseekers.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/www.lightseekers.cards/wp-content/themes/lightseekers/images/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/cdn.shopify.com/s/files/1/0346/8908/9671/collections/LS-CardBack.jpg?v=1713364729",
