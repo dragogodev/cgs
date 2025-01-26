@@ -1,0 +1,201 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/arkhamdb.com/api/public/cards/?encounter=1",
+  "allSetsUrl": "https://cgs.games/api/proxy/arkhamdb.com/api/public/packs",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/images-cdn.fantasyflightgames.com/filer_public/07/4d/074d2d55-363a-4d66-97a9-d07b62b7d079/ahc01_logo_700x.png",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/cf.geekdo-images.com/imagepage/img/8jzjvQW9adqwSeeuIhwcK5UBF84=/fit-in/900x600/filters:no_upscale()/pic3311650.png",
+  "cardIdIdentifier": "code",
+  "cardImageUrl": "https://cgs.games/api/proxy/arkhamdb.com{imagesrc}",
+  "cardPrimaryProperty": "text",
+  "cardProperties": [
+    {
+      "name": "type_code",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "subtype_code",
+      "display": "SubType",
+      "type": "stringEnum"
+    },
+    {
+      "name": "faction_code",
+      "display": "Faction",
+      "type": "stringEnum"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "text",
+      "display": "Text",
+      "type": "string"
+    },
+    {
+      "name": "skill_willpower",
+      "display": "Willpower",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "skill_intellect",
+      "display": "Intellect",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "skill_combat",
+      "display": "Combat",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "skill_agility",
+      "display": "Agility",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "skill_wild",
+      "display": "Wild Skill",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "health",
+      "display": "Health",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "sanity",
+      "display": "Sanity",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "quantity",
+      "display": "Quantity",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "xp",
+      "display": "XP",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "victory",
+      "display": "Victory",
+      "displayEmpty": "None or N/A",
+      "type": "integer"
+    },
+    {
+      "name": "slot",
+      "display": "Slot",
+      "type": "string"
+    },
+    {
+      "name": "traits",
+      "display": "Traits",
+      "type": "string"
+    },
+    {
+      "name": "is_unique",
+      "display": "Unique?",
+      "type": "boolean"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor",
+      "type": "string"
+    },
+    {
+      "name": "illustrator",
+      "display": "Illustrator",
+      "type": "string"
+    },
+    {
+      "name": "imagesrc",
+      "type": "string"
+    }
+  ],
+  "cardSetIdentifier": "pack_code",
+  "cardSetNameIdentifier": "pack_name",
+  "cgsDeepLink": "https://cgs.games/dragogodev/arkham_horror",
+  "copyright": "Fantasy Flight Games",
+  "deckSharePreference": "individual",
+  "deckUrls": [
+    {
+      "name": "Agnes Baker Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Agnes%20Baker%20Starter.txt"
+    },
+    {
+      "name": "Daisy Walker Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Daisy%20Walker%20Starter.txt"
+    },
+    {
+      "name": "Roland Banks Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Roland%20Banks%20Starter.txt"
+    },
+    {
+      "name": "Skids OToole Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Skids%20OToole%20Starter.txt"
+    },
+    {
+      "name": "Wendy Adams Starter",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/decks/Wendy%20Adams%20Starter.txt"
+    }
+  ],
+  "enums": [
+    {
+      "property": "type_code",
+      "values": {
+        "investigator": "Investigator",
+        "asset": "Asset",
+        "event": "Event",
+        "skill": "Skill",
+        "act": "Act",
+        "agenda": "Agenda",
+        "location": "Location",
+        "treachery": "Treachery",
+        "enemy": "Enemy",
+        "scenario": "Scenario",
+        "story": "Story"
+      }
+    },
+    {
+      "property": "subtype_code",
+      "values": {
+        "basicweakness": "Basic Weakness",
+        "weakness": "Weakness"
+      }
+    },
+    {
+      "property": "faction_code",
+      "values": {
+        "neutral": "Neutral",
+        "guardian": "Guardian",
+        "mystic": "Mystic",
+        "mythos": "Mythos",
+        "rogue": "Rogue",
+        "seeker": "Seeker",
+        "survivor": "Survivor"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Investigator",
+      "property": "type_code",
+      "value": "Investigator"
+    }
+  ],
+  "gameStartHandCount": 5,
+  "name": "Arkham Horror",
+  "rulesUrl": "https://arkhamdb.com/rules"
+}
