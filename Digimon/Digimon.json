@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://cgs.games/api/proxy/digimoncard.io/api-public/getAllCards.php",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/Digimon.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/world.digimoncard.com/images/common/header/img_logo.png",
   "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/digimoncardgame/images/c/ce/Digimon-Card-Back.png",
   "cardIdIdentifier": "cardnumber",
