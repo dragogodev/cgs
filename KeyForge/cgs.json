@@ -1,0 +1,121 @@
+{
+  "allCardsUrl": "https://cgs.games/api/proxy/www.keyforgegame.com/api/decks/?page=1&links=cards",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/cgs.json",
+  "bannerImageUrl": "https://cgs.games/api/proxy/images-cdn.fantasyflightgames.com/filer_public/15/91/15912457-5917-474f-8ce3-9dd24e1659e3/kf01_logo.png",
+  "cardBackImageFileType": "jpg",
+  "cardBackImageUrl": "https://cgs.games/api/proxy/i.kinja-img.com/gawker-media/image/upload/s--y-SPKE2m--/c_scale,f_auto,fl_progressive,q_80,w_800/zeyno0pj1lhy5tlrf7li.jpg",
+  "cardDataIdentifier": "_linked.cards",
+  "cardImageProperty": "front_image",
+  "cardNameIdentifier": "card_title",
+  "cardPrimaryProperty": "card_text",
+  "cardProperties": [
+    {
+      "name": "house",
+      "display": "House",
+      "type": "stringEnum"
+    },
+    {
+      "name": "card_type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "traits",
+      "display": "Traits",
+      "displayEmpty": " - ",
+      "type": "string"
+    },
+    {
+      "name": "card_text",
+      "display": "Rules Text",
+      "displayEmpty": " - ",
+      "type": "string"
+    },
+    {
+      "name": "flavor_text",
+      "display": "Flavor Text",
+      "displayEmpty": " - ",
+      "type": "string"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "amber",
+      "display": "Amber",
+      "type": "integer"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "type": "integer"
+    },
+    {
+      "name": "armor",
+      "display": "Armor",
+      "type": "integer"
+    },
+    {
+      "name": "card_number",
+      "display": "Card Number",
+      "type": "integer"
+    },
+    {
+      "name": "is_maverick",
+      "display": "Maverick?",
+      "type": "boolean"
+    }
+  ],
+  "cardSetIdentifier": "expansion",
+  "cgsGamesLink": "https://cgs.games/dragogodev/key_forge",
+  "copyright": "Ghost Galaxy",
+  "deckSharePreference": "individual",
+  "deckUrls": [
+    {
+      "name": "Miss Onyx Censorius",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/decks/Miss%20Onyx%20Censorius.txt"
+    },
+    {
+      "name": "Radiant Argus the Supreme",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/decks/Radiant%20Argus%20the%20Supreme.txt"
+    }
+  ],
+  "enums": [
+    {
+      "property": "house",
+      "values": {
+        "Brobnar": "Brobnar",
+        "Dis": "Dis",
+        "Logos": "Logos",
+        "Mars": "Mars",
+        "Sanctum": "Sanctum",
+        "Shadows": "Shadows",
+        "Untamed": "Untamed"
+      }
+    },
+    {
+      "property": "card_type",
+      "values": {
+        "Action": "Action",
+        "Artifact": "Artifact",
+        "Creature": "Creature",
+        "Upgrade": "Upgrade"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "Common": "Common",
+        "Uncommon": "Uncommon",
+        "Rare": "Rare",
+        "Special": "Special"
+      }
+    }
+  ],
+  "gameDefaultCardAction": "tap",
+  "gameStartHandCount": 7,
+  "name": "KeyForge",
+  "rulesUrl": "https://keyforging.com/wp-content/uploads/2023/11/KeyForge-Rulebook-v17-2.pdf"
+}
