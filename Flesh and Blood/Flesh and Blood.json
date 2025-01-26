@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://the-fab-cube.github.io/flesh-and-blood-cards/json/english/card-flattened.json",
   "allSetsUrl": "https://the-fab-cube.github.io/flesh-and-blood-cards/json/english/set.json",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/Flesh%20and%20Blood.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/website/img/fab_logo.png",
   "cardBackImageUrl": "https://cgs.games/api/proxy/storage.googleapis.com/fabmaster/media/images/cardback_3mm_63x88.width-300.png",
   "cardIdIdentifier": "id",
