@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://cgs.games/api/proxy/shadowcard.io/api/search.php?database&sort=name",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/Shadowverse%20Evolve.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/en.shadowverse-evolve.com/wordpress/wp-content/themes/en-shadowverse-evolve/assets/images/common/logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/images.shadowcard.io/images/assets/CardBack.jpg",
