@@ -1,6 +1,6 @@
 {
   "allCardsUrl": "https://cgs.games/api/proxy/www.keyforgegame.com/api/decks/?page=1&links=cards",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/KeyForge.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/cgs.json",
   "bannerImageUrl": "https://cgs.games/api/proxy/images-cdn.fantasyflightgames.com/filer_public/15/91/15912457-5917-474f-8ce3-9dd24e1659e3/kf01_logo.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cgs.games/api/proxy/i.kinja-img.com/gawker-media/image/upload/s--y-SPKE2m--/c_scale,f_auto,fl_progressive,q_80,w_800/zeyno0pj1lhy5tlrf7li.jpg",
