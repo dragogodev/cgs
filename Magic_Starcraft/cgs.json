@@ -1,10 +1,10 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/www.magicmultiverse.net/cardsets/358.json",
+  "allCardsUrl": "https://www.magicmultiverse.net/cardsets/358.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json",
   "bannerImageFileType": "jpg",
-  "bannerImageUrl": "https://cgs.games/api/proxy/i.imgur.com/0xAjTK2.jpg",
+  "bannerImageUrl": "https://i.imgur.com/0xAjTK2.jpg",
   "cardBackImageFileType": "jpg",
-  "cardBackImageUrl": "https://cgs.games/api/proxy/i.ibb.co/FJ5kBgC/Terran-back.png",
+  "cardBackImageUrl": "https://i.ibb.co/FJ5kBgC/Terran-back.png",
   "cardDataIdentifier": "cards",
   "cardIdIdentifier": "name",
   "cardImageProperty": "imageURL",
