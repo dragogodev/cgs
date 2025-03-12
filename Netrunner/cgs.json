@@ -1,13 +1,13 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/netrunnerdb.com/api/2.0/public/cards",
-  "allSetsUrl": "https://cgs.games/api/proxy/netrunnerdb.com/api/2.0/public/packs",
+  "allCardsUrl": "https://netrunnerdb.com/api/2.0/public/cards",
+  "allSetsUrl": "https://netrunnerdb.com/api/2.0/public/packs",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/cgs.json",
-  "bannerImageUrl": "https://cgs.games/api/proxy/vignette.wikia.nocookie.net/netrunner101/images/c/c9/Android-netrunner-logo.png",
-  "cardBackImageUrl": "https://cgs.games/api/proxy/vignette.wikia.nocookie.net/ancur/images/c/c3/Corp_back.png",
+  "bannerImageUrl": "https://vignette.wikia.nocookie.net/netrunner101/images/c/c9/Android-netrunner-logo.png",
+  "cardBackImageUrl": "https://vignette.wikia.nocookie.net/ancur/images/c/c3/Corp_back.png",
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "code",
   "cardImageProperty": "image_url",
-  "cardImageUrl": "https://cgs.games/api/proxy/netrunnerdb.com/card_image/{cardId}.png",
+  "cardImageUrl": "https://netrunnerdb.com/card_image/{cardId}.png",
   "cardNameIdentifier": "title",
   "cardPrimaryProperty": "text",
   "cardProperties": [
