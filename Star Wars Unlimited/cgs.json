@@ -1,8 +1,8 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/api.swu-db.com/cards/sor",
+  "allCardsUrl": "https://api.swu-db.com/cards/sor",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/cgs.json",
-  "bannerImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/starwars/images/a/a3/SWUnlimitedLogo.png/revision/latest",
-  "cardBackImageUrl": "https://cgs.games/api/proxy/oasisgamesslc.com/img/product/starwars/cardback.png",
+  "bannerImageUrl": "https://static.wikia.nocookie.net/starwars/images/a/a3/SWUnlimitedLogo.png/revision/latest",
+  "cardBackImageUrl": "https://oasisgamesslc.com/img/product/starwars/cardback.png",
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "Number",
   "cardImageProperty": "FrontArt",
