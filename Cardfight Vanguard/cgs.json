@@ -1,8 +1,8 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/vanguardcard.io/api/search.php?limit=1000&sort=name",
+  "allCardsUrl": "https://vanguardcard.io/api/search.php?limit=1000&sort=name",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json",
-  "bannerImageUrl": "https://cgs.games/api/proxy/en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
-  "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
+  "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
+  "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardIdIdentifier": "cardnumber",
   "cardImageProperty": "image_url",
   "cardPrimaryProperty": "effect",
