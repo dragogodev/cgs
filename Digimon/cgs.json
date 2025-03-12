@@ -1,11 +1,11 @@
 {
-  "allCardsUrl": "https://cgs.games/api/proxy/digimoncard.io/api-public/getAllCards.php",
+  "allCardsUrl": "https://digimoncard.io/api-public/getAllCards.php",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json",
-  "bannerImageUrl": "https://cgs.games/api/proxy/world.digimoncard.com/images/common/header/img_logo.png",
-  "cardBackImageUrl": "https://cgs.games/api/proxy/static.wikia.nocookie.net/digimoncardgame/images/c/ce/Digimon-Card-Back.png",
+  "bannerImageUrl": "https://world.digimoncard.com/images/common/header/img_logo.png",
+  "cardBackImageUrl": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/Digimon-Card-Back.png",
   "cardIdIdentifier": "cardnumber",
   "cardImageFileType": "jpg",
-  "cardImageUrl": "https://cgs.games/api/proxy/images.digimoncard.io/images/cards/{cardId}.jpg",
+  "cardImageUrl": "https://images.digimoncard.io/images/cards/{cardId}.jpg",
   "cardNameIsUnique": false,
   "cardPrimaryProperty": "cardnumber",
   "cardProperties": [
