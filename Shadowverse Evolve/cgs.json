@@ -1,16 +1,15 @@
 {
-  "allCardsUrl": "https://shadowcard.io/api/search.php?database&sort=name",
+  "allCardsUrl": "https://evolve-cdb-765abeab0c65.herokuapp.com/api/cards",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json",
   "bannerImageUrl": "https://en.shadowverse-evolve.com/wordpress/wp-content/themes/en-shadowverse-evolve/assets/images/common/logo.png",
   "cardBackImageFileType": "jpg",
-  "cardBackImageUrl": "https://images.shadowcard.io/images/assets/CardBack.jpg",
-  "cardDataIdentifier": "card",
-  "cardImageFileType": "jpg",
-  "cardImageUrl": "https://images.shadowcard.io/images/cards/{cardId}.jpg",
-  "cardPrimaryProperty": "ability",
+  "cardBackImageUrl": "https://i.ebayimg.com/images/g/m7sAAOSwAk5kjO1H/s-l1600.jpg",
+  "cardIdIdentifier": "cardId",
+  "cardImageProperty": "imgUrl",
+  "cardPrimaryProperty": "description",
   "cardProperties": [
     {
-      "name": "class",
+      "name": "classType",
       "display": "Class",
       "type": "stringEnum"
     },
@@ -20,14 +19,9 @@
       "type": "integer"
     },
     {
-      "name": "type",
+      "name": "kind",
       "display": "Type",
       "type": "stringEnum"
-    },
-    {
-      "name": "stats",
-      "display": "Stats",
-      "type": "string"
     },
     {
       "name": "trait",
@@ -36,17 +30,22 @@
       "type": "string"
     },
     {
-      "name": "flavour",
-      "display": "Flavour",
-      "displayEmpty": "-",
+      "name": "description",
+      "display": "Description",
       "type": "string"
     },
     {
-      "name": "ability",
-      "display": "Ability",
-      "type": "string"
+      "name": "attack",
+      "display": "Attack",
+      "type": "integer"
+    },
+    {
+      "name": "defense",
+      "display": "Defense",
+      "type": "integer"
     }
   ],
+  "cardSetIdentifier": "cardSet",
   "cgsGamesLink": "https://cgs.games/dragogodev/shadowverse_evolve",
   "copyright": "Cygames, Bushiroad",
   "deckSharePreference": "individual",
@@ -58,7 +57,7 @@
   ],
   "enums": [
     {
-      "property": "class",
+      "property": "classType",
       "values": {
         "Neutral": "Neutral",
         "Forestcraft": "Forestcraft",
@@ -70,12 +69,12 @@
       }
     },
     {
-      "property": "type",
+      "property": "kind",
       "values": {
         "Leader": "Leader",
         "Follower": "Follower",
-        "Follower \/ Evolved": "Evolved Follower",
-        "Follower \/ Token": "Token",
+        "Follower / Evolved": "Evolved Follower",
+        "Token": "Token",
         "Amulet": "Amulet",
         "Spell": "Spell"
       }
@@ -84,17 +83,17 @@
   "extras": [
     {
       "group": "Leader",
-      "property": "type",
+      "property": "kind",
       "value": "Leader"
     },
     {
       "group": "Evolve Deck",
-      "property": "type",
-      "value": "Follower \/ Evolved"
+      "property": "kind",
+      "value": "Follower / Evolved"
     },
     {
       "group": "Evolve Deck",
-      "property": "type",
+      "property": "kind",
       "value": "Evolved Follower"
     }
   ],
