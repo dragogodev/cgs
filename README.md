@@ -45,4 +45,4 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - The Elder Scrolls: Legends
 
 ## Archived
-- Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/Artifact.json`)
+- Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/cgs.json`)
