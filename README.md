@@ -30,6 +30,8 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Candidates for Implementation
 - Gundam
+- Riftbound
+- Union Arena
 - Battle Spirits Saga
 - Force of Will
 - Weiss Schwarz
