@@ -1,92 +1,90 @@
-{
-  "games": [
-    {
-      "name": "Arkham Horror",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/cgs.json"
-    },
-    {
-      "name": "Cardfight Vanguard",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json"
-    },
-    {
-      "name": "Digimon",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json"
-    },
-    {
-      "name": "DragoBorne",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json"
-    },
-    {
-      "name": "Dragon Ball Super",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/cgs.json"
-    },
-    {
-      "name": "Dragon Ball Super Fusion World",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json"
-    },
-    {
-      "name": "Final Fantasy TCG",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/cgs.json"
-    },
-    {
-      "name": "Flesh and Blood",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json"
-    },
-    {
-      "name": "Hearthstone",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/cgs.json"
-    },
-    {
-      "name": "KeyForge",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/cgs.json"
-    },
-    {
-      "name": "Legends of Runeterra",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/cgs.json"
-    },
-    {
-      "name": "Lightseekers",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/cgs.json"
-    },
-    {
-      "name": "Lorcana",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json"
-    },
-    {
-      "name": "Magic the Gathering",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/cgs.json"
-    },
-    {
-      "name": "Magic: Starcraft",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json"
-    },
-    {
-      "name": "Netrunner",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/cgs.json"
-    },
-    {
-      "name": "One Piece",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json"
-    },
-    {
-      "name": "Pokemon",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json"
-    },
-    {
-      "name": "Shadowverse",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json"
-    },
-    {
-      "name": "Shadowverse Evolve",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json"
-    },
-    {
-      "name": "Star Wars Unlimited",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/cgs.json"
-    },
-    {
-      "name": "Yugioh",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json"
-    }
-  ]
-}
+[
+  {
+    "name": "Arkham Horror",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Arkham%20Horror/cgs.json"
+  },
+  {
+    "name": "Cardfight Vanguard",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json"
+  },
+  {
+    "name": "Digimon",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json"
+  },
+  {
+    "name": "DragoBorne",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json"
+  },
+  {
+    "name": "Dragon Ball Super",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/cgs.json"
+  },
+  {
+    "name": "Dragon Ball Super Fusion World",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json"
+  },
+  {
+    "name": "Final Fantasy TCG",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/cgs.json"
+  },
+  {
+    "name": "Flesh and Blood",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json"
+  },
+  {
+    "name": "Hearthstone",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/cgs.json"
+  },
+  {
+    "name": "KeyForge",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/cgs.json"
+  },
+  {
+    "name": "Legends of Runeterra",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/cgs.json"
+  },
+  {
+    "name": "Lightseekers",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/cgs.json"
+  },
+  {
+    "name": "Lorcana",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json"
+  },
+  {
+    "name": "Magic the Gathering",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/cgs.json"
+  },
+  {
+    "name": "Magic: Starcraft",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json"
+  },
+  {
+    "name": "Netrunner",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/cgs.json"
+  },
+  {
+    "name": "One Piece",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json"
+  },
+  {
+    "name": "Pokemon",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json"
+  },
+  {
+    "name": "Shadowverse",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json"
+  },
+  {
+    "name": "Shadowverse Evolve",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json"
+  },
+  {
+    "name": "Star Wars Unlimited",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/cgs.json"
+  },
+  {
+    "name": "Yugioh",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json"
+  }
+]
