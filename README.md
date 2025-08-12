@@ -13,6 +13,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Dragon Ball Super Fusion World](https://cgs.games/dragogodev/dragon_ball_super_fusion_world) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json`)
 - [Final Fantasy TCG](https://cgs.games/dragogodev/final_fantasy_tcg) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/cgs.json`)
 - [Flesh and Blood](https://cgs.games/dragogodev/flesh_and_blood) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json`)
+- [Gundam](https://cgs.games/dragogodev/gundam) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json`)
 - [Hearthstone](https://cgs.games/dragogodev/hearthstone) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/cgs.json`)
 - [KeyForge](https://cgs.games/dragogodev/key_forge) (`https://raw.githubusercontent.com/dragogodev/cgs/master/KeyForge/cgs.json`)
 - [Legends of Runeterra](https://cgs.games/dragogodev/legends_of_runeterra) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/cgs.json`)
@@ -29,8 +30,8 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json`)
 
 ## Candidates for Implementation
-- Gundam
 - Riftbound
+- Godzilla Card Game
 - Union Arena
 - Battle Spirits Saga
 - Force of Will
@@ -46,3 +47,4 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/cgs.json`)
+
