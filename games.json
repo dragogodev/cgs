@@ -32,6 +32,10 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json"
   },
   {
+    "name": "Gundam",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json"
+  },
+  {
     "name": "Hearthstone",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/cgs.json"
   },
