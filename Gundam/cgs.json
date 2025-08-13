@@ -1,0 +1,120 @@
+{
+  "allCardsUrl": "https://exburst.dev/gundam/external/fetch_data.php?gameid=gundam&series=*&seriesColumn=series",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json",
+  "bannerImageUrl": "https://www.gundam-gcg.com/images/global/logo.webp",
+  "cardBackImageUrl": "https://gundams.dev/i/cardback.webp",
+  "cardIdIdentifier": "cardNo",
+  "cardImageProperty": "image",
+  "cardPrimaryProperty": "effectData",
+  "cardProperties": [
+    {
+      "name": "level",
+      "display": "Level",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "apData",
+      "display": "AP",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "hp",
+      "display": "HP",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "blockIcon",
+      "display": "Block Icon",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "categoryData",
+      "display": "Card Type",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "effectData",
+      "display": "Effect",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "link",
+      "display": "Link",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "attributeData",
+      "display": "Attribute",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "trait",
+      "display": "Trait",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "artist",
+      "display": "Artist",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "image",
+      "display": "Image",
+      "type": "escapedString"
+    }
+  ],
+  "cardSetIdentifier": "series",
+  "cardSetNameIdentifier": "seriesName",
+  "cgsGamesLink": "https://cgs.games/dragogodev/gundam",
+  "copyright": "SOTSU SUNRISE MBS, BANDAI",
+  "deckSharePreference": "individual",
+  "enums": [
+    {
+      "property": "rarity",
+      "values": {
+        "C": "C",
+        "U": "U",
+        "R": "R",
+        "LR": "LR",
+        "LR+": "LR+"
+      }
+    }
+  ],
+  "gameStartHandCount": 5,
+  "gameStartPointsCount": 0,
+  "name": "Gundam",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/PlayMat.png",
+  "playMatSize": {
+    "x": 36,
+    "y": 42
+  },
+  "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
+}
