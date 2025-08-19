@@ -3,13 +3,12 @@
   "allCardsUrlPageCountIdentifier": "totalCount",
   "allCardsUrlPageCountDivisor": 250,
   "allCardsUrlRequestHeaderValue": "80401600-3ad9-42b1-b709-f78e5b168705",
-  "allSetsUrl": "https://api.pokemontcg.io/v2/sets",
+  "allSetsUrl": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/refs/heads/master/sets/en.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json",
   "bannerImageFileType": "jpg",
   "bannerImageUrl": "https://assets.pokemon.com/assets/cms2/img/trading-card-game/_tiles/tcg_product_gallery_169_en.jpg",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pokemon_Trading_Card_Game_cardback.jpg",
-  "cardDataIdentifier": "data",
   "cardImageProperty": "images.large",
   "cardNameIsUnique": false,
   "cardSetIsObject": true,
@@ -343,6 +342,5 @@
   "gameStartHandCount": 7,
   "name": "Pokemon",
   "setCodeIdentifier": "id",
-  "setDataIdentifier": "data",
   "rulesUrl": "https://www.pokemon.com/us/pokemon-tcg/rules"
 }
