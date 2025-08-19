@@ -72,6 +72,10 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json"
   },
   {
+    "name": "Pokemon",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json"
+  },
+  {
     "name": "Shadowverse",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json"
   },
