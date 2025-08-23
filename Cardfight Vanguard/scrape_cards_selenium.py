@@ -33,7 +33,18 @@ def scroll_to_bottom():
         last_height = new_height
 
 def scrape_cards(productUrl):
-    driver.get(productUrl)
+    # Retry logic for loading the product page
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            driver.get(productUrl)
+            break
+        except Exception as e:
+            print(f"Error loading {productUrl} (attempt {attempt+1}/{max_retries}): {e}")
+            if attempt == max_retries - 1:
+                print(f"Failed to load {productUrl} after {max_retries} attempts. Skipping.")
+                return []
+            time.sleep(10)
     # Get product name from the page's h3.style-h3.margin-half
     try:
         productName = driver.find_element(By.CSS_SELECTOR, ".cardlist_head h3.style-h3.margin-half").text.strip()
