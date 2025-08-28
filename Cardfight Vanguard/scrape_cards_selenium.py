@@ -99,6 +99,7 @@ def scrape_cards(productUrl):
                 "number": card_number,
                 "url": url,
                 "image_url": image_url,
+                "image_file_type": image_url.split('.')[-1] if image_url else "",
                 "effect": effect,
                 "productNumber": productNumber,
                 "productName": productName
