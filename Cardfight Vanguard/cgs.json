@@ -4,6 +4,7 @@
   "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardIdIdentifier": "number",
+  "cardImageFileTypeIdentifier": "image_file_type",
   "cardImageProperty": "image_url",
   "cardPrimaryProperty": "effect",
   "cardProperties": [
@@ -35,6 +36,11 @@
     {
       "name": "effect",
       "display": "Effect",
+      "type": "string"
+    },
+    {
+      "name": "url",
+      "display": "Official Web Page",
       "type": "string"
     }
   ],
