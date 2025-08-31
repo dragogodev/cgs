@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sanctuary Guard Dragon",
+    "number": "V-SS06/001EN",
+    "url": "https://en.cf-vanguard.com/cardlist/?cardno=V-SS06/001EN&expansion=158&view=text",
+    "image_url": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/vss06/vss06_001.png",
+    "image_file_type": "png",
+    "effect": "[CONT](VC):If your opponent's vanguard is grade 3 or greater, and you have a grade 1 unit, this unit's original [Critical] becomes 2.\n[AUTO](VC)[1/turn]:At the end of the battle it attacked while not boosted, [COST][Counter-Blast 1 & Rest] three of your back row grade 1 rear-guards & discard a card from your hand], [Stand] this unit, and all of your front row units get [Power] +10000 until end of turn.",
+    "productName": "[VGE-V-SS06] Valiant Sanctuary",
+    "type": "Normal Unit",
+    "clan": "Royal Paladin",
+    "grade": 3,
+    "power": 13000,
+    "shield": null
+  },
+  {
+    "name": "Knight of Conquest, Wigstan",
+    "number": "V-SS06/002EN",
+    "url": "https://en.cf-vanguard.com/cardlist/?cardno=V-SS06/002EN&expansion=158&view=text",
+    "image_url": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/vss06/vss06_002.png",
+    "image_file_type": "png",
+    "effect": "[CONT](RC):During your turn, if you have a vanguard with \"Sanctuary Guard\" in its card name, this unit gets [Power] +5000 for each of your back row grade 1 rear-guards.\n[AUTO](VC/RC):When placed, [COST][Counter-Blast 1], look at seven cards from the top of your deck, call up to one grade 1 card from among them to (RC), and shuffle your deck.",
+    "productName": "[VGE-V-SS06] Valiant Sanctuary",
+    "type": "Normal Unit",
+    "clan": "Royal Paladin",
+    "grade": 2,
+    "power": 10000,
+    "shield": 5000
+  },
+  {
+    "name": "Authoritative Knight, Ballizal",
+    "number": "V-SS06/003EN",
+    "url": "https://en.cf-vanguard.com/cardlist/?cardno=V-SS06/003EN&expansion=158&view=text",
+    "image_url": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/vss06/vss06_003.png",
+    "image_file_type": "png",
+    "effect": "[AUTO](VC):When placed, look at seven cards from the top of your deck, reveal up to one \"Sanctuary Guard Dragon\" or \"Knight of Conquest, Wigstan\" from among them and put it into your hand, and shuffle your deck.\n[AUTO](RC):When your vanguard with \"Sanctuary Guard\" in its card name attacks, that unit gets [Power] +10000 until end of that battle. If you have no face up cards in your damage zone, [Counter-Charge 1]. This ability may only be used by a card with the same card name once a turn.",
+    "productName": "[VGE-V-SS06] Valiant Sanctuary",
+    "type": "Normal Unit",
+    "clan": "Royal Paladin",
+    "grade": 1,
+    "power": 8000,
+    "shield": 10000
+  },
+  {
+    "name": "Starting Legend, Ambrosius",
+    "number": "V-SS06/004EN",
+    "url": "https://en.cf-vanguard.com/cardlist/?cardno=V-SS06/004EN&expansion=158&view=text",
+    "image_url": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/vss06/vss06_004.png",
+    "image_file_type": "png",
+    "effect": "[AUTO]:When rode upon, draw a card. Then, if your opponent's vanguard is grade 1 or greater, put a Quick Shield ticket into your hand.",
+    "productName": "[VGE-V-SS06] Valiant Sanctuary",
+    "type": "Normal Unit",
+    "clan": "Royal Paladin",
+    "grade": 0,
+    "power": 6000,
+    "shield": 10000
+  },
+  {
+    "name": "Quick Shield",
+    "number": "V-SS06/005EN",
+    "url": "https://en.cf-vanguard.com/cardlist/?cardno=V-SS06/005EN&expansion=158&view=text",
+    "image_url": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/vss06/vss06_005.png",
+    "image_file_type": "png",
+    "effect": "One of your attacked units gets [Power] +5000 until end of that battle!",
+    "productName": "[VGE-V-SS06] Valiant Sanctuary",
+    "type": "Others",
+    "clan": "-",
+    "grade": 0,
+    "power": null,
+    "shield": null
+  }
+]
