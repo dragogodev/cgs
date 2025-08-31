@@ -129,12 +129,18 @@ def main():
         parsed_url = urllib.parse.urlparse(link)
         query_params = urllib.parse.parse_qs(parsed_url.query)
         productNumber = query_params.get('expansion', [''])[0]
+        # Get productName from the first card if available, else empty string
+        if cards and isinstance(cards, list) and len(cards) > 0:
+            productName = cards[0].get('productName', '')
+        else:
+            productName = ''
         if productNumber:
             filename = f"{productNumber}.json"
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(cards, f, ensure_ascii=False, indent=2)
         cards_url = 'https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/' + productNumber + '.json'
-        all_sets.append({'url': link, 'code': productNumber, 'cardsUrl': cards_url})
+        card_set = {'url': link, 'code': productNumber, 'name': productName, 'cardsUrl': cards_url}
+        all_sets.append(card_set)
         with open('AllSets.json', 'w', encoding='utf-8') as f:
             json.dump(all_sets, f, ensure_ascii=False, indent=2)
         time.sleep(0.5)
