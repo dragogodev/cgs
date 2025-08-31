@@ -45,11 +45,6 @@ def scrape_cards(productUrl):
         productName = driver.find_element(By.CSS_SELECTOR, ".cardlist_head h3.style-h3.margin-half").text.strip()
     except Exception:
         productName = ""
-    # Set productNumber as the value of the 'expansion' query parameter
-    import urllib.parse
-    parsed_url = urllib.parse.urlparse(productUrl)
-    query_params = urllib.parse.parse_qs(parsed_url.query)
-    productNumber = query_params.get('expansion', [''])[0]
     # Click on "List Detail View" to get more info
     try:
         list_view_btn = WebDriverWait(driver, 10).until(
@@ -96,7 +91,6 @@ def scrape_cards(productUrl):
                 "image_url": image_url,
                 "image_file_type": image_url.split('.')[-1] if image_url else "",
                 "effect": effect,
-                "productNumber": productNumber,
                 "productName": productName
             }
             card.update(status_fields)
@@ -115,9 +109,6 @@ def load_existing_cards(filename):
     return []
 
 def main():
-    product_links = set()
-    for i in range(240):
-        product_links.add('https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=' + str(i))
     all_sets = []
     if os.path.exists('AllSets.json'):
         with open('AllSets.json', 'r', encoding='utf-8') as f:
@@ -126,11 +117,12 @@ def main():
             except Exception:
                 all_sets = []
     scraped_links = set(obj['url'] for obj in all_sets if 'url' in obj)
-    for idx, link in enumerate(product_links, 1):
+    for i in sorted(range(240)):
+        link = 'https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=' + str(i)
         if link in scraped_links:
             print(f"Skipping already scraped: {link}")
             continue
-        print(f"Scraping product {idx}/{len(product_links)}: {link}")
+        print(f"Scraping product {i}/240: {link}")
         cards = scrape_cards(link)
         # Save cards for this set to {expansion}.json
         import urllib.parse
@@ -141,7 +133,8 @@ def main():
             filename = f"{productNumber}.json"
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(cards, f, ensure_ascii=False, indent=2)
-        all_sets.append({'url': link, 'setCode': productNumber})
+        cards_url = 'https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/' + productNumber + '.json'
+        all_sets.append({'url': link, 'code': productNumber, 'cardsUrl': cards_url})
         with open('AllSets.json', 'w', encoding='utf-8') as f:
             json.dump(all_sets, f, ensure_ascii=False, indent=2)
         time.sleep(0.5)
