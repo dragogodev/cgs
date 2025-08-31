@@ -9,13 +9,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Set up Selenium with headless Chrome
-options = Options()
-options.add_argument('--headless')
-options.add_argument('--disable-gpu')
-options.add_argument('--no-sandbox')
-options.add_argument('--window-size=1920,1080')
 
-driver = webdriver.Chrome(options=options)
+def create_driver():
+    options = Options()
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--window-size=1920,1080')
+    return webdriver.Chrome(options=options)
+
+driver = None  # Will be initialized in main()
 
 def scroll_to_bottom():
     last_height = driver.execute_script("return document.body.scrollHeight")
@@ -29,6 +32,7 @@ def scroll_to_bottom():
 
 def scrape_cards(productUrl):
     # Retry logic for loading the product page
+    global driver
     max_retries = 3
     for attempt in range(max_retries):
         try:
@@ -39,6 +43,12 @@ def scrape_cards(productUrl):
             if attempt == max_retries - 1:
                 print(f"Failed to load {productUrl} after {max_retries} attempts. Skipping.")
                 return []
+            # Try to re-create the driver if session is lost
+            try:
+                driver.quit()
+            except Exception:
+                pass
+            driver = create_driver()
             time.sleep(10)
     # Get product name from the page's h3.style-h3.margin-half
     try:
@@ -54,10 +64,14 @@ def scrape_cards(productUrl):
         time.sleep(2)
     except Exception as e:
         print("Could not click List Detail View:", e)
-    # Wait for the card list to load
-    WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, "#cardlist-container ul li"))
-    )
+    # Wait for the card list to load, handle timeout gracefully
+    try:
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "#cardlist-container ul li"))
+        )
+    except Exception as e:
+        print(f"Timeout or error waiting for card list: {e}. Skipping set.")
+        return []
     scroll_to_bottom()  # Load all cards via infinite scroll if needed
     cards = []
     items = driver.find_elements(By.CSS_SELECTOR, "#cardlist-container ul li")
@@ -110,22 +124,20 @@ def load_existing_cards(filename):
 
 def main():
     # Dynamically determine the number of expansions by scraping the product list page
+    global driver
+    driver = create_driver()
     driver.get('https://en.cf-vanguard.com/cardlist/')
     time.sleep(2)
     import re
     try:
-        # Find all anchor tags with href containing 'cardsearch/?expansion='
-        product_links = driver.find_elements(By.CSS_SELECTOR, 'a[href*="cardsearch/?expansion="]')
-        expansion_indices = set()
-        for a in product_links:
-            href = a.get_attribute('href')
-            match = re.search(r'expansion=(\d+)', href)
-            if match:
-                expansion_indices.add(int(match.group(1)))
+        # Extract all expansion numbers from the page source using regex
+        page_source = driver.page_source
+        expansion_indices = set(int(m) for m in re.findall(r'cardsearch/\?expansion=(\d+)', page_source))
         expansion_indices = sorted(expansion_indices)
         num_sets = len(expansion_indices)
     except Exception as e:
         print(f"Could not determine number of expansions: {e}")
+        driver.quit()
         return
     all_sets = []
     if os.path.exists('AllSets.json'):
@@ -141,6 +153,13 @@ def main():
             print(f"Skipping already scraped: {link}")
             continue
         print(f"Scraping product {idx+1}/{num_sets}: {link}")
+        # Re-create driver for each expansion to avoid session loss
+        try:
+            if driver:
+                driver.quit()
+        except Exception:
+            pass
+        driver = create_driver()
         cards = scrape_cards(link)
         # Save cards for this set to {expansion}.json
         import urllib.parse
@@ -153,7 +172,7 @@ def main():
         else:
             productName = ''
         if productNumber:
-            filename = f"{productNumber}.json"
+            filename = f"sets/{productNumber}.json"
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(cards, f, ensure_ascii=False, indent=2)
         cards_url = 'https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/' + productNumber + '.json'
@@ -163,7 +182,8 @@ def main():
             json.dump(all_sets, f, ensure_ascii=False, indent=2)
         time.sleep(0.5)
     print(f"Scraped {len(all_sets)} sets.")
-    driver.quit()
+    if driver:
+        driver.quit()
 
 if __name__ == "__main__":
     main()
