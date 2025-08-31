@@ -1,8 +1,6 @@
 import json
 import os
 import time
-from bs4 import BeautifulSoup
-import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -18,9 +16,6 @@ options.add_argument('--no-sandbox')
 options.add_argument('--window-size=1920,1080')
 
 driver = webdriver.Chrome(options=options)
-
-BASE_URL = "https://en.cf-vanguard.com/cardlist/"
-SLEEP_BETWEEN = 0.5
 
 def scroll_to_bottom():
     last_height = driver.execute_script("return document.body.scrollHeight")
@@ -118,59 +113,39 @@ def load_existing_cards(filename):
             except Exception:
                 return []
     return []
-TIMEOUT = 15
-RETRIES = 3
-SLEEP_BETWEEN = 0.5
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
-
-def get_with_retries(url, **kwargs):
-    for attempt in range(RETRIES):
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT, **kwargs)
-            resp.raise_for_status()
-            return resp
-        except Exception as e:
-            print(f"Request failed for {url} (attempt {attempt+1}/{RETRIES}): {e}")
-            time.sleep(2)
-    print(f"Failed to fetch {url} after {RETRIES} attempts.")
-    return None
-
-def get_product_links():
-    resp = get_with_retries(BASE_URL)
-    if not resp:
-        return []
-    soup = BeautifulSoup(resp.text, 'html.parser')
-    links = set()
-    for a in soup.find_all('a', href=True):
-        href = a['href']
-        if href.startswith('/cardlist/cardsearch/?expansion='):
-            links.add('https://en.cf-vanguard.com' + href)
-    return sorted(links)
 
 def main():
-    all_cards = load_existing_cards('AllCards.json')
-    product_links = get_product_links()
-    print(f"Found {len(product_links)} product links.")
-    scraped_links = set()
-    if os.path.exists('scraped_links.txt'):
-        with open('scraped_links.txt', 'r') as f:
-            scraped_links = set(line.strip() for line in f)
+    product_links = set()
+    for i in range(240):
+        product_links.add('https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=' + str(i))
+    all_sets = []
+    if os.path.exists('AllSets.json'):
+        with open('AllSets.json', 'r', encoding='utf-8') as f:
+            try:
+                all_sets = json.load(f)
+            except Exception:
+                all_sets = []
+    scraped_links = set(obj['url'] for obj in all_sets if 'url' in obj)
     for idx, link in enumerate(product_links, 1):
         if link in scraped_links:
             print(f"Skipping already scraped: {link}")
             continue
         print(f"Scraping product {idx}/{len(product_links)}: {link}")
         cards = scrape_cards(link)
-        all_cards.extend(cards)
-        # Save progress after each product
-        with open('AllCards.json', 'w', encoding='utf-8') as f:
-            json.dump(all_cards, f, ensure_ascii=False, indent=2)
-        with open('scraped_links.txt', 'a', encoding='utf-8') as f:
-            f.write(link + '\n')
-        time.sleep(SLEEP_BETWEEN)
-    print(f"Scraped {len(all_cards)} cards.")
+        # Save cards for this set to {expansion}.json
+        import urllib.parse
+        parsed_url = urllib.parse.urlparse(link)
+        query_params = urllib.parse.parse_qs(parsed_url.query)
+        productNumber = query_params.get('expansion', [''])[0]
+        if productNumber:
+            filename = f"{productNumber}.json"
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(cards, f, ensure_ascii=False, indent=2)
+        all_sets.append({'url': link, 'setCode': productNumber})
+        with open('AllSets.json', 'w', encoding='utf-8') as f:
+            json.dump(all_sets, f, ensure_ascii=False, indent=2)
+        time.sleep(0.5)
+    print(f"Scraped {len(all_sets)} sets.")
     driver.quit()
 
 if __name__ == "__main__":
