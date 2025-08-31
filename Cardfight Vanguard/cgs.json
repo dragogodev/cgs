@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json",
   "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
@@ -44,8 +44,6 @@
       "type": "string"
     }
   ],
-  "cardSetIdentifier": "productNumber",
-  "cardSetNameIdentifier": "productName",
   "cgsGamesLink": "https://cgs.games/dragogodev/cardfight_vanguard",
   "copyright": "Bushiroad",
   "deckSharePreference": "individual",
