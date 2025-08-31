@@ -109,6 +109,24 @@ def load_existing_cards(filename):
     return []
 
 def main():
+    # Dynamically determine the number of expansions by scraping the product list page
+    driver.get('https://en.cf-vanguard.com/cardlist/')
+    time.sleep(2)
+    import re
+    try:
+        # Find all anchor tags with href containing 'cardsearch/?expansion='
+        product_links = driver.find_elements(By.CSS_SELECTOR, 'a[href*="cardsearch/?expansion="]')
+        expansion_indices = set()
+        for a in product_links:
+            href = a.get_attribute('href')
+            match = re.search(r'expansion=(\d+)', href)
+            if match:
+                expansion_indices.add(int(match.group(1)))
+        expansion_indices = sorted(expansion_indices)
+        num_sets = len(expansion_indices)
+    except Exception as e:
+        print(f"Could not determine number of expansions: {e}")
+        return
     all_sets = []
     if os.path.exists('AllSets.json'):
         with open('AllSets.json', 'r', encoding='utf-8') as f:
@@ -117,12 +135,12 @@ def main():
             except Exception:
                 all_sets = []
     scraped_links = set(obj['url'] for obj in all_sets if 'url' in obj)
-    for i in sorted(range(240)):
+    for idx, i in enumerate(sorted(expansion_indices)):
         link = 'https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=' + str(i)
         if link in scraped_links:
             print(f"Skipping already scraped: {link}")
             continue
-        print(f"Scraping product {i}/240: {link}")
+        print(f"Scraping product {idx+1}/{num_sets}: {link}")
         cards = scrape_cards(link)
         # Save cards for this set to {expansion}.json
         import urllib.parse
