@@ -1,0 +1,1442 @@
+[
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=0",
+    "code": "0",
+    "name": "PR cards",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/0.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=1",
+    "code": "1",
+    "name": "Imaginary Gift",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/1.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=3",
+    "code": "3",
+    "name": "[TD01]Blaster Blade",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/3.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=4",
+    "code": "4",
+    "name": "[TD02]Dragonic Overlord",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/4.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=5",
+    "code": "5",
+    "name": "[BT01]Descent of the King of Knights",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/5.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=6",
+    "code": "6",
+    "name": "[BT02]Onslaught of Dragon Souls",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/6.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=7",
+    "code": "7",
+    "name": "[TD05]Slash of Silver Wolf",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/7.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=8",
+    "code": "8",
+    "name": "[TD06]Resonance of Thunder Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/8.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=9",
+    "code": "9",
+    "name": "[BT06]Breaker of Limits",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/9.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=10",
+    "code": "10",
+    "name": "[EB03]Cavalry of Black Steel",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/10.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=12",
+    "code": "12",
+    "name": "[BT03]Demonic Lord Invasion",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/12.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=13",
+    "code": "13",
+    "name": "[BT07]Rampage of the Beast King",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/13.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=14",
+    "code": "14",
+    "name": "[EB02]Banquet of Divas",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/14.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=15",
+    "code": "15",
+    "name": "[BT04]Eclipse of Illusionary Shadows",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/15.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=16",
+    "code": "16",
+    "name": "[TD03]Golden Mechanical Soldier",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/16.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=17",
+    "code": "17",
+    "name": "[TD04]Maiden Princess of the Cherry Blossoms",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/17.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=18",
+    "code": "18",
+    "name": "[BT05]Awakening of Twin Blades",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/18.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=19",
+    "code": "19",
+    "name": "[EB01]Comic Style Vol. 1",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/19.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=20",
+    "code": "20",
+    "name": "[TD07]Descendants of the Marine Emperor",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/20.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=21",
+    "code": "21",
+    "name": "[BT08]Blue Storm Armada",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/21.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=22",
+    "code": "22",
+    "name": "[BT09]Clash of the Knights & Dragons",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/22.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=23",
+    "code": "23",
+    "name": "[EB06]Dazzling Divas",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/23.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=24",
+    "code": "24",
+    "name": "[EB04]Infinite Phantom Legion",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/24.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=25",
+    "code": "25",
+    "name": "[EB05]Celestial Valkyries",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/25.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=26",
+    "code": "26",
+    "name": "[TD08]Liberator of the Sanctuary",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/26.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=27",
+    "code": "27",
+    "name": "[TD09]Eradicator of the Empire",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/27.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=28",
+    "code": "28",
+    "name": "[BT11]Seal Dragons Unleashed",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/28.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=29",
+    "code": "29",
+    "name": "[MT01]Rise to Royalty",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/29.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=30",
+    "code": "30",
+    "name": "[BT10]Triumphant Return of the King of Knights",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/30.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=31",
+    "code": "31",
+    "name": "[TD10]Purgatory Revenger",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/31.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=32",
+    "code": "32",
+    "name": "[TD11]Star-vader Invasion",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/32.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=33",
+    "code": "33",
+    "name": "[BT12]Binding Force of the Black Rings",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/33.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=34",
+    "code": "34",
+    "name": "[TD12]Dimensional Brave Kaiser",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/34.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=35",
+    "code": "35",
+    "name": "[EB07]Mystical Magus",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/35.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=36",
+    "code": "36",
+    "name": "[BT13]Catastrophic Outbreak",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/36.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=37",
+    "code": "37",
+    "name": "[EB08]Champions of the Cosmos",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/37.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=38",
+    "code": "38",
+    "name": "[EB09]Divine Dragon Progression",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/38.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=39",
+    "code": "39",
+    "name": "[TD13]Successor of the Sacred Regalia",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/39.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=40",
+    "code": "40",
+    "name": "[BT14]Brilliant Strike",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/40.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=41",
+    "code": "41",
+    "name": "[EB10]Divas Duet",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/41.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=42",
+    "code": "42",
+    "name": "[BT15]Infinite Rebirth",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/42.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=43",
+    "code": "43",
+    "name": "[FC02]Fighters Collection 2014",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/43.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=44",
+    "code": "44",
+    "name": "[TD14]Seeker of Hope",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/44.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=45",
+    "code": "45",
+    "name": "[TD16]Divine Judgment of the Bluish Flames",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/45.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=46",
+    "code": "46",
+    "name": "[TD17]Will of the Locked Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/46.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=47",
+    "code": "47",
+    "name": "[EB11]Requiem at Dusk",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/47.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=48",
+    "code": "48",
+    "name": "[EB12]Waltz of the Goddess",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/48.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=49",
+    "code": "49",
+    "name": "[BT16]Legion of Dragons & Blades ver.E",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/49.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=50",
+    "code": "50",
+    "name": "[BT17]Blazing Perdition ver.E",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/50.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=51",
+    "code": "51",
+    "name": "[G-TD01] Awakening of the Interdimensional Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/51.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=52",
+    "code": "52",
+    "name": "[G-TD02] Divine Swordsman of the Shiny Star",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/52.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=53",
+    "code": "53",
+    "name": "[G-TD03] Flower Maiden of Purity",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/53.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=54",
+    "code": "54",
+    "name": "[G-BT01] Generation Stride",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/54.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=55",
+    "code": "55",
+    "name": "[G-TD04] Blue Cavalry of the Divine Marine Spirits",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/55.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=56",
+    "code": "56",
+    "name": "[G-EB01] Cosmic Roar",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/56.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=57",
+    "code": "57",
+    "name": "[G-BT02] Soaring Ascent of Gale & Blossom",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/57.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=58",
+    "code": "58",
+    "name": "[G-LD01] The Dark \"Ren Suzugamori\"",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/58.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=59",
+    "code": "59",
+    "name": "[G-FC01] G Fighters Collection 2015",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/59.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=60",
+    "code": "60",
+    "name": "[G-TD05] Fateful Star Messiah",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/60.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=61",
+    "code": "61",
+    "name": "[G-BT03] Sovereign Star Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/61.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=62",
+    "code": "62",
+    "name": "[G-CB01] Academy of Divas",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/62.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=63",
+    "code": "63",
+    "name": "[G-BT04] Soul Strike Against The Supreme",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/63.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=64",
+    "code": "64",
+    "name": "[G-TB01] Touken Ranbu -ONLINE-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/64.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=65",
+    "code": "65",
+    "name": "[G-CMB01] Vanguard and Deletor",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/65.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=66",
+    "code": "66",
+    "name": "[G-CB02] Commander of the Incessant Waves",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/66.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=67",
+    "code": "67",
+    "name": "[G-TD06] Rallying Call of the Interspectral Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/67.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=68",
+    "code": "68",
+    "name": "[G-TD07] Illusionist of the Crescent Moon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/68.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=69",
+    "code": "69",
+    "name": "[G-FC02] G Fighters Collection 2015 Winter",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/69.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=70",
+    "code": "70",
+    "name": "[G-BT05] Moonlit Dragonfang",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/70.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=71",
+    "code": "71",
+    "name": "[G-TCB01] The RECKLESS RAMPAGE",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/71.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=72",
+    "code": "72",
+    "name": "[G-SD01] Odyssey of the Interspatial Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/72.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=73",
+    "code": "73",
+    "name": "[G-TD08] Vampire Princess of the Nether Hour",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/73.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=74",
+    "code": "74",
+    "name": "[G-BT06] Transcension of Blade & Blossom",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/74.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=75",
+    "code": "75",
+    "name": "[G-SD02] Knight of the Sun",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/75.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=76",
+    "code": "76",
+    "name": "[G-LD02] The Overlord blaze “Toshiki Kai”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/76.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=77",
+    "code": "77",
+    "name": "[G-FC03] G Fighters Collection 2016",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/77.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=78",
+    "code": "78",
+    "name": "[G-BT07] Glorious Bravery of Radiant Sword",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/78.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=79",
+    "code": "79",
+    "name": "[G-CB03] Blessing of Divas",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/79.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=80",
+    "code": "80",
+    "name": "[G-TCB02] The GENIUS STRATEGY",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/80.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=81",
+    "code": "81",
+    "name": "[G-BT08] Absolute Judgment",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/81.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=82",
+    "code": "82",
+    "name": "[G-TD09] True Zodiac Time Beasts",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/82.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=83",
+    "code": "83",
+    "name": "[G-CB04] Gear of Fate",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/83.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=84",
+    "code": "84",
+    "name": "[G-TD10] Ritual of Dragon Sorcery",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/84.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=85",
+    "code": "85",
+    "name": "[G-BT09] Divine Dragon Caper",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/85.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=86",
+    "code": "86",
+    "name": "[G-RC01] Cardfight!! Vanguard G Revival Collection",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/86.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=87",
+    "code": "87",
+    "name": "[G-TTD1] Touken Ranbu -ONLINE-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/87.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=88",
+    "code": "88",
+    "name": "[G-TB02] Touken Ranbu -ONLINE- 2",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/88.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=89",
+    "code": "89",
+    "name": "[G-TD11] Divine Knight of Heavenly Decree",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/89.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=90",
+    "code": "90",
+    "name": "[G-TD12] Flower Princess of Abundant Blooming",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/90.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=91",
+    "code": "91",
+    "name": "[G-CHB01] TRY3 NEXT",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/91.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=92",
+    "code": "92",
+    "name": "[G-CHB02] We Are!!! Trinity Dragon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/92.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=93",
+    "code": "93",
+    "name": "[G-BT10] Raging Clash of the Blade Fangs",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/93.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=94",
+    "code": "94",
+    "name": "[G-CHB03] Rummy Labyrinth Under the Moonlight",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/94.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=95",
+    "code": "95",
+    "name": "[G-LD03] The Blaster “Aichi Sendou”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/95.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=96",
+    "code": "96",
+    "name": "[G-FC04] G Fighters Collection 2017",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/96.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=97",
+    "code": "97",
+    "name": "[G-TD14] Debut of the Divas",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/97.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=98",
+    "code": "98",
+    "name": "[G-CB05] Prismatic Divas",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/98.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=99",
+    "code": "99",
+    "name": "[G-TD13] Evil Eye Sovereign",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/99.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=100",
+    "code": "100",
+    "name": "[G-BT11] Demonic Advent",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/100.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=101",
+    "code": "101",
+    "name": "[G-BT12] Dragon King’s Awakening",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/101.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=102",
+    "code": "102",
+    "name": "[G-TD15] Messiah Dragon of Rebirth",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/102.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=103",
+    "code": "103",
+    "name": "[G-CB06] Rondeau of Chaos and Salvation",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/103.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=104",
+    "code": "104",
+    "name": "[G-BT13] Ultimate Stride",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/104.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=105",
+    "code": "105",
+    "name": "[G-EB02] The AWAKENING ZOO",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/105.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=106",
+    "code": "106",
+    "name": "[G-EB03] The GALAXY STAR GATE",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/106.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=107",
+    "code": "107",
+    "name": "[G-BT14] Divine Dragon Apocrypha",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/107.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=108",
+    "code": "108",
+    "name": "[G-CB07] Divas' Festa",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/108.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=109",
+    "code": "109",
+    "name": "[V-TD01] Aichi Sendou",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/109.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=110",
+    "code": "110",
+    "name": "[V-TD02] Toshiki Kai",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/110.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=111",
+    "code": "111",
+    "name": "[V-BT01] Unite! Team Q4",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/111.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=112",
+    "code": "112",
+    "name": "[VGE-V-EB01] The Destructive Roar",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/112.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=113",
+    "code": "113",
+    "name": "[VGE-V-EB02] Champions of the Asia Circuit",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/113.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=114",
+    "code": "114",
+    "name": "[V-TD03] Leon Soryu",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/114.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=115",
+    "code": "115",
+    "name": "[V-TD04] Ren Suzugamori",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/115.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=116",
+    "code": "116",
+    "name": "2018 Demo Deck \"Kagero\"",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/116.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=117",
+    "code": "117",
+    "name": "2018 Demo Deck \"Royal Paladin\"",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/117.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=118",
+    "code": "118",
+    "name": "[V-BT02] Strongest! Team AL4",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/118.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=119",
+    "code": "119",
+    "name": "[V-MB01] PSYqualia Strife",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/119.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=120",
+    "code": "120",
+    "name": "[V-CS01] Q4 vs. AL4",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/120.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=121",
+    "code": "121",
+    "name": "[V-EB03] ULTRARARE MIRACLE COLLECTION",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/121.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=122",
+    "code": "122",
+    "name": "[V-EB04] The Answer of Truth",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/122.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=123",
+    "code": "123",
+    "name": "[V-TD05] Misaki Tokura",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/123.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=124",
+    "code": "124",
+    "name": "[V-TD06] Naoki Ishida",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/124.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=125",
+    "code": "125",
+    "name": "[V-BT03] Miyaji Academy CF Club",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/125.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=126",
+    "code": "126",
+    "name": "[V-TD07] Kouji Ibuki",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/126.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=127",
+    "code": "127",
+    "name": "[V-BT04] Vilest! Deletor",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/127.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=128",
+    "code": "128",
+    "name": "[V-TD08] Schokolade Melody",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/128.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=129",
+    "code": "129",
+    "name": "[V-EB05] Primary Melody",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/129.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=130",
+    "code": "130",
+    "name": "[G-RC02] Revival Collection",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/130.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=131",
+    "code": "131",
+    "name": "[V-EB06] Light of Salvation, Logic of Destruction",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/131.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=132",
+    "code": "132",
+    "name": "[VGE-V-SS01] Special Series 01 “Premium Collection 2019″",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/132.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=133",
+    "code": "133",
+    "name": "[V-EB07] The Heroic Evolution",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/133.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=134",
+    "code": "134",
+    "name": "[V-EB08] My Glorious Justice",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/134.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=135",
+    "code": "135",
+    "name": "[V-BT05] Aerial Steed Liberation",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/135.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=136",
+    "code": "136",
+    "name": "[V-BT06] Phantasmal Steed Restoration",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/136.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=137",
+    "code": "137",
+    "name": "[V-EB09] The Raging Tactics",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/137.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=138",
+    "code": "138",
+    "name": "[V-TD09] Shinemon Nitta",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/138.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=139",
+    "code": "139",
+    "name": "[VGE-V-BT07] Infinideity Cradle",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/139.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=140",
+    "code": "140",
+    "name": "[VGE-V-CS02] Memoir of Vanguard Koshien",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/140.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=141",
+    "code": "141",
+    "name": "[V-EB10] The Mysterious Fortune",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/141.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=142",
+    "code": "142",
+    "name": "[V-EB11] Crystal Melody",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/142.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=143",
+    "code": "143",
+    "name": "[V-EB12] Team Dragon’s Vanity!",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/143.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=144",
+    "code": "144",
+    "name": "[V-EB13] The Astral Force",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/144.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=145",
+    "code": "145",
+    "name": "[V-TD10] Chronojet",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/145.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=146",
+    "code": "146",
+    "name": "[V-TD11] Altmile",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/146.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=147",
+    "code": "147",
+    "name": "[V-TD12] Ahsha",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/147.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=148",
+    "code": "148",
+    "name": "[V-EB14] The Next Stage",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/148.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=149",
+    "code": "149",
+    "name": "[VGE-V-SS05] Special Series 05 “Premium Collection 2020″",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/149.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=150",
+    "code": "150",
+    "name": "[VGE-V-SS03] Special Series 03 “Festival Collection″",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/150.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=151",
+    "code": "151",
+    "name": "[VGE-V-BT08] Silverdust Blaze",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/151.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=152",
+    "code": "152",
+    "name": "[VGE-V-BT09] Butterfly d’Moonlight",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/152.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=153",
+    "code": "153",
+    "name": "[VGE-V-SS04] Special Series 04 “Majesty Lord Blaster″",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/153.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=154",
+    "code": "154",
+    "name": "[VGE-V-BT10] Phantom Dragon Aeon",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/154.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=155",
+    "code": "155",
+    "name": "[VGE-V-BT11] Storm of the Blue Cavalry",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/155.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=156",
+    "code": "156",
+    "name": "[VGE-V-BT12] Divine Lightning Radiance",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/156.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=157",
+    "code": "157",
+    "name": "[VGE-V-EB15] Twinkle Melody",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/157.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=158",
+    "code": "158",
+    "name": "[VGE-V-SS06] Valiant Sanctuary",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/158.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=159",
+    "code": "159",
+    "name": "[VGE-V-TB01] BanG Dream! FILM LIVE",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/159.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=160",
+    "code": "160",
+    "name": "[VGE-V-SS07] Special Series 07 Clan Selection Plus Vol.1",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/160.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=161",
+    "code": "161",
+    "name": "[VGE-V-SS08] Special Series 08 Clan Selection Plus Vol.2",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/161.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=162",
+    "code": "162",
+    "name": "[VGE-D-SD01] Start Deck 01: Yu-yu Kondo -Holy Dragon-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/162.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=163",
+    "code": "163",
+    "name": "[VGE-D-SD02] Start Deck 02: Danji Momoyama -Tyrant Tiger-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/163.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=164",
+    "code": "164",
+    "name": "[VGE-D-SD03] Start Deck 03: Tohya Ebata -Apex Ruler-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/164.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=165",
+    "code": "165",
+    "name": "[VGE-D-SD04] Start Deck 04: Megumi Okura -Sylvan King-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/165.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=166",
+    "code": "166",
+    "name": "[VGE-D-SD05] Start Deck 05: Tomari Seto -Aurora Valkyrie-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/166.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=167",
+    "code": "167",
+    "name": "[VGE-D-BT01] Booster Pack 01: Genesis of the Five Greats",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/167.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=168",
+    "code": "168",
+    "name": "[VGE-V-SS09] Special Series 09 “Revival Selection”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/168.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=169",
+    "code": "169",
+    "name": "[VGE-D-SS01] Special Series 01: Festival Collection 2021",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/169.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=170",
+    "code": "170",
+    "name": "[VGE-D-BT02] Booster Pack 02: A Brush with the Legends",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/170.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=171",
+    "code": "171",
+    "name": "[VGE-D-LTD01] Lyrical Trial Deck 01: Ahoy! Lyrical Monasterio!",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/171.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=172",
+    "code": "172",
+    "name": "[VGE-D-LBT01] Lyrical Booster Pack 01: Lyrical Melody",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/172.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=173",
+    "code": "173",
+    "name": "[VGE-D-VS01]Special Series 01: V Clan Collection Vol.1",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/173.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=174",
+    "code": "174",
+    "name": "[VGE-D-VS02]Special Series 01: V Clan Collection Vol.2",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/174.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=175",
+    "code": "175",
+    "name": "[VGE-D-BT03] Booster Pack 03: Advance of Intertwined Stars",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/175.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=176",
+    "code": "176",
+    "name": "[VGE-D-SD06] Start Deck 06: Mirei Minae -Sealed Blaze Maiden-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/176.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=177",
+    "code": "177",
+    "name": "[VGE-D-TTD01] Title Trial Deck 01 “Touken Ranbu -ONLINE- 2021”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/177.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=178",
+    "code": "178",
+    "name": "[VGE-D-TB01] Title Booster Pack 01 “Touken Ranbu -ONLINE- 2021”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/178.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=179",
+    "code": "179",
+    "name": "[VGE-D-BT04] Booster Pack 04: Awakening of Chakrabarthi",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/179.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=180",
+    "code": "180",
+    "name": "[VGE-D-VS03] V Special Series 03: V Clan Collection Vol.3",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/180.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=181",
+    "code": "181",
+    "name": "[VGE-D-VS04] V Special Series 04: V Clan Collection Vol.4",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/181.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=182",
+    "code": "182",
+    "name": "[VGE-D-LBT02] Lyrical Booster Pack 02: Lyrical Monasterio ~It’s a New School Term!~",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/182.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=183",
+    "code": "183",
+    "name": "2020 Demo Deck \"Gear Chronicle\"",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/183.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=184",
+    "code": "184",
+    "name": "[VGE-D-BT05] Booster Pack 05: Triumphant Return of the Brave Heroes",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/184.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=185",
+    "code": "185",
+    "name": "[VGE-D-PS01] P-Special Series 01: P Clan Collection 2022",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/185.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=186",
+    "code": "186",
+    "name": "[VGE-D-SS02] Special Series 02: Festival Collection 2022",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/186.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=187",
+    "code": "187",
+    "name": "[VGE-D-TTD02] Title Trial Deck 02 “Record of Ragnarok”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/187.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=188",
+    "code": "188",
+    "name": "[VGE-D-TB02] Title Booster 02 “Record of Ragnarok”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/188.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=189",
+    "code": "189",
+    "name": "[VGE-D-VS05] V Special Series 05: V Clan Collection Vol.5",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/189.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=190",
+    "code": "190",
+    "name": "[VGE-D-VS06] V Special Series 06: V Clan Collection Vol.6",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/190.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=191",
+    "code": "191",
+    "name": "[VGE-D-TTD03] Title Trial Deck 03 “SHAMAN KING”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/191.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=192",
+    "code": "192",
+    "name": "[VGE-D-TB03] Title Booster+ 03 “SHAMAN KING”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/192.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=193",
+    "code": "193",
+    "name": "[VGE-D-TD01] Trial Deck 01: Urara Haneyama -Bandmaster of Blossoming Bonds-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/193.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=194",
+    "code": "194",
+    "name": "[VGE-D-TD02] Trial Deck 02: Michiru Hazama -Demonic Jewel Dragon of the Four Flames-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/194.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=195",
+    "code": "195",
+    "name": "[VGE-D-TD03] Trial Deck 03: Raika Koshiba -Skyfall Executors-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/195.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=196",
+    "code": "196",
+    "name": "[VGE-D-BT06] Booster Pack 06: Blazing Dragon Reborn",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/196.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=197",
+    "code": "197",
+    "name": "[VGE-D-LBT03] Lyrical Booster 03: Lyrical Monasterio ~Summertime Memories!~",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/197.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=198",
+    "code": "198",
+    "name": "[VGE-D-BT07] Booster Pack 07: Raging Flames Against Emerald Storm",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/198.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=199",
+    "code": "199",
+    "name": "[VGE-D-BT08] Booster Pack 08: Minerva Rising",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/199.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=200",
+    "code": "200",
+    "name": "[VGE-D-SS03] Special Series 03: Stride Deckset -Chronojet-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/200.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=201",
+    "code": "201",
+    "name": "[VGE-D-BT09] Booster Pack 09: Dragontree Invasion",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/201.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=202",
+    "code": "202",
+    "name": "[VGE-V-SS10] Cardfight!! Vanguard Special Series 10: Premium Battle Deckset 2023",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/202.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=203",
+    "code": "203",
+    "name": "[VGE-D-BT10] Cardfight!! Vanguard Booster Pack 10: Dragon Masquerade",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/203.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=204",
+    "code": "204",
+    "name": "[VGE-D-SS04] Cardfight!! Vanguard Special Series 04: Stride Deckset -Messiah-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/204.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=205",
+    "code": "205",
+    "name": "[VGE-D-CS01] Cardfight!! Vanguard Deluxe Collector’s Set 01: CARDFIGHT!! VANGUARD DELUXE",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/205.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=206",
+    "code": "206",
+    "name": "[VGE-D-SS05] Special Series 05: Festival Booster 2023",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/206.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=207",
+    "code": "207",
+    "name": "[VGE-D-PV01] Cardfight!! Vanguard P & V Special Series: History Collection",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/207.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=208",
+    "code": "208",
+    "name": "[VGE-D-BT11] Cardfight!! Vanguard Booster Pack 11: Clash of the Heroes",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/208.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=209",
+    "code": "209",
+    "name": "[VGE-D-SS06] Cardfight!! Vanguard Special Series 06: Stand Up Deckset “Gramgrace”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/209.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=210",
+    "code": "210",
+    "name": "[VGE-D-SS07] Cardfight!! Vanguard Special Series 07: Stand Up Deckset “Favrneel”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/210.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=211",
+    "code": "211",
+    "name": "[VGE-D-SS08] Cardfight!! Vanguard Special Series 08: Stand Up Deckset “Orfist”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/211.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=212",
+    "code": "212",
+    "name": "[VGE-D-BT12] Cardfight!! Vanguard Booster Pack 12: Evenfall Onslaught",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/212.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=213",
+    "code": "213",
+    "name": "",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/213.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=214",
+    "code": "214",
+    "name": "[VGE-D-BT13] Cardfight!! Vanguard Booster Pack 13: Flight of Chakrabarthi",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/214.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=215",
+    "code": "215",
+    "name": "[VGE-D-LBT04] Lyrical Booster 04: Lyrical Monasterio ~Trick or Trick!~",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/215.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=216",
+    "code": "216",
+    "name": "[VGE-D-SS09] Cardfight!! Vanguard Special Series 09: Stride Deckset -Shiranui-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/216.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=217",
+    "code": "217",
+    "name": "[VGE-D-SS10] Cardfight!! Vanguard Special Series 10: Stride Deckset -Luard-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/217.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=218",
+    "code": "218",
+    "name": "[VGE-D-SS12] Cardfight!! Vanguard Special Series 12: Triple Drive Booster",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/218.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=219",
+    "code": "219",
+    "name": "[VGE-DZ-TD01~06] Cardfight!! Vanguard Start Up Trial Decks (6 Types: Dragon Empire, Dark States, Brandt Gate, Keter Sanctuary, Stoicheia, Lyrical Monasterio)",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/219.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=220",
+    "code": "220",
+    "name": "[VGE-DZ-BT01] Cardfight!! Vanguard Booster Pack 01: Fated Clash",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/220.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=221",
+    "code": "221",
+    "name": "[VGE-D-TB04] Cardfight!! Vanguard Title Booster 04 “Touken Ranbu ONLINE 2023”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/221.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=222",
+    "code": "222",
+    "name": "[VGE-DZ-BT02] Cardfight!! Vanguard Booster Pack 02: Illusionless Strife",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/222.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=223",
+    "code": "223",
+    "name": "[VGE-DZ-PS01] Cardfight!! Vanguard Premium Deckset “Jewel Knight”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/223.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=224",
+    "code": "224",
+    "name": "[VGE-DZ-PS02] Cardfight!! Vanguard Premium Deckset “Revenger”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/224.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=225",
+    "code": "225",
+    "name": "[VGE-DZ-PS03] Cardfight!! Vanguard Premium Deckset “Musketeer”",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/225.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=226",
+    "code": "226",
+    "name": "[VGE-DZ-SS01] Cardfight!! Vanguard Special Series: Festival Booster 2024",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/226.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=227",
+    "code": "227",
+    "name": "[VGE-DZ-BT03] Cardfight!! Vanguard Booster Pack 03: Dimensional Transcendence",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/227.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=228",
+    "code": "228",
+    "name": "[VGE-DZ-LBT01] Cardfight!! Vanguard Lyrical Booster: Lyrical Monasterio Sparkling Stars!",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/228.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=229",
+    "code": "229",
+    "name": "[VGE-DZ-BT04] Cardfight!! Vanguard Booster Pack 04: Destined Showdown",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/229.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=230",
+    "code": "230",
+    "name": "[VGE-DZ-SS04] Cardfight!! Vanguard Special Series 04: Stardust Blade",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/230.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=231",
+    "code": "231",
+    "name": "[VGE-DZ-BT05] Cardfight!! Vanguard Booster Pack 05: Omniscient Awakening",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/231.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=232",
+    "code": "232",
+    "name": "[VGE-DZ-SS02] Cardfight!! Vanguard Special Series 02: Stride Deckset -Harri-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/232.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=233",
+    "code": "233",
+    "name": "[VGE-DZ-SS03] Cardfight!! Vanguard Special Series 03: Stride Deckset -Nightrose-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/233.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=234",
+    "code": "234",
+    "name": "[VGE-DZ-BT06] Cardfight!! Vanguard Booster Pack 06: Generation Dragenesis",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/234.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=235",
+    "code": "235",
+    "name": "[VGE-DZ-BT07] Cardfight!! Vanguard Booster Pack 07: Moon Fangs & Cerulean Blaze",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/235.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=236",
+    "code": "236",
+    "name": "[VGE-DZ-SS05] Cardfight!! Vanguard Special Series 05: CoroCoro Start Deck Pack",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/236.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=237",
+    "code": "237",
+    "name": "[VGE-DZ-BT08] Cardfight!! Vanguard Booster Pack 08: Knights 0f Rebirth",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/237.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=238",
+    "code": "238",
+    "name": "[VGE-DZ-SS06] Cardfight!! Vanguard Special Series 06: Master Deckset -Urara Haneyama-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/238.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=239",
+    "code": "239",
+    "name": "[VGE-DZ-SS07] Cardfight!! Vanguard Special Series 07: Master Deckset -Michiru Hazama-",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/239.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=240",
+    "code": "240",
+    "name": "[VGE-DZ-SS08] Cardfight!! Vanguard Special Series 08: Festival Booster 2025",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/240.json"
+  },
+  {
+    "url": "https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=242",
+    "code": "242",
+    "name": "[VGE-DZ-BT09] Cardfight!! Vanguard Booster Pack 09: Super Brave Detonation",
+    "cardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/sets/242.json"
+  }
+]
