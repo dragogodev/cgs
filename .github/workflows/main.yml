@@ -23,7 +23,8 @@ jobs:
         with:
           repository: finol-digital/Card-Game-Simulator
           lfs: true
-          
+
+      - run: sudo apt-get update && sudo apt-get install -y libsharpyuv0
       - run: curl https://raw.githubusercontent.com/dragogodev/cgs/master/games.json -o Assets/Resources/games.json
       - uses: game-ci/unity-test-runner@v4
         env:
