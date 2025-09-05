@@ -6,8 +6,9 @@
   "cardBackImageUrl": "https://vignette.wikia.nocookie.net/ancur/images/c/c3/Corp_back.png",
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "code",
+  "cardImageFileType": "jpg",
   "cardImageProperty": "image_url",
-  "cardImageUrl": "https://netrunnerdb.com/card_image/{cardId}.png",
+  "cardImageUrl": "https://card-images.netrunnerdb.com/v2/large/{cardId}.{cardImageFileType}",
   "cardNameIdentifier": "title",
   "cardPrimaryProperty": "text",
   "cardProperties": [
