@@ -25,7 +25,7 @@ jobs:
           lfs: true
 
       - run: curl https://raw.githubusercontent.com/dragogodev/cgs/master/games.json -o Assets/Resources/games.json
-      - uses: game-ci/unity-test-runner@v4
+      - uses: dragogodev/unity-test-runner@main
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
           UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
