@@ -8,6 +8,7 @@
   "cardIdIdentifier": "cardNo",
   "cardImageFileType": "webp",
   "cardImageProperty": "image",
+  "cardNameIsUnique": false,
   "cardPrimaryProperty": "effectData",
   "cardProperties": [
     {
@@ -122,3 +123,4 @@
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
 
 }
+
