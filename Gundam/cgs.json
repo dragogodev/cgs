@@ -1,8 +1,7 @@
 {
   "allCardsUrl": "https://exburst.dev/gundam/external/fetch_data.php?gameid=gundam&series=*&seriesColumn=series",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json",
-  "bannerImageFileType": "webp",
-  "bannerImageUrl": "https://www.gundam-gcg.com/images/global/logo.webp",
+  "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/Banner.png",
   "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://gundams.dev/i/cardback.webp",
   "cardIdIdentifier": "cardNo",
@@ -121,6 +120,5 @@
     "y": 42
   },
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
-
 }
 
