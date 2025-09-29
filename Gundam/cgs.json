@@ -99,6 +99,24 @@
   "cgsGamesLink": "https://cgs.games/dragogodev/gundam",
   "copyright": "SOTSU SUNRISE MBS, BANDAI",
   "deckSharePreference": "individual",
+	"deckUrls": [
+		{
+			"name": "ST01 - Heroic Beginnings",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST01%20-%20Heroic%20Beginnings.txt"
+		},
+		{
+			"name": "ST02 - Wings of Advance",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST02%20-%20Wings%20of%20Advance.txt"
+		},
+		{
+			"name": "ST03 - Zeon's Rush",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST03%20-%20Zeon's%20Rush.txt"
+		},
+		{
+			"name": "ST04 - SEED Strike",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST04%20-%20SEED%20Strike.txt"
+		}
+	],
   "enums": [
     {
       "property": "rarity",
