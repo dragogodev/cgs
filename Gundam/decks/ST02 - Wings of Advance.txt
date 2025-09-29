@@ -14,4 +14,5 @@
 3x [ST02-013] Peaceful Timbre
 2x [ST02-014] Siege Ploy
 3x [ST02-015] Saint Gabriel Institute
-3x [ST02-016] Corsice Base
+3x [ST02-016] Corsica Base
+
