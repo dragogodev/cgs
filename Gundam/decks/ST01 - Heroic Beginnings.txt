@@ -12,6 +12,7 @@
 4x [ST01-011] Suletta Mercury
 3x [ST01-012] Thoroughly Damaged
 3x [ST01-013] Kai's Resolve
-2x [ST01-014] Unforseen Incident
+2x [ST01-014] Unforeseen Incident
 3x [ST01-015] White Base
 3x [ST01-016] Asticassia School of Technology, Earth House
+
