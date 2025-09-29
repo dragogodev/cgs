@@ -2,7 +2,7 @@
 2x [ST01-001] Gundam
 4x [ST01-002] Gundam (MA Form)
 4x [ST01-003] Guncannon
-4x [ST01-004] Guntank
+3x [ST01-004] Guntank
 3x [ST01-005] GM
 2x [ST01-006] Gundam Aerial (Permet Score Six)
 4x [ST01-007] Gundam Aerial (Bit on Form)
@@ -15,4 +15,5 @@
 2x [ST01-014] Unforeseen Incident
 3x [ST01-015] White Base
 3x [ST01-016] Asticassia School of Technology, Earth House
+
 
