@@ -16,10 +16,6 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json"
   },
   {
-    "name": "Dragon Ball Super Fusion World",
-    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json"
-  },
-  {
     "name": "Final Fantasy TCG",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/cgs.json"
   },
