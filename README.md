@@ -20,7 +20,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Lightseekers](https://cgs.games/dragogodev/lightseekers) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lightseekers/cgs.json`)
 - [Lorcana](https://cgs.games/dragogodev/lorcana) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json`)
 - [Magic the Gathering](https://cgs.games/dragogodev/magic_the_gathering) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/cgs.json`)
-- [Magic: Starcraft](https://cgs.games/dragogodev/magic_starcraft) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json`)
 - [Netrunner](https://cgs.games/dragogodev/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/cgs.json`)
 - [One Piece](https://cgs.games/dragogodev/one_piece) (`https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json`)
 - [Pokemon](https://cgs.games/dragogodev/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json`)
@@ -48,6 +47,8 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/cgs.json`)
+- Magic: Starcraft (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json`)
+
 
 
 
