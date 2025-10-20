@@ -48,10 +48,6 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/cgs.json"
   },
   {
-    "name": "Magic: Starcraft",
-    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json"
-  },
-  {
     "name": "Netrunner",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/cgs.json"
   },
