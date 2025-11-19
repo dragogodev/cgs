@@ -31,7 +31,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Candidates for Implementation
 - Fix Gundam and Dragon Ball Super / Dragon Ball Super Fusion World
-- Riftbound
 - Godzilla Card Game
 - Union Arena
 - Battle Spirits Saga
@@ -48,6 +47,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/cgs.json`)
+
 
 
 
