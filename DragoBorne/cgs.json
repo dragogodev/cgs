@@ -5,6 +5,7 @@
   "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/Banner.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/CardBack.jpg",
+  "cardImageFileType": "webp",
   "cardImageProperty": "image_url",
   "cardPrimaryProperty": "ability",
   "cardProperties": [
@@ -421,6 +422,30 @@
 				"y": 6
 			},
 			"type": "horizontal"
+		},
+	  {
+			"type": "dice",
+			"position": {
+				"x": 15,
+				"y": -3
+			},
+			"rotation": 0,
+			"size": {
+				"x": 5,
+				"y": 3
+			}
+		},
+	  {
+			"type": "dice",
+			"position": {
+				"x": -15,
+				"y": 3
+			},
+			"rotation": 180,
+			"size": {
+				"x": 5,
+				"y": 3
+			}
 		}
   ],
   "gameStartHandCount": 5,
