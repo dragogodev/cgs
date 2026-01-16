@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "https://digimoncard.io/api-public/getAllCards.php",
+  "allCardsUrl": "https://digimoncard.io/api-public/getAllCards",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json",
   "bannerImageUrl": "https://world.digimoncard.com/images/common/header/img_logo.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/Digimon-Card-Back.png",
