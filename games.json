@@ -8,6 +8,10 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json"
   },
   {
+    "name": "Digimon",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json"
+  },
+  {
     "name": "DragoBorne",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json"
   },
