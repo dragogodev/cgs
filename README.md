@@ -30,7 +30,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json`)
 
 ## Candidates for Implementation
-- Fix DragoBorne, Digimon, Dragon Ball Super / Dragon Ball Super Fusion World, and Gundam
+- Fix Digimon, Dragon Ball Super Fusion World, and Gundam
 - Godzilla Card Game
 - Union Arena
 - Battle Spirits Saga
@@ -47,6 +47,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/cgs.json`)
+
 
 
 
