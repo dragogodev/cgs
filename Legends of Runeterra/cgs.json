@@ -3,6 +3,7 @@
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Legends%20of%20Runeterra/cgs.json",
   "bannerImageUrl": "https://www.riotgames.com/darkroom/800/9c08e3b3ce6281f252a4dfbf61357a11:75ab7e60b85225c6c7f19ae4024e27a6/lol-logo-rendered-hi-res.png",
   "cardBackImageFileType": "jpg",
+  "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Freljord_LoR_Card_Back.png/revision/latest?cb=20201026135249",
   "cardIdIdentifier": "cardCode",
   "cardImageProperty": "assets[0].gameAbsolutePath",
