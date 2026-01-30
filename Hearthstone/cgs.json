@@ -1,7 +1,9 @@
 {
   "allCardsUrl": "https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/cgs.json",
+  "bannerImageFileType": "webp",
   "bannerImageUrl": "https://hearthstone.gamepedia.com/media/hearthstone.gamepedia.com/d/d4/Hearthstone_logo.png",
+  "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/hearthstone/images/c/c4/Card_back-Default.png",
   "cardImageUrl": "https://art.hearthstonejson.com/v1/render/latest/enUS/256x/{cardId}.{cardImageFileType}",
   "cardPrimaryProperty": "text",
