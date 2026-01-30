@@ -2,6 +2,7 @@
   "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json",
   "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/vg_new_logo_600px.png",
+  "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
   "cardIdIdentifier": "number",
   "cardImageFileTypeIdentifier": "image_file_type",
