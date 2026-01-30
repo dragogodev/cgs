@@ -1,8 +1,8 @@
 {
   "allCardsUrl": "https://api.swu-db.com/cards/sor",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/cgs.json",
+  "bannerImageFileType": "webp",
   "bannerImageUrl": "https://static.wikia.nocookie.net/starwars/images/a/a3/SWUnlimitedLogo.png/revision/latest",
-  "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://oasisgamesslc.com/img/product/starwars/cardback.png",
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "Number",
@@ -26,4 +26,5 @@
   "name": "Star Wars Unlimited",
   "rulesUrl": "https://starwarsunlimited.com/how-to-play?chapter=how-to-play"
 }
+
 
