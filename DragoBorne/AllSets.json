@@ -1,11 +1,11 @@
-[{"code":"TD01","name":"Shadow Legion","release_date":"08/04/2017","type":"Trial Deck"}
-,{"code":"TD02","name":"Mystic Hunters","release_date":"08/04/2017","type":"Trial Deck"}
-,{"code":"TD03","name":"Alpha Dominance","release_date":"08/04/2017","type":"Trial Deck"}
-,{"code":"BT01","name":"Rally to War","release_date":"08/17/2017","type":"Booster Pack"}
-,{"code":"TD04","name":"Reaper's Gift","release_date":"10/10/2017","type":"Trial Deck"}
-,{"code":"BT02","name":"Oath of Blood","release_date":"10/10/2017","type":"Booster Pack"}
-,{"code":"TD05","name":"Nature's Wrath","release_date":"02/08/2018","type":"Trial Deck"}
-,{"code":"BT03","name":"Gears of Apocalypse","release_date":"02/09/2018","type":"Booster Pack"}
-,{"code":"BT04","name":"Surge of Titans","release_date":"07/06/2018","type":"Booster Pack"}
-,{"code":"BT05","name":"Reckoning of Vashr","release_date":"10/26/2018","type":"Booster Pack"}
-,{"code":"PR","name":"Promos","release_date":"","type":"Promos"}]
+[{"code":"TD01","name":"Shadow Legion","release_date":"08/04/2017","type":"Trial Deck","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/TD01.json"}
+,{"code":"TD02","name":"Mystic Hunters","release_date":"08/04/2017","type":"Trial Deck","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/TD02.json"}
+,{"code":"TD03","name":"Alpha Dominance","release_date":"08/04/2017","type":"Trial Deck","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/TD03.json"}
+,{"code":"BT01","name":"Rally to War","release_date":"08/17/2017","type":"Booster Pack","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/BT01.json"}
+,{"code":"TD04","name":"Reaper's Gift","release_date":"10/10/2017","type":"Trial Deck","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/TD04.json"}
+,{"code":"BT02","name":"Oath of Blood","release_date":"10/10/2017","type":"Booster Pack","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/BT02.json"}
+,{"code":"TD05","name":"Nature's Wrath","release_date":"02/08/2018","type":"Trial Deck","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/TD05.json"}
+,{"code":"BT03","name":"Gears of Apocalypse","release_date":"02/09/2018","type":"Booster Pack","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/BT03.json"}
+,{"code":"BT04","name":"Surge of Titans","release_date":"07/06/2018","type":"Booster Pack","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/BT04.json"}
+,{"code":"BT05","name":"Reckoning of Vashr","release_date":"10/26/2018","type":"Booster Pack","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/BT05.json"}
+,{"code":"PR","name":"Promos","release_date":"","type":"Promos","cardsUrl":"https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/sets/PR.json"}]
