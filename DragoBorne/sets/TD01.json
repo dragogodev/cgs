@@ -14,7 +14,7 @@
     "ability": "[AUTO] At the end of the turn, if two or more of your other creatures attacked during this turn, draw a card.",
     "attack": "3",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/d3/DB-TD01-001.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/d3/DB-TD01-001.png?format=.webp"
   },
   {
     "name": "Sunscale Sage",
@@ -31,7 +31,7 @@
     "ability": "-",
     "attack": "3",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/17/DB-TD01-002.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/17/DB-TD01-002.png?format=.webp"
   },
   {
     "name": "Goldleaf Hunter",
@@ -48,7 +48,7 @@
     "ability": "-",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/62/DB-TD01-003.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/62/DB-TD01-003.png?format=.webp"
   },
   {
     "name": "Althaine's Blessing",
@@ -82,7 +82,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/78/DB-TD01-005.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/78/DB-TD01-005.png?format=.webp"
   },
   {
     "name": "Ravian, Battlefield Shrieker",
@@ -99,7 +99,7 @@
     "ability": "Ambush[2] (You may pay 2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When a creature at this fort is destroyed during your opponent's turn, if this card is an ambush, you may summon this creature, and deal 2 damage to all opposing creatures.",
     "attack": "3",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/61/DB-TD01-006.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/61/DB-TD01-006.png?format=.webp"
   },
   {
     "name": "Goblin Madcap",
@@ -116,7 +116,7 @@
     "ability": "[AUTO] When this creature is destroyed, you may choose a [Dragoshield], and deal 3 damage to it.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/69/DB-TD01-007.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/69/DB-TD01-007.png?format=.webp"
   },
   {
     "name": "Bladedance Rogue",
@@ -133,7 +133,7 @@
     "ability": "-",
     "attack": "3",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/7c/DB-TD01-008.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/7c/DB-TD01-008.png?format=.webp"
   },
   {
     "name": "Goblin Toestabber",
@@ -150,7 +150,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose a [Dragoshield], and deal 1 damage to it.\n[CONT] [Dragocross](Black)This creature gets +1/+1.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/11/DB-TD01-009.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/11/DB-TD01-009.png?format=.webp"
   },
   {
     "name": "Pyroblast",
@@ -167,7 +167,7 @@
     "ability": "Ambush[2] (You may pay 2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked, if this card is an ambush, you may choose a fort, and deal X damage to all creatures at that fort, where X is the value of one of your red dice. (Put this card into your discard pile afterwards.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/04/DB-TD01-010.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/04/DB-TD01-010.png?format=.webp"
   },
   {
     "name": "Standard of Tauris",
@@ -184,7 +184,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f3/DB-TD01-011.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f3/DB-TD01-011.png?format=.webp"
   },
   {
     "name": "Lady Valistra, Bloodlines Tormented",
@@ -201,7 +201,7 @@
     "ability": "[AUTO] When this creature destroys a creature in battle, you may choose an opposing creature with the same color as that creature, and destroy it.\n[CONT] [Dragocross](Black)This creature must be blocked if able.",
     "attack": "5",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/82/DB-TD01-012.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/82/DB-TD01-012.png?format=.webp"
   },
   {
     "name": "Undying Executioner",
@@ -218,7 +218,7 @@
     "ability": "Deadly (When this creature deals damage to a creature, destroy that creature.)",
     "attack": "2",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/52/DB-TD01-013.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/52/DB-TD01-013.png?format=.webp"
   },
   {
     "name": "Cavalier Nosferatu",
@@ -235,7 +235,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose a creature from your discard pile, and return it to your hand. If you do, discard a card from your hand.",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/89/DB-TD01-014.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/89/DB-TD01-014.png?format=.webp"
   },
   {
     "name": "Crowd Surfer",
@@ -252,7 +252,7 @@
     "ability": "[Fort Burst] Summon this creature. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/06/DB-TD01-015.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/06/DB-TD01-015.png?format=.webp"
   },
   {
     "name": "Death Metal Rotter",
@@ -269,7 +269,7 @@
     "ability": "-",
     "attack": "5",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ed/DB-TD01-016.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ed/DB-TD01-016.png?format=.webp"
   },
   {
     "name": "Carbuncle Imp",
@@ -286,7 +286,7 @@
     "ability": "[CONT][Dragocross](Red)This creature gets +2/+1.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/7a/DB-TD01-017.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/7a/DB-TD01-017.png?format=.webp"
   },
   {
     "name": "Wandering Apparition",
@@ -303,7 +303,7 @@
     "ability": "[AUTO] When this creature is blocked by a [Dragoshield], it gets +2/+0 for this turn.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/a9/DB-TD01-018.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/a9/DB-TD01-018.png?format=.webp"
   },
   {
     "name": "Death Trap",
@@ -320,7 +320,7 @@
     "ability": "Ambush[2] (You may pay 2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked, if this card is an ambush, you may choose an attacking creature, and destroy it. (Put this card into your discard pile afterwards.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5f/DB-TD01-019.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5f/DB-TD01-019.png?format=.webp"
   },
   {
     "name": "Adraste's Disdain",
@@ -337,7 +337,7 @@
     "ability": "Choose a [Dragocross](Any)creature, and destroy it.\n(Black)Then, if a creature was destroyed with this effect, you may choose a [Dragoshield], and destroy it.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ea/DB-TD01-020.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ea/DB-TD01-020.png?format=.webp"
   },
   {
     "name": "Curse of Niflheim",
@@ -354,6 +354,6 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f0/DB-TD01-021.png"
+    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f0/DB-TD01-021.png?format=.webp"
   }
 ]
