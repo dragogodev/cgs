@@ -14,7 +14,7 @@
     "ability": "[Fort Burst] Summon this creature. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "4",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/4/4c/DB-TD03-001.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/4/4c/DB-TD03-001.png?format=.webp"
   },
   {
     "name": "Elven Farstriker",
@@ -31,7 +31,7 @@
     "ability": "[CONT] For each of your non-green creatures, this creature gets +1/+1.",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/a8/DB-TD03-002.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/a/a8/DB-TD03-002.png?format=.webp"
   },
   {
     "name": "Primeape Javelineer",
@@ -48,7 +48,7 @@
     "ability": "-",
     "attack": "5",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/57/DB-TD03-003.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/57/DB-TD03-003.png?format=.webp"
   },
   {
     "name": "Fleetwing Sprite",
@@ -65,7 +65,7 @@
     "ability": "[AUTO] When this creature is summoned, you may put a card from your hand into your resource zone.\n[Fort Burst] Put this card into your resource zone. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ef/DB-TD03-004.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/e/ef/DB-TD03-004.png?format=.webp"
   },
   {
     "name": "Nature's Touch",
@@ -82,7 +82,7 @@
     "ability": "Ambush[2] (You may pay [2] to play this card from your hand face-down at one of your forts.)\n[AUTO] When a creature at this fort is destroyed during your opponent's turn, if this card is an ambush, you may summon that creature. (Put this card into your discard pile afterwards.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/1b/DB-TD03-005.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/1b/DB-TD03-005.png?format=.webp"
   },
   {
     "name": "Laelania's Call",
@@ -99,7 +99,7 @@
     "ability": "Summon a cost 4 or less green creature or a cost 3 or less creature from your hand.\n[Fort Burst] Put this card into your discard pile, and summon a cost 7 or less creature from your hand. (When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ea/DB-TD03-006.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/e/ea/DB-TD03-006.png?format=.webp"
   },
   {
     "name": "Runemark of Tir na Nog",
@@ -116,7 +116,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/3d/DB-TD03-007.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/3d/DB-TD03-007.png?format=.webp"
   },
   {
     "name": "Dramph Tommar, Kingpin",
@@ -133,7 +133,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose two dice, and exchange their values.\n[AUTO] When this creature is [Dragocross](Blue), increase the values of all of your dice by 1. (Dice values cannot go above 6.)",
     "attack": "3",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/a6/DB-TD03-008.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/a/a6/DB-TD03-008.png?format=.webp"
   },
   {
     "name": "Gillman Raider",
@@ -150,7 +150,7 @@
     "ability": "-",
     "attack": "3",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/6f/DB-TD03-009.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/6f/DB-TD03-009.png?format=.webp"
   },
   {
     "name": "Rejuvenate",
@@ -167,7 +167,7 @@
     "ability": "For each of your forts with one or less barriers, draw a card.\n[Dice 1-3](Green)Then, put the top card of your deck into your resource zone.\n[Fort Burst] Play this card without paying the cost. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5d/DB-TD03-010.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/5d/DB-TD03-010.jpg"
   },
   {
     "name": "All Guns Blazing",
@@ -184,7 +184,7 @@
     "ability": "Choose an opposing fort and [REST] all creatures at that fort.\n[Fort Burst] Put this card into your discard pile, choose a creature, [REST] it, and draw a card. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/58/DB-TD03-011.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/58/DB-TD03-011.png?format=.webp"
   },
   {
     "name": "Insignia of Olous",
@@ -201,7 +201,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/52/DB-TD03-012.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/52/DB-TD03-012.png?format=.webp"
   },
   {
     "name": "Izarco-Tvash, Born of Magma",
@@ -218,7 +218,7 @@
     "ability": "[AUTO] When this creature is summoned, choose one of your dice, and change its value to 6. Then, choose any number of opposing creatures, and deal 6 damage divided as you choose among those creatures.\n[AUTO] [Dragocross](Red)When this creature is destroyed, choose any number of opposing creatures, and deal 7 damage divided as you choose among those creatures.",
     "attack": "6",
     "endurance": "6",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/65/DB-TD03-013.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/65/DB-TD03-013.png?format=.webp"
   },
   {
     "name": "Stormfeather Screecher",
@@ -235,7 +235,7 @@
     "ability": "[CONT] When this creature deals damage to a fort, it deals 2 damage instead.\n[CONT] [Dragocross](Green)This creature gets +1/+1.",
     "attack": "5",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/b7/DB-TD03-014.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/b7/DB-TD03-014.png?format=.webp"
   },
   {
     "name": "Carefree Orc",
@@ -252,7 +252,7 @@
     "ability": "[AUTO] When this creature attacks, you may choose a creature, and deal 1 damage to it.",
     "attack": "2",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/4/42/DB-TD03-015.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/4/42/DB-TD03-015.png?format=.webp"
   },
   {
     "name": "Wandering Orc",
@@ -269,7 +269,7 @@
     "ability": "-",
     "attack": "5",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/1d/DB-TD03-016.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/1d/DB-TD03-016.png?format=.webp"
   },
   {
     "name": "Boneclub Giant",
@@ -286,7 +286,7 @@
     "ability": "-",
     "attack": "4",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/fc/DB-TD03-017.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/fc/DB-TD03-017.png?format=.webp"
   },
   {
     "name": "Hidden Blade",
@@ -303,7 +303,7 @@
     "ability": "[Fort Burst] Summon this creature. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "4",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/2/20/DB-TD03-018.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/2/20/DB-TD03-018.png?format=.webp"
   },
   {
     "name": "Highlands Rogue",
@@ -320,7 +320,7 @@
     "ability": "[AUTO] When this creature attacks a fort, if another of your creatures attacked that fort during that turn, this creature gets +2/+2 for this turn",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/4/4a/DB-TD03-019.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/4/4a/DB-TD03-019.png?format=.webp"
   },
   {
     "name": "Torch",
@@ -337,7 +337,7 @@
     "ability": "Choose a creature, and deal X damage to it, where X is the value of one of your red dice.\n[Fort Burst] Play this card without paying the cost. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/bd/DB-TD03-020.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/bd/DB-TD03-020.png?format=.webp"
   },
   {
     "name": "Standard of Tauris",
@@ -354,6 +354,6 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/59/DB-TD03-021.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/59/DB-TD03-021.png?format=.webp"
   }
 ]
