@@ -14,7 +14,7 @@
     "ability": "[AUTO] When this creature is summoned, reveal two cards from the top of your deck, and you may put an elf from among them into your resource zone. Then, put the rest of the cards on the bottom of your deck.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/d3/DB-TD05-001.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/d/d3/DB-TD05-001.png?format=.webp"
   },
   {
     "name": "Escutcheon Angel",
@@ -31,7 +31,7 @@
     "ability": "[CONT] When your creature takes damage from a spell, reduce that damage by 1.\n[CONT] [Dragocross](Any) When your creature takes damage, reduce that damage by 1. This ability cannot reduce the damage to 1 or less.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/4/4d/DB-TD05-002.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/4/4d/DB-TD05-002.png?format=.webp"
   },
   {
     "name": "Darkbane Priest",
@@ -48,7 +48,7 @@
     "ability": "[AUTO] When this fort is attacked, you may Siphon X. If you do, the attacking creature gets -X/+0 for this turn. This ability can only activate once per turn. (To Siphon X, reduce the value of one of your dice by X.)",
     "attack": "1",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/0d/DB-TD05-003.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/0d/DB-TD05-003.png?format=.webp"
   },
   {
     "name": "Sanctuary Squire",
@@ -65,7 +65,7 @@
     "ability": "-",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/1c/DB-TD05-004.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/1c/DB-TD05-004.png?format=.webp"
   },
   {
     "name": "Answered Prayers",
@@ -82,7 +82,7 @@
     "ability": "Ambush [C@2] (You may pay C@2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked and this card is an ambush, you may stand all your creatures at this fort, and remove all damage from those creatures.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/bc/DB-TD05-005.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/bc/DB-TD05-005.png?format=.webp"
   },
   {
     "name": "Incapacitate",
@@ -99,7 +99,7 @@
     "ability": "Choose an opposing creature, and it cannot attack or block for this turn.\n[Fort Burst] Play this card without paying its cost.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/31/DB-TD05-006.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/31/DB-TD05-006.png?format=.webp"
   },
   {
     "name": "Shield of Logres",
@@ -116,7 +116,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/03/DB-TD05-007.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/03/DB-TD05-007.png?format=.webp"
   },
   {
     "name": "Ghis, Unending Fury",
@@ -133,7 +133,7 @@
     "ability": "[AUTO] When this creature is summoned, choose one of your forts with two or more barriers and an opposing fort with two or more barriers, and deal 1 damage to them.\n[AUTO] [Dragocross](Green) When this creature attacks, choose an opposing fort, and put all creatures with cost less than or equal to the value of this creature's DC@ +2 from that fort into your opponent's resource zone.",
     "attack": "6",
     "endurance": "6",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/4/4b/DB-TD05-008.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/4/4b/DB-TD05-008.png?format=.webp"
   },
   {
     "name": "Threa, Blessed by Fairies",
@@ -150,7 +150,7 @@
     "ability": "[CONT] If you have another elf, this creature gets +1/+1.\n[CONT] [Dragocross](Green) All of your other elves get +1/+1.",
     "attack": "1",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/05/DB-TD05-009.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/05/DB-TD05-009.png?format=.webp"
   },
   {
     "name": "Fearful Sprite",
@@ -167,7 +167,7 @@
     "ability": "[AUTO] When this creature blocks, reveal the top card of your deck, and if you revealed an elf, you may put it into your hand. If you did not add a card to your hand, put the revealed card on the bottom of your deck.\n[AUTO] [Dragocross](Any) When this creature blocks, this creature gets +0/+1 until the end of the battle, and at the end of the battle, [STAND] this creature.",
     "attack": "0",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/06/Fearful_Sprite.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/06/Fearful_Sprite.png?format=.webp"
   },
   {
     "name": "Favored Scholar",
@@ -184,7 +184,7 @@
     "ability": "[AUTO] When this creature is summoned, reveal two cards from the top of your deck, and you may summon a cost 2 or less elf from among them. If you did not summon a creature, put the revealed cards on the bottom of your deck.",
     "attack": "2",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/6d/DB-TD05-011.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/6d/DB-TD05-011.png?format=.webp"
   },
   {
     "name": "Nimble Outrider",
@@ -201,7 +201,7 @@
     "ability": "[CONT] This creature cannot be chosen by opposing spells or abilities.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/7b/DB-TD05-012.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/7b/DB-TD05-012.png?format=.webp"
   },
   {
     "name": "Chromegear Paladin",
@@ -218,7 +218,7 @@
     "ability": "-",
     "attack": "6",
     "endurance": "8",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/58/DB-TD05-013.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/58/DB-TD05-013.png?format=.webp"
   },
   {
     "name": "Dauntless Lancer",
@@ -235,7 +235,7 @@
     "ability": "-",
     "attack": "3",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f7/DB-TD05-014.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/f7/DB-TD05-014.png?format=.webp"
   },
   {
     "name": "Untested Scout",
@@ -252,7 +252,7 @@
     "ability": "[AUTO] When this creature is summoned, reveal two cards from the top of your deck, and if you revealed an elf, choose one of your elves, and it gets +2/+2 for this turn. Then, put the revealed cards on the bottom of your deck in any order.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/e7/DB-TD05-015.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/e/e7/DB-TD05-015.png?format=.webp"
   },
   {
     "name": "Erudite Archer",
@@ -269,7 +269,7 @@
     "ability": "[CONT] If you have another elf, this creature gets +1/+1.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f9/DB-TD05-016.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/f9/DB-TD05-016.png?format=.webp"
   },
   {
     "name": "Cleanse",
@@ -286,7 +286,7 @@
     "ability": "Choose an ambush, and destroy it.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/a4/DB-TD05-017.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/a/a4/DB-TD05-017.png?format=.webp"
   },
   {
     "name": "Runemark of Tir na Nog",
@@ -303,6 +303,6 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/75/DB-TD05-018.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/75/DB-TD05-018.png?format=.webp"
   }
 ]
