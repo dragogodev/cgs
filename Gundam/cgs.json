@@ -1,101 +1,103 @@
 {
-  "allCardsUrl": "https://exburst.dev/gundam/external/fetch_data.php?gameid=gundam&series=*&seriesColumn=series",
+  "allCardsUrl": "https://api.deckplanet.net/cardsearch/gundam_cards?filter={%22_and%22:[{%22status%22:{%22_eq%22:%22published%22}},{%22variant_of%22:{%22id%22:{%22_null%22:true}}}]}",
+  "allCardsUrlPageCountIdentifier": "meta.page_count",
+  "allCardsUrlPageIdentifier": "&page=",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json",
   "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/Banner.png",
   "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://gundams.dev/i/cardback.webp",
-  "cardIdIdentifier": "cardNo",
+  "cardDataIdentifier": "data",
+  "cardIdIdentifier": "card_number",
   "cardImageFileType": "webp",
-  "cardImageProperty": "image",
+  "cardImageUrl": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/gundam/{card.image_link}.{cardImageFileType}",
+  "cardNameIdentifier": "card_name",
   "cardNameIsUnique": false,
-  "cardPrimaryProperty": "effectData",
+  "cardPrimaryProperty": "card_text_unstyled",
   "cardProperties": [
     {
-      "name": "level",
+      "name": "card_level",
       "display": "Level",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "cost",
+      "name": "card_cost",
       "display": "Cost",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "color",
+      "name": "card_color",
       "display": "Color",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "stringEnum"
     },
     {
-      "name": "apData",
+      "name": "card_ap",
       "display": "AP",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "hp",
+      "name": "card_hp",
       "display": "HP",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "blockIcon",
+      "name": "card_block_icon",
       "display": "Block Icon",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "categoryData",
+      "name": "card_type",
       "display": "Card Type",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "effectData",
+      "name": "card_text_unstyled",
       "display": "Effect",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "link",
+      "name": "card_link_requirement",
       "display": "Link",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "attributeData",
-      "display": "Attribute",
+      "name": "card_source_title",
+      "display": "Source Title",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "trait",
-      "display": "Trait",
+      "name": "card_traits",
+      "display": "Trait(s)",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "stringList"
     },
     {
-      "name": "rarity",
+      "name": "card_zones",
+      "display": "Zone(s)",
+      "displayEmpty": "-",
+      "type": "stringList"
+    },
+    {
+      "name": "card_rarity",
       "display": "Rarity",
       "displayEmpty": "-",
       "type": "stringEnum"
     },
     {
-      "name": "artist",
-      "display": "Artist",
-      "displayEmpty": "-",
+      "name": "image_link",
       "type": "string"
-    },
-    {
-      "name": "image",
-      "display": "Image",
-      "type": "escapedString"
     }
   ],
-  "cardSetIdentifier": "series",
-  "cardSetNameIdentifier": "seriesName",
+  "cardSetIdentifier": "card_series",
   "cgsGamesLink": "https://cgs.games/dragogodev/gundam",
   "copyright": "SOTSU SUNRISE MBS, BANDAI",
   "deckSharePreference": "individual",
@@ -119,6 +121,16 @@
 	],
   "enums": [
     {
+      "property": "card_color",
+      "values": {
+        "BLUE": "BLUE",
+        "GREEN": "GREEN",
+        "PURPLE": "PURPLE",
+        "RED": "RED",
+        "WHITE": "WHITE"
+      }
+    },
+    {
       "property": "rarity",
       "values": {
         "C": "C",
@@ -139,4 +151,5 @@
   },
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
 }
+
 
