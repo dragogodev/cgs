@@ -14,7 +14,7 @@
     "ability": "-",
     "attack": "6",
     "endurance": "6",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5e/DB-PR-0001.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/5e/DB-PR-0001.png?format=.webp"
   },
   {
     "name": "Elven Farstriker",
@@ -31,7 +31,7 @@
     "ability": "-",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/69/DB-PR-0002.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/69/DB-PR-0002.png?format=.webp"
   },
   {
     "name": "Baltheos, Devourer of Hope",
@@ -48,7 +48,7 @@
     "ability": "Assassin (This creature may attack opposing yellow creatures in [REST] . That attack cannot be blocked by [Dragoshield] or creatures.)\n[AUTO] When this creature is [Dragocross], you may choose a yellow creature, and [REST] it",
     "attack": "4",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/83/DB-PR-0003.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/8/83/DB-PR-0003.jpg"
   },
   {
     "name": "The Keeper",
@@ -65,7 +65,7 @@
     "ability": "[AUTO] When this creature blocks, choose an opposing creature with X or less ATK, and [REST] it, where X is this creature's EDR.",
     "attack": "2",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/0a/DB-PR-0004.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/0a/DB-PR-0004.png?format=.webp"
   },
   {
     "name": "Alluring Temptress",
@@ -82,7 +82,7 @@
     "ability": "Deadly (When this creature deals damage to a creature, destroy that creature.)\n[AUTO] [Dragocross](Red)When this creature destroys a creature in battle, draw a card.",
     "attack": "3",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/07/DB-PR-0005.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/07/DB-PR-0005.jpg"
   },
   {
     "name": "Merchant of Scrolls",
@@ -99,7 +99,7 @@
     "ability": "[AUTO] When this creature attacks, discard a card, and draw a card. Then, if you discarded a spell, and if this creature is [Dragocross](Yellow), draw a card.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/d5/DB-PR-0006.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/d/d5/DB-PR-0006.jpg"
   },
   {
     "name": "Aldienne, Verdant Protector",
@@ -116,7 +116,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose one of your barriers, and move it to another fort.\n[AUTO] When this creature is [Dragocross](Blue), choose two opposing dice, and exchange their values.",
     "attack": "3",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/02/DB-PR-0007.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/02/DB-PR-0007.jpg"
   },
   {
     "name": "Helkion, the Desolator",
@@ -133,7 +133,7 @@
     "ability": "[AUTO] When this creature is summoned, you may discard a black creature from your hand. If you do, choose up to two cost 3 or less creatures from your discard pile, and return them to your hand.",
     "attack": "4",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/0d/DB-PR-0008.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/0d/DB-PR-0008.png?format=.webp"
   },
   {
     "name": "Helkion, the Desolator",
@@ -150,7 +150,7 @@
     "ability": "[AUTO] When this creature is summoned, you may discard a black creature from your hand. If you do, choose up to two cost 3 or less creatures from your discard pile, and return them to your hand.",
     "attack": "4",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/da/DB-PR-0009.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/d/da/DB-PR-0009.png?format=.webp"
   },
   {
     "name": "Deftarm Scout",
@@ -167,7 +167,7 @@
     "ability": "[AUTO] When this creature attacks, it gets +1/+0 for this battle.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/38/DB-PR-0010.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/38/DB-PR-0010.png?format=.webp"
   },
   {
     "name": "Deftarm Scout",
@@ -184,7 +184,7 @@
     "ability": "[AUTO] When this creature attacks, it gets +1/+0 for this battle.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/84/DB-PR-0011.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/8/84/DB-PR-0011.png?format=.webp"
   },
   {
     "name": "Shield of Logres",
@@ -201,7 +201,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/78/DB-TD01-005.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/78/DB-TD01-005.png?format=.webp"
   },
   {
     "name": "Runemark of Tir na Nog",
@@ -218,7 +218,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/12/DB-TD02-012.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/12/DB-TD02-012.png?format=.webp"
   },
   {
     "name": "Insignia of Olous",
@@ -235,7 +235,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/9/9b/DB-PR-0014.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/9/9b/DB-PR-0014.jpg"
   },
   {
     "name": "Standard of Tauris",
@@ -269,7 +269,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/66/DB-PR-0016.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/66/DB-PR-0016.jpg"
   },
   {
     "name": "Bloody Baroness",
@@ -286,7 +286,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose a cost 4 or less creature, and destroy it.\n[CONT] [Dragocross](Blue)This creature gets +2/+2.",
     "attack": "4",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/35/DB-PR-0017.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/35/DB-PR-0017.jpg"
   },
   {
     "name": "Vrrglsk, Plunderer of the Deep",
@@ -303,7 +303,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose a spell from your discard pile, and return it to your hand.\n[CONT] [Dragocross](Blue)When this creature is destroyed, you may choose a card with the ambush ability from your discard pile, and return it to your hand.",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/53/DB-PR-0018.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/53/DB-PR-0018.jpg"
   },
   {
     "name": "Goblin Toestabber",
@@ -320,7 +320,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose a [Dragoshield], and deal 1 damage to it.\n[AUTO] [Dragocross](Black)This creature gets +1/+1.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/9/9d/DB-PR-0019.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/9/9d/DB-PR-0019.jpg"
   },
   {
     "name": "\"Unstoppable\" Angela Lee",
@@ -337,7 +337,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/79/DB-PR-0020.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/79/DB-PR-0020.jpg"
   },
   {
     "name": "Dragolord's Intervention",
@@ -354,7 +354,7 @@
     "ability": "If you have a yellow banner, this spell's cost is reduced by two for each of your dice with value 1.Draw three cards.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/da/DB-PR-0021.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/d/da/DB-PR-0021.png?format=.webp"
   },
   {
     "name": "Dragolord's Intervention",
@@ -371,7 +371,7 @@
     "ability": "If you have a yellow banner, this spell's cost is reduced by two for each of your dice with value 1.Draw three cards.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/ad/DB-PR-0022.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/a/ad/DB-PR-0022.png?format=.webp"
   },
   {
     "name": "Laelania's Call",
@@ -388,7 +388,7 @@
     "ability": "Summon a cost 4 or less green creature or a cost 3 or less creature from your hand.  Put this card into your discard pile, and summon a cost 7 or less creature from your hand. (When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ea/DB-TD03-006.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/e/ea/DB-TD03-006.png?format=.webp"
   },
   {
     "name": "Bladehorn Charger",
@@ -405,7 +405,7 @@
     "ability": "When this creature is summoned, you may choose a creature, and deal 4 damage to it. (Red) When this creature is destroyed, you may choose a creature, and deal 5 damage to it.",
     "attack": "5",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/3d/DB-PR-0024.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/3d/DB-PR-0024.jpg"
   },
   {
     "name": "The Caretaker",
@@ -422,7 +422,7 @@
     "ability": "When this creature attacks, it gets +0/+3 for this turn. At the end of your turn, if this creature attacked this turn and was blocked by a creature, [STAND] this creature.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/b8/DB-PR-0025.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/b8/DB-PR-0025.png?format=.webp"
   },
   {
     "name": "Skree, Demolition Scrapper",
@@ -439,7 +439,7 @@
     "ability": "Invade <Blue> (This creature cannot be blocked by creatures when it is attacking a blue fort.) (Red)  When another creature is DC@, you may choose a creature, and deal 1 damage to it.",
     "attack": "2",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/15/DB-PR-0026.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/15/DB-PR-0026.png?format=.webp"
   },
   {
     "name": "Skree, Demolition Scrapper",
@@ -456,7 +456,7 @@
     "ability": "Invade (This creature cannot be blocked by creatures when it is attacking a blue fort.) (Red)  When another creature is DC@, you may choose a creature, and deal 1 damage to it.",
     "attack": "2",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/61/DB-PR-0027.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/61/DB-PR-0027.png?format=.webp"
   },
   {
     "name": "Typhos, Relentless Hunter",
@@ -473,7 +473,7 @@
     "ability": "[AUTO] When this creature is summoned, for every two of your blue creatures, you may choose a creature, and Rest it.\n[AUTO] [Dragocross](Blue) When this creature attacks, you may chose an opposing yellow or red creature, and return it to it's owner's hand. ",
     "attack": "4",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/08/DB-BT01-057.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/08/DB-BT01-057.png?format=.webp"
   },
   {
     "name": "\"The Cleaner\" Kenny Omega",
@@ -490,7 +490,7 @@
     "ability": "",
     "attack": "",
     "endurance": "",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/64/DB-PR-0029.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/64/DB-PR-0029.jpg"
   },
   {
     "name": "Ferocity Unleashed",
@@ -507,7 +507,7 @@
     "ability": "Reveal three cards from the top of your deck, and you may play any number of cost 3 or less cards from among them without paying their cost. Put the rest of the cards into your discard pile. (You choose the order that the cards are played.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/ef/DB-BT02-045.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/e/ef/DB-BT02-045.png?format=.webp"
   },
   {
     "name": "Gleaming Sentinel",
@@ -524,7 +524,7 @@
     "ability": "[CONT] If this creature is [Rest], the first damage dealt to this fort each turn is reduced to 0.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/0e/DB-PR-0031.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/0e/DB-PR-0031.png?format=.webp"
   },
   {
     "name": "Gleaming Sentinel",
@@ -541,7 +541,7 @@
     "ability": "[CONT] If this creature is [Rest], the first damage dealt to this fort each turn is reduced to 0.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/8/85/DB-PR-0032.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/8/85/DB-PR-0032.jpg"
   },
   {
     "name": "Thalessa, Partisan of Life",
@@ -558,7 +558,7 @@
     "ability": "[AUTO] When this creature is summoned, choose one of your forts, put up to two barriers from that fort into your resource zone, and for each card put into your resource zone, put a card from your resource zone on that fort as a barrier.\n[CONT] [Dragocross](Green)If you have eight or more cards in your resource zone, this creature cannot be blocked by creatures.",
     "attack": "6",
     "endurance": "6",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/b5/DB-PR-0033.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/b5/DB-PR-0033.png?format=.webp"
   },
   {
     "name": "Augmented Sniper",
@@ -575,7 +575,7 @@
     "ability": "[ACT] [Siphon Green 2] The next creature you play this turn costs 1 less to play. This ability cannot reduce the cost to 0 or less. This ability can only be used once per turn.",
     "attack": "1",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/3c/DB-PR-0034.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/3c/DB-PR-0034.jpg"
   },
   {
     "name": "Harpy Pheonix",
@@ -592,7 +592,7 @@
     "ability": "[AUTO] When this creature is destroyed, draw a card.",
     "attack": "3",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f2/0035.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/f2/0035.png?format=.webp"
   },
   {
     "name": "Harpy Pheonix",
@@ -609,7 +609,7 @@
     "ability": "[AUTO] When this creature is destroyed, draw a card.",
     "attack": "3",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f2/0035.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/f2/0035.png?format=.webp"
   },
   {
     "name": "Tanglewood Messenger",
@@ -626,7 +626,7 @@
     "ability": "[CONT] If you control two or more non-green creatures, this creature gets +2/+1.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/10/DB-PR-0037.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/10/DB-PR-0037.png?format=.webp"
   },
   {
     "name": "Skullcrusher Demon",
@@ -643,7 +643,7 @@
     "ability": "[AUTO] When this creature is destroyed, your opponent discards a card from their hand.\n[CONT] [Dragocross](Red) This creature gets +2/+2.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/1e/DB-PR-0038.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/1e/DB-PR-0038.jpg"
   },
   {
     "name": "Treatment Drone",
@@ -660,7 +660,7 @@
     "ability": "[AUTO] When this creature is summoned, put the top card of your deck into your resource zone.\n[Fort Burst] Summon this creature.",
     "attack": "1",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5a/DB-PR-0039.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/5a/DB-PR-0039.jpg"
   },
   {
     "name": "Treatment Drone",
@@ -677,7 +677,7 @@
     "ability": "[AUTO] When this creature is summoned, put the top card of your deck into your resource zone.\n[Fort Burst] Summon this creature.",
     "attack": "1",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5a/DB-PR-0039.jpg"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/5a/DB-PR-0039.jpg"
   },
   {
     "name": "Dwarven Sharpshooter",
@@ -694,7 +694,7 @@
     "ability": "[CONT] This creature cannot be blocked by creatures with ATK lower than this creature's ATK.\n[CONT] [Dragocross](Black) This creature gets +1/+1.",
     "attack": "3",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/f0/DB-PR-0041.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/f0/DB-PR-0041.png?format=.webp"
   },
   {
     "name": "Dwarven Sharpshooter",
@@ -711,7 +711,7 @@
     "ability": "[CONT] This creature cannot be blocked by creatures with ATK lower than this creature's ATK.\n[CONT] [Dragocross](Black) This creature gets +1/+1.",
     "attack": "3",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/16/DB-PR-0042.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/16/DB-PR-0042.png?format=.webp"
   },
   {
     "name": "Battle Preparations",
@@ -728,7 +728,7 @@
     "ability": "Look at the top card of your deck, put that card on the top or bottom of your deck, and draw a card.",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/c/c0/DB-PR-0043.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/c/c0/DB-PR-0043.png?format=.webp"
   },
   {
     "name": "Angelica's Guard",
@@ -745,7 +745,7 @@
     "ability": "[ACT] [Siphon 3] This creature gets +1/+0 for this turn. If you siphoned a green die for this ability's cost, this creature gets +1/+1 for this turn instead.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/1f/DB-BT02-020.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/1f/DB-BT02-020.png?format=.webp"
   },
   {
     "name": "Giorno, Eyes of Fate",
@@ -762,6 +762,6 @@
     "ability": "When this creature is summoned from your hand, put all cards from your hand on the bottom of your deck in any order, reveal cards from the top of your deck equal to the number of cards put on the bottom of your deck, choose an angel from among those cards, summon it, and put the rest of the cards into your hand.",
     "attack": "4",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/2/25/DB-PR-0045.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/2/25/DB-PR-0045.png?format=.webp"
   }
 ]
