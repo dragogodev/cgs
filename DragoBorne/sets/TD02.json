@@ -14,7 +14,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/01/DB-TD02-006.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/01/DB-TD02-006.png?format=.webp"
   },
   {
     "name": "Axion, Herald of Armies",
@@ -31,7 +31,7 @@
     "ability": "[CONT] You may have up to three creatures at this creature's fort.\n[AUTO] [Dragocross](Yellow)When your [Dragoshield] is destroyed, you may move this creature to another fort, and [STAND] it.",
     "attack": "4",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/5d/DB-TD02-001.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/5d/DB-TD02-001.png?format=.webp"
   },
   {
     "name": "Elegant Fencer",
@@ -48,7 +48,7 @@
     "ability": "[AUTO] When this creature's attack destroys a [Dragoshield], draw a card.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/2/2b/DB-TD02-002.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/2/2b/DB-TD02-002.png?format=.webp"
   },
   {
     "name": "Earthen Guard Golem",
@@ -65,7 +65,7 @@
     "ability": "Ambush[2] (You may pay 2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked, if this card is an ambush, you may summon this creature.",
     "attack": "1",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/6/6e/DB-TD02-003.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/6/6e/DB-TD02-003.png?format=.webp"
   },
   {
     "name": "Logres Swiftblade",
@@ -82,7 +82,7 @@
     "ability": "[CONT] This creature cannot be blocked by creatures with 1 or less ATK.",
     "attack": "3",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/51/DB-TD02-004.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/51/DB-TD02-004.png?format=.webp"
   },
   {
     "name": "Sunscale Ascetic",
@@ -99,7 +99,7 @@
     "ability": "[AUTO] When this creature is summoned, you may choose a cost 5 or greater creature, and [REST] it.",
     "attack": "2",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/b8/DB-TD02-005.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/b8/DB-TD02-005.png?format=.webp"
   },
   {
     "name": "Shield of Logres",
@@ -116,7 +116,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/0/01/DB-TD02-006.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/0/01/DB-TD02-006.png?format=.webp"
   },
   {
     "name": "Remus, Hunter Adept",
@@ -133,7 +133,7 @@
     "ability": "[AUTO] When this creature is blocked, draw a card.\n[AUTO] [Dragocross](Yellow)When this creature deals damage to a fort, if you have three or less barriers, choose one of your forts, and put the top card of your deck on that fort as a barrier.",
     "attack": "6",
     "endurance": "6",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/e/e4/DB-TD02-007.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/e/e4/DB-TD02-007.png?format=.webp"
   },
   {
     "name": "Guardian of the Forest",
@@ -150,7 +150,7 @@
     "ability": "[AUTO] When damage is dealt to your fort, [STAND] this creature. This ability can only activate once per turn.\n[AUTO] [Dragocross](Yellow)When this creature blocks, draw a card.",
     "attack": "0",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/fd/Guardian.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/fd/Guardian.png?format=.webp"
   },
   {
     "name": "Kingslayer Bee",
@@ -167,7 +167,7 @@
     "ability": "Ambush[?] (You may pay ? to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked, if this card is an ambush, you may summon this creature, choose an opposing creature, and [REST] it.",
     "attack": "3",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/ab/DB-TD02-009.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/a/ab/DB-TD02-009.png?format=.webp"
   },
   {
     "name": "Primeape Javelineer",
@@ -184,7 +184,7 @@
     "ability": "-",
     "attack": "5",
     "endurance": "4",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/a/ab/DB-TD02-010.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/a/ab/DB-TD02-010.png?format=.webp"
   },
   {
     "name": "Tanglewood Menace",
@@ -201,7 +201,7 @@
     "ability": "-",
     "attack": "2",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/f/fe/DB-TD02-011.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/f/fe/DB-TD02-011.png?format=.webp"
   },
   {
     "name": "Runemark of Tir na Nog",
@@ -218,7 +218,7 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/1/12/DB-TD02-012.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/1/12/DB-TD02-012.png?format=.webp"
   },
   {
     "name": "Ambushing Tidechaser",
@@ -235,7 +235,7 @@
     "ability": "[AUTO] When this creature attacks, all ambushes have no effect for this battle.",
     "attack": "1",
     "endurance": "1",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/b/b6/DB-TD02-013.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/b/b6/DB-TD02-013.png?format=.webp"
   },
   {
     "name": "The Keeper",
@@ -252,7 +252,7 @@
     "ability": "[AUTO] When this creature blocks, choose an opposing creature with X or less ATK, and [REST] it, where X is this creature's EDR.",
     "attack": "2",
     "endurance": "5",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/d/d7/DB-TD02-014.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/d/d7/DB-TD02-014.png?format=.webp"
   },
   {
     "name": "The Ripper",
@@ -269,7 +269,7 @@
     "ability": "-",
     "attack": "4",
     "endurance": "3",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/c/c5/DB-TD02-015.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/c/c5/DB-TD02-015.png?format=.webp"
   },
   {
     "name": "Frontier Explorer",
@@ -286,7 +286,7 @@
     "ability": "-",
     "attack": "1",
     "endurance": "2",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/4/40/DB-TD02-016.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/4/40/DB-TD02-016.png?format=.webp"
   },
   {
     "name": "Hidden Arts, Water's Edge Shuriken",
@@ -303,7 +303,7 @@
     "ability": "All of your creatures get Assassin <All Creatures>  for this turn. (Those creatures may attack opposing creatures in [REST]. That attack cannot be blocked by [Dragoshield] or creatures.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/73/DB-TD02-017.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/73/DB-TD02-017.png?format=.webp"
   },
   {
     "name": "E.M.P",
@@ -320,7 +320,7 @@
     "ability": "Ambush[2] (You may pay 2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked, if this card is an ambush, you may choose a fort, and [REST] all creatures at that fort. (Put this card into your discard pile afterwards.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/3/39/DB-TD02-018.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/3/39/DB-TD02-018.png?format=.webp"
   },
   {
     "name": "Dismantle",
@@ -337,7 +337,7 @@
     "ability": "Choose a creature, [REST] it, and draw a card.\n[Fort Burst] Put this card into the discard pile, and draw two cards. (Fort Burst: When this card is a barrier, and would be put to your hand due to damage, you may play this ability instead.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/74/DB-TD02-019.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/74/DB-TD02-019.png?format=.webp"
   },
   {
     "name": "Hidden Arts, Reverse Thunderstrike",
@@ -354,7 +354,7 @@
     "ability": "Ambush[2] (You may pay 2 to play this card from your hand face-down at one of your forts.)\n[AUTO] When this fort is attacked, if this card is an ambush, you may [STAND] all of the creatures at this fort, and draw a card. (Put this card into your discard pile afterwards.)",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/5/57/DB-TD02-020.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/5/57/DB-TD02-020.png?format=.webp"
   },
   {
     "name": "Insignia of Olous",
@@ -371,6 +371,6 @@
     "ability": "-",
     "attack": "0",
     "endurance": "0",
-    "image_url": "https://vignette.wikia.nocookie.net/dragoborne/images/7/7a/DB-TD02-021.png"
+    "image_url": "https://static.wikia.nocookie.net/dragoborne/images/7/7a/DB-TD02-021.png?format=.webp"
   }
 ]
