@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "https://api.deckplanet.net/cardsearch/gundam_cards?filter={%22_and%22:[{%22status%22:{%22_eq%22:%22published%22}},{%22variant_of%22:{%22id%22:{%22_null%22:true}}}]}",
+  "allCardsUrl": "https://api.deckplanet.net/cardsearch/gundam_cards?filter=%7B%22_and%22%3A%5B%7B%22status%22%3A%7B%22_eq%22%3A%22published%22%7D%7D%2C%7B%22variant_of%22%3A%7B%22id%22%3A%7B%22_null%22%3Atrue%7D%7D%7D%5D%7D",
   "allCardsUrlPageCountIdentifier": "meta.page_count",
   "allCardsUrlPageIdentifier": "&page=",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json",
@@ -151,5 +151,6 @@
   },
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
 }
+
 
 
