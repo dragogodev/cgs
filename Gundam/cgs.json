@@ -9,7 +9,7 @@
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "card_number",
   "cardImageFileType": "webp",
-  "cardImageUrl": "https://exburst.dev/gundam/cards/hd/{card.image_link}.{cardImageFileType}",
+  "cardImageUrl": "https://exburst.dev/gundam/cards/hd/{cardId}.{cardImageFileType}",
   "cardNameIdentifier": "card_name",
   "cardNameIsUnique": false,
   "cardPrimaryProperty": "card_text_unstyled",
@@ -91,10 +91,6 @@
       "display": "Rarity",
       "displayEmpty": "-",
       "type": "stringEnum"
-    },
-    {
-      "name": "image_link",
-      "type": "string"
     }
   ],
   "cardSetIdentifier": "card_series",
@@ -151,6 +147,7 @@
   },
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
 }
+
 
 
 
