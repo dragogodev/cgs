@@ -9,7 +9,7 @@
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "card_number",
   "cardImageFileType": "webp",
-  "cardImageUrl": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/gundam/{card.image_link}.{cardImageFileType}",
+  "cardImageUrl": "https://exburst.dev/gundam/cards/hd/{card.image_link}.{cardImageFileType}",
   "cardNameIdentifier": "card_name",
   "cardNameIsUnique": false,
   "cardPrimaryProperty": "card_text_unstyled",
@@ -151,6 +151,7 @@
   },
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
 }
+
 
 
 
