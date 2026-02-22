@@ -2,7 +2,7 @@
   "allCardsUrl": "https://api.lorcana-api.com/bulk/cards",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json",
   "bannerImageUrl": "https://media.ffycdn.net/eu/ravensburger/FjKdvSbk7zfiPHQSkoSA.png?mod=v1/max=2400",
-  "cardBackImageUrl": "https://wiki.mushureport.com/images/d/d7/Card_Back_official.png",
+  "cardBackImageUrl": "https://www.printingproxies.com/wp-content/plugins/card-demo/front/templates/images/thumbnail/lorcana1-thumb.png",
   "cardIdIdentifier": "Unique_ID",
   "cardImageProperty": "Image",
   "cardNameIdentifier": "Name",
@@ -73,4 +73,5 @@
   "name": "Lorcana",
   "rulesUrl": "https://www.disneylorcana.com/en-US/how-to-play"
 }
+
 
