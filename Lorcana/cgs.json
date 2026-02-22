@@ -1,7 +1,7 @@
 {
   "allCardsUrl": "https://api.lorcana-api.com/bulk/cards",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json",
-  "bannerImageUrl": "https://wiki.mushureport.com/images/5/57/Disney_Lorcana_TCG_Logo_transparent.png",
+  "bannerImageUrl": "https://media.ffycdn.net/eu/ravensburger/FjKdvSbk7zfiPHQSkoSA.png?mod=v1/max=2400",
   "cardBackImageUrl": "https://wiki.mushureport.com/images/d/d7/Card_Back_official.png",
   "cardIdIdentifier": "Unique_ID",
   "cardImageProperty": "Image",
@@ -73,3 +73,4 @@
   "name": "Lorcana",
   "rulesUrl": "https://www.disneylorcana.com/en-US/how-to-play"
 }
+
