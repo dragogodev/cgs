@@ -6,6 +6,7 @@
   "bannerImageUrl": "https://cdn.xsolla.net/image-proxy/rs:fit:3840:0/f:webp/storage/merchant-bucket-prod/files/uploaded/sitebuilder/385462/9ec46b96ef01e5e1e50df483219cd54b.jpg@webp",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cdna.artstation.com/p/assets/images/images/063/552/090/large/diego-lopez-cardback-kalimakon-3.jpg?1685797877",
+  "cardDataIdentifier": "cards",
   "cardIdIdentifier": "id",
   "cardImageFileType": "webp",
   "cardImageProperty": "image",
