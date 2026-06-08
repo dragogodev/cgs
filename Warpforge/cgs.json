@@ -10,7 +10,7 @@
   "cardIdIdentifier": "id",
   "cardImageFileType": "webp",
   "cardImageProperty": "image",
-  "cardPrimaryProperty": "Description",
+  "cardPrimaryProperty": "description",
   "cardProperties": [
     { "name": "description", "display": "Description", "displayEmpty": "-", "type": "string" },
     { "name": "cost", "display": "Cost", "displayEmpty": "-", "type": "integer" },
