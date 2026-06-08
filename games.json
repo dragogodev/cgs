@@ -72,6 +72,10 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/cgs.json"
   },
   {
+    "name": "Warpforge",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Warpforge/cgs.json"
+  }
+  {
     "name": "Yugioh",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json"
   }

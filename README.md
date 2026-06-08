@@ -27,10 +27,11 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Shadowverse](https://cgs.games/dragogodev/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json`)
 - [Shadowverse Evolve](https://cgs.games/dragogodev/shadowverse_evolve) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json`)
 - [Star Wars Unlimited](https://cgs.games/dragogodev/star_wars_unlimited) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Star%20Wars%20Unlimited/cgs.json`)
+- [Warpforge](https://cgs.games/dragogodev/warpforge) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Warpforge/cgs.json`)
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json`)
 
 ## Candidates for Implementation
-- Fix Digimon, Dragon Ball Super Fusion World, and Gundam
+- Fix Digimon, Dragon Ball Super Fusion World, Gundam, and Warpforge
 - Godzilla Card Game
 - Union Arena
 - Battle Spirits Saga
