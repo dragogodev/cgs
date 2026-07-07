@@ -67,7 +67,7 @@
       "name": "linkmarkers",
       "display": "Link Markers",
       "displayEmpty": "N / A",
-      "type": "string"
+      "type": "stringList"
     },
     {
       "name": "archetype",
