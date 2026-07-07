@@ -137,17 +137,27 @@
       }
     }
   ],
+  "gamePlayDeckPositions": [
+    {
+      "x": 14.5,
+      "y": -3.5
+    },
+    {
+      "x": -15,
+      "y": 4
+    }
+  ],
   "gamePlayZones": [
     {
       "defaultCardAction": "tap",
       "face": "up",
       "position": {
-         "x": 4.9,
-         "y": -16.4
+         "x": 5,
+         "y": -16.5
       },
       "rotation": 0,
       "size": {
-         "x": 23.1,
+         "x": 23,
          "y": 6
       },
       "type": "horizontal"
@@ -170,12 +180,12 @@
        "defaultCardAction": "tap",
        "face": "up",
        "position": {
-          "x": -5.6,
-          "y": 17.1
+          "x": -5.5,
+          "y": 17
        },
        "rotation": 180,
        "size": {
-          "x": 23.1,
+          "x": 23,
           "y": 6
        },
        "type": "horizontal"
