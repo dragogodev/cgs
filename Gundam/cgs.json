@@ -137,6 +137,64 @@
       }
     }
   ],
+  "gamePlayZones": [
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "position": {
+         "x": 4.9,
+         "y": -16.4
+      },
+      "rotation": 0,
+      "size": {
+         "x": 23.1,
+         "y": 6
+      },
+      "type": "horizontal"
+    },
+    {
+       "defaultCardAction": "flip",
+       "face": "down",
+       "position": {
+          "x": -17.25,
+          "y": -7
+       },
+       "rotation": 0,
+       "size": {
+          "x": 6,
+          "y": 12.5
+       },
+       "type": "vertical"
+    },
+    {
+       "defaultCardAction": "tap",
+       "face": "up",
+       "position": {
+          "x": -5.6,
+          "y": 17.1
+       },
+       "rotation": 180,
+       "size": {
+          "x": 23.1,
+          "y": 6
+       },
+       "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "flip",
+      "face": "down",
+      "position": {
+         "x": 16.5,
+         "y": 7.5
+      },
+      "rotation": 180,
+      "size": {
+         "x": 6,
+         "y": 12.5
+      },
+      "type": "vertical"
+    }
+  ],
   "gameStartHandCount": 5,
   "gameStartPointsCount": 0,
   "name": "Gundam",
