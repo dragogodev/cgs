@@ -278,6 +278,7 @@
 		{
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 S&T Zone 1",
 			"position": {
 				"x": -11.5,
 				"y": -7.5
@@ -292,6 +293,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 S&T Zone 2",
 			"position": {
 				"x": -6.5,
 				"y": -7.5
@@ -306,6 +308,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 S&T Zone 3",
 			"position": {
 				"x": -1.5,
 				"y": -7.5
@@ -320,6 +323,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 S&T Zone 4",
 			"position": {
 				"x": 3.5,
 				"y": -7.5
@@ -334,6 +338,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 S&T Zone 5",
 			"position": {
 				"x": 8.5,
 				"y": -7.5
@@ -348,6 +353,7 @@
 		{
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 Monster Zone 1",
 			"position": {
 				"x": -11.5,
 				"y": -2.5
@@ -362,6 +368,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 Monster Zone 2",
 			"position": {
 				"x": -6.5,
 				"y": -2.5
@@ -376,6 +383,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 Monster Zone 3",
 			"position": {
 				"x": -1.5,
 				"y": -2.5
@@ -390,6 +398,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 Monster Zone 4",
 			"position": {
 				"x": 3.5,
 				"y": -2.5
@@ -404,6 +413,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P1 Monster Zone 5",
 			"position": {
 				"x": 8.5,
 				"y": -2.5
@@ -418,6 +428,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 S&T Zone 1",
 			"position": {
 				"x": -8.5,
 				"y": 8.75
@@ -432,6 +443,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 S&T Zone 2",
 			"position": {
 				"x": -3.5,
 				"y": 8.75
@@ -446,6 +458,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 S&T Zone 3",
 			"position": {
 				"x": 1.5,
 				"y": 8.75
@@ -460,6 +473,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 S&T Zone 4",
 			"position": {
 				"x": 6.5,
 				"y": 8.75
@@ -474,6 +488,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 S&T Zone 5",
 			"position": {
 				"x": 11.5,
 				"y": 8.75
@@ -488,6 +503,7 @@
 		{
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 Monster Zone 1",
 			"position": {
 				"x": -8.5,
 				"y": 3.75
@@ -502,6 +518,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 Monster Zone 2",
 			"position": {
 				"x": -3.5,
 				"y": 3.75
@@ -516,6 +533,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 Monster Zone 3",
 			"position": {
 				"x": 1.5,
 				"y": 3.75
@@ -530,6 +548,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 Monster Zone 4",
 			"position": {
 				"x": 6.5,
 				"y": 3.75
@@ -544,6 +563,7 @@
     {
 			"defaultCardAction": "flip",
 			"face": "any",
+			"name": "P2 Monster Zone 5",
 			"position": {
 				"x": 11.5,
 				"y": 3.75
