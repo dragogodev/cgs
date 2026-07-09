@@ -45,6 +45,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+      "name": "Zone",
 			"position": {
 				"x": 0,
 				"y":0
