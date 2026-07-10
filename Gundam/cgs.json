@@ -151,6 +151,7 @@
     {
       "defaultCardAction": "tap",
       "face": "up",
+      "name": "Resource Zone 1",
       "position": {
          "x": 5,
          "y": -16.5
@@ -165,6 +166,7 @@
     {
        "defaultCardAction": "flip",
        "face": "down",
+       "name": "Shield Zone 1",
        "position": {
           "x": -17.25,
           "y": -7
@@ -179,6 +181,7 @@
     {
        "defaultCardAction": "tap",
        "face": "up",
+       "name": "Resource Zone 2",
        "position": {
           "x": -5.5,
           "y": 17
@@ -193,6 +196,7 @@
     {
       "defaultCardAction": "flip",
       "face": "down",
+      "name": "Shield Zone 2",
       "position": {
          "x": 16.5,
          "y": 7.5
