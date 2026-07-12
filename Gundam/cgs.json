@@ -99,6 +99,10 @@
   "deckSharePreference": "individual",
 	"deckUrls": [
 		{
+			"name": "Resource Deck",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/Resource%20Deck.txt"
+		},
+		{
 			"name": "ST01 - Heroic Beginnings",
 			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST01%20-%20Heroic%20Beginnings.txt"
 		},
@@ -137,14 +141,29 @@
       }
     }
   ],
+  "extras": [
+    {
+      "group": "Resource Deck",
+      "property": "card_type",
+      "value": "RESOURCE"
+    }
+  ],
   "gamePlayDeckPositions": [
     {
       "x": 14.5,
       "y": -3.5
     },
     {
+      "x": -8.5,
+      "y": -16.5
+    },
+    {
       "x": -15,
       "y": 4
+    },
+    {
+      "x": 8,
+      "y": 17
     }
   ],
   "gamePlayZones": [
