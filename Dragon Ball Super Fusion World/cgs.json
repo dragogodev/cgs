@@ -164,6 +164,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "Battle Area 1",
 			"position": {
 				"x": 2.6,
 				"y": -3.4
@@ -178,6 +179,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "Combo Area 1",
 			"position": {
 				"x": 0.3,
 				"y": -8.35
@@ -192,6 +194,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "Energy Area 1",
 			"position": {
 				"x": 0.3,
 				"y": -13.25
@@ -206,6 +209,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "down",
+			"name": "Life Area 1",
 			"position": {
 				"x": -17,
 				"y": -6
@@ -220,6 +224,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "Battle Area 2",
 			"position": {
 				"x": -2.6,
 				"y": 3.4
@@ -234,6 +239,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "Combo Area 2",
 			"position": {
 				"x": -0.3,
 				"y": 8.35
@@ -248,6 +254,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "Energy Area 2",
 			"position": {
 				"x": -0.3,
 				"y": 13.25
@@ -262,6 +269,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "down",
+			"name": "Life Area 2",
 			"position": {
 				"x": 17.25,
 				"y": 6
