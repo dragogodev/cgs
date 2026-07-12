@@ -145,6 +145,7 @@
 		{
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P1 Ambush Zone 1",
 			"position": {
 				"x": -8.5,
 				"y": -3
@@ -159,6 +160,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P1 Ambush Zone 2",
 			"position": {
 				"x": 0,
 				"y": -3
@@ -173,6 +175,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P1 Ambush Zone 3",
 			"position": {
 				"x": 8.5,
 				"y": -3
@@ -187,6 +190,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P1 Fort 1 Creatures",
 			"position": {
 				"x": -8.5,
 				"y": -8
@@ -201,6 +205,7 @@
 	  {
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P1 Fort 2 Creatures",
 			"position": {
 				"x": 0,
 				"y": -8
@@ -215,6 +220,7 @@
 	  {
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P1 Fort 3 Creatures",
 			"position": {
 				"x": 8.5,
 				"y": -8
@@ -229,6 +235,7 @@
 		{
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P1 Fort 1 Barriers",
 			"position": {
 				"x": -8.5,
 				"y": -11
@@ -243,6 +250,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P1 Fort 2 Barriers",
 			"position": {
 				"x": 0,
 				"y": -11
@@ -257,6 +265,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P1 Fort 3 Barriers",
 			"position": {
 				"x": 8.5,
 				"y": -11
@@ -271,6 +280,7 @@
 	  {
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P1 Resources",
 			"position": {
 				"x": 0,
 				"y": -16.25
@@ -285,6 +295,7 @@
 	  ,{
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P2 Ambush Zone 1",
 			"position": {
 				"x": -8.5,
 				"y": 3
@@ -299,6 +310,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P2 Ambush Zone 2",
 			"position": {
 				"x": 0,
 				"y": 3
@@ -313,6 +325,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P2 Ambush Zone 3",
 			"position": {
 				"x": 8.5,
 				"y": 3
@@ -327,6 +340,7 @@
 		{
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P2 Fort 1 Creatures",
 			"position": {
 				"x": -8.5,
 				"y": 8
@@ -341,6 +355,7 @@
 	  {
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P2 Fort 2 Creatures",
 			"position": {
 				"x": 0,
 				"y": 8
@@ -355,6 +370,7 @@
 	  {
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P2 Fort 3 Creatures",
 			"position": {
 				"x": 8.5,
 				"y": 8
@@ -369,6 +385,7 @@
 		{
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P2 Fort 1 Barriers",
 			"position": {
 				"x": -8.5,
 				"y": 11
@@ -383,6 +400,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P2 Fort 2 Barriers",
 			"position": {
 				"x": 0,
 				"y": 11
@@ -397,6 +415,7 @@
 	  {
 			"defaultCardAction": "flip",
 			"face": "down",
+			"name": "P2 Fort 3 Barriers",
 			"position": {
 				"x": 8.5,
 				"y": 11
@@ -411,6 +430,7 @@
 	  {
 			"defaultCardAction": "tap",
 			"face": "up",
+			"name": "P2 Resources",
 			"position": {
 				"x": 0,
 				"y": 16.25
@@ -424,6 +444,7 @@
 		},
 	  {
 			"type": "dice",
+			"name": "P1 Dice Zone",
 			"position": {
 				"x": 15,
 				"y": -3
@@ -436,6 +457,7 @@
 		},
 	  {
 			"type": "dice",
+			"name": "P2 Dice Zone",
 			"position": {
 				"x": -15,
 				"y": 3
