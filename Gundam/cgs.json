@@ -18,13 +18,13 @@
       "name": "card_level",
       "display": "Level",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "integer"
     },
     {
       "name": "card_cost",
       "display": "Cost",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "integer"
     },
     {
       "name": "card_color",
@@ -36,19 +36,19 @@
       "name": "card_ap",
       "display": "AP",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "integer"
     },
     {
       "name": "card_hp",
       "display": "HP",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "integer"
     },
     {
       "name": "card_block_icon",
       "display": "Block Icon",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "integer"
     },
     {
       "name": "card_type",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "property": "rarity",
+      "property": "card_rarity",
       "values": {
         "C": "C",
         "U": "U",
