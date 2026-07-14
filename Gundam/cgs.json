@@ -150,19 +150,35 @@
   ],
   "gamePlayDeckPositions": [
     {
-      "x": 14.5,
+      "x": -3.5,
       "y": -3.5
     },
     {
-      "x": -8.5,
+      "x": -26.5,
       "y": -16.5
     },
     {
-      "x": -15,
+      "x": -33,
       "y": 4
     },
     {
-      "x": 8,
+      "x": -10,
+      "y": 17
+    },
+    {
+      "x": 32.5,
+      "y": -3.5
+    },
+    {
+      "x": 9.5,
+      "y": -16.5
+    },
+    {
+      "x": 3,
+      "y": 4
+    },
+    {
+      "x": 26,
       "y": 17
     }
   ],
@@ -172,7 +188,7 @@
       "face": "up",
       "name": "Resource Zone 1",
       "position": {
-         "x": 5,
+         "x": -3,
          "y": -16.5
       },
       "rotation": 0,
@@ -187,7 +203,7 @@
        "face": "down",
        "name": "Shield Zone 1",
        "position": {
-          "x": -17.25,
+          "x": -35.25,
           "y": -7
        },
        "rotation": 0,
@@ -202,7 +218,7 @@
        "face": "up",
        "name": "Resource Zone 2",
        "position": {
-          "x": -5.5,
+          "x": -23.5,
           "y": 17
        },
        "rotation": 180,
@@ -217,7 +233,67 @@
       "face": "down",
       "name": "Shield Zone 2",
       "position": {
-         "x": 16.5,
+         "x": -1.5,
+         "y": 7.5
+      },
+      "rotation": 180,
+      "size": {
+         "x": 6,
+         "y": 12.5
+      },
+      "type": "vertical"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Resource Zone 3",
+      "position": {
+         "x": 23,
+         "y": -16.5
+      },
+      "rotation": 0,
+      "size": {
+         "x": 23,
+         "y": 6
+      },
+      "type": "horizontal"
+    },
+    {
+       "defaultCardAction": "flip",
+       "face": "down",
+       "name": "Shield Zone 3",
+       "position": {
+          "x": 0.75,
+          "y": -7
+       },
+       "rotation": 0,
+       "size": {
+          "x": 6,
+          "y": 12.5
+       },
+       "type": "vertical"
+    },
+    {
+       "defaultCardAction": "tap",
+       "face": "up",
+       "name": "Resource Zone 4",
+       "position": {
+          "x": 12.5,
+          "y": 17
+       },
+       "rotation": 180,
+       "size": {
+          "x": 23,
+          "y": 6
+       },
+       "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "flip",
+      "face": "down",
+      "name": "Shield Zone 4",
+      "position": {
+         "x": 34.5,
          "y": 7.5
       },
       "rotation": 180,
@@ -233,13 +309,8 @@
   "name": "Gundam",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/PlayMat.png",
   "playMatSize": {
-    "x": 36,
+    "x": 72,
     "y": 42
   },
   "rulesUrl": "https://www.gundam-gcg.com/en/rules/"
 }
-
-
-
-
-
