@@ -186,9 +186,9 @@
     {
       "defaultCardAction": "tap",
       "face": "up",
-      "name": "Resource Zone 1",
+      "name": "Resource Area 1",
       "position": {
-         "x": -3,
+         "x": -13,
          "y": -16.5
       },
       "rotation": 0,
@@ -201,7 +201,7 @@
     {
        "defaultCardAction": "flip",
        "face": "down",
-       "name": "Shield Zone 1",
+       "name": "Shields 1",
        "position": {
           "x": -35.25,
           "y": -7
@@ -216,7 +216,7 @@
     {
        "defaultCardAction": "tap",
        "face": "up",
-       "name": "Resource Zone 2",
+       "name": "Resource Area 2",
        "position": {
           "x": -23.5,
           "y": 17
@@ -231,7 +231,7 @@
     {
       "defaultCardAction": "flip",
       "face": "down",
-      "name": "Shield Zone 2",
+      "name": "Shields 2",
       "position": {
          "x": -1.5,
          "y": 7.5
@@ -246,7 +246,7 @@
     {
       "defaultCardAction": "tap",
       "face": "up",
-      "name": "Resource Zone 3",
+      "name": "Resource Area 3",
       "position": {
          "x": 23,
          "y": -16.5
@@ -261,7 +261,7 @@
     {
        "defaultCardAction": "flip",
        "face": "down",
-       "name": "Shield Zone 3",
+       "name": "Shields 3",
        "position": {
           "x": 0.75,
           "y": -7
@@ -276,7 +276,7 @@
     {
        "defaultCardAction": "tap",
        "face": "up",
-       "name": "Resource Zone 4",
+       "name": "Resource Area 4",
        "position": {
           "x": 12.5,
           "y": 17
@@ -291,7 +291,7 @@
     {
       "defaultCardAction": "flip",
       "face": "down",
-      "name": "Shield Zone 4",
+      "name": "Shields 4",
       "position": {
          "x": 34.5,
          "y": 7.5
