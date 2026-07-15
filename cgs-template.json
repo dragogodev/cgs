@@ -41,6 +41,7 @@
 			"y": 0
 		}
   ],
+  "gameDefaultCardAction": "tap",
   "gamePlayZones": [
 		{
 			"defaultCardAction": "tap",
