@@ -148,6 +148,7 @@
       "value": "RESOURCE"
     }
   ],
+  "gameDefaultCardAction": "tap",
   "gamePlayDeckPositions": [
     {
       "x": -3.5,
