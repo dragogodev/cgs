@@ -1,22 +1,79 @@
 {
-  "allCardsUrl": "https://onepiece-cardgame.dev/cards.json",
+  "allCardsUrl": "https://optcgapi.com/api/allSetCards/",
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json",
   "bannerImageUrl": "https://en.onepiece-cardgame.com/images/common/logo_op.png",
   "cardBackImageFileType": "jpg",
   "cardBackImageUrl": "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__original/img/w7theJY22QZ2z1V9GZHeexQo6_Q=/0x0/filters:format(jpeg)/pic6974116.jpg",
-  "cardIdIdentifier": "cid",
-  "cardImageProperty": "iu",
-  "cardNameIdentifier": "n",
-  "cardPrimaryProperty": "e",
+  "cardIdIdentifier": "card_image_id",
+  "cardImageFileType": "jpg",
+  "cardImageProperty": "card_image",
+  "cardNameIdentifier": "card_name",
+  "cardPrimaryProperty": "card_text",
   "cardProperties": [
     {
-      "name": "e",
+      "name": "card_text",
       "display": "Text",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_type",
+      "display": "Card Type",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_color",
+      "display": "Color",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_cost",
+      "display": "Cost",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_power",
+      "display": "Power",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "counter_amount",
+      "display": "Counter",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "attribute",
+      "display": "Attribute",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "sub_types",
+      "display": "Types",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "life",
+      "display": "Life",
       "displayEmpty": "-",
       "type": "string"
     }
   ],
-  "cardSetIdentifier": "srcN",
+  "cardSetIdentifier": "set_id",
+  "cardSetNameIdentifier": "set_name",
   "cgsGamesLink": "https://cgs.games/dragogodev/one_piece",
   "copyright": "Eiichiro Oda/Shueisha, Toei Animation",
   "deckSharePreference": "individual",
