@@ -1,9 +1,8 @@
 {
   "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json",
-  "bannerImageUrl": "https://en.cf-vanguard.com/wordpress/wp-content/themes/cf-vanguard/img/vg_logo_en.png",
-  "cardBackImageFileType": "webp",
-  "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png",
+  "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/Banner.png",
+  "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png?format=png",
   "cardIdIdentifier": "number",
   "cardImageFileTypeIdentifier": "image_file_type",
   "cardImageProperty": "image_url",
