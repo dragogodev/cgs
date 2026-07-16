@@ -1,8 +1,7 @@
 {
   "allCardsUrl": "https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Hearthstone/cgs.json",
-  "bannerImageFileType": "webp",
-  "bannerImageUrl": "https://logos-world.net/wp-content/uploads/2021/02/Hearthstone-Heroes-of-Warcraft-Logo-2016-present.png",
+  "bannerImageUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltc965041283bac56c/bltce748775e32f8c04/5f0769f35d2ae808119fb2dd/homepage_logo.png?imwidth=960",
   "cardBackImageFileType": "webp",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/hearthstone/images/c/c4/Card_back-Default.png",
   "cardImageUrl": "https://art.hearthstonejson.com/v1/render/latest/enUS/256x/{cardId}.{cardImageFileType}",
