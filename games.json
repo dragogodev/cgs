@@ -40,10 +40,6 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Lorcana/cgs.json"
   },
   {
-    "name": "Magic the Gathering",
-    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic/cgs.json"
-  },
-  {
     "name": "Magic: Starcraft",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json"
   },
