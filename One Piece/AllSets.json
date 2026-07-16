@@ -1,0 +1,157 @@
+[
+  {
+    "code": "ST-01",
+    "name": "Starter Deck 1: Straw Hat Crew",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-01/"
+  },
+  {
+    "code": "ST-02",
+    "name": "Starter Deck 2: Worst Generation",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-02/"
+  },
+  {
+    "code": "ST-03",
+    "name": "Starter Deck 3: The Seven Warlords of The Sea",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-03/"
+  },
+  {
+    "code": "ST-04",
+    "name": "Starter Deck 4: Animal Kingdom Pirates",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-04/"
+  },
+  {
+    "code": "ST-05",
+    "name": "Starter Deck 5: Film Edition",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-05/"
+  },
+  {
+    "code": "ST-06",
+    "name": "Starter Deck 6: Absolute Justice",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-06/"
+  },
+  {
+    "code": "ST-07",
+    "name": "Starter Deck 7: Big Mom Pirates",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-07/"
+  },
+  {
+    "code": "ST-08",
+    "name": "Starter Deck 8: Monkey.D.Luffy",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-08/"
+  },
+  {
+    "code": "ST-09",
+    "name": "Starter Deck 9: Yamato",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-09/"
+  },
+  {
+    "code": "ST-10",
+    "name": "Ultra Deck: The Three Captains",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-10/"
+  },
+  {
+    "code": "ST-11",
+    "name": "Starter Deck 11: Uta",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-11/"
+  },
+  {
+    "code": "ST-12",
+    "name": "Starter Deck 12: Zoro and Sanji",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-12/"
+  },
+  {
+    "code": "ST-13",
+    "name": "Ultra Deck: The Three Brothers",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-13/"
+  },
+  {
+    "code": "ST-14",
+    "name": "Starter Deck 14: 3D2Y",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-14/"
+  },
+  {
+    "code": "ST-15",
+    "name": "Starter Deck 15: RED Edward.Newgate",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-15/"
+  },
+  {
+    "code": "ST-16",
+    "name": "Starter Deck 16: GREEN Uta",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-16/"
+  },
+  {
+    "code": "ST-17",
+    "name": "Starter Deck 17: BLUE Donquixote Doflamingo",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-17/"
+  },
+  {
+    "code": "ST-18",
+    "name": "Starter Deck 18: PURPLE Monkey.D.Luffy",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-18/"
+  },
+  {
+    "code": "ST-19",
+    "name": "Starter Deck 19: BLACK Smoker",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-19/"
+  },
+  {
+    "code": "ST-20",
+    "name": "Starter Deck 20: YELLOW Charlotte Katakuri",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-20/"
+  },
+  {
+    "code": "ST-21",
+    "name": "Starter Deck EX: Gear 5",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-21/"
+  },
+  {
+    "code": "ST-22",
+    "name": "Starter Deck 22: Ace & Newgate",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-22/"
+  },
+  {
+    "code": "ST-23",
+    "name": "Starter Deck 23: RED Shanks",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-23/"
+  },
+  {
+    "code": "ST-24",
+    "name": "Starter Deck 24: GREEN Jewelry Bonney",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-24/"
+  },
+  {
+    "code": "ST-25",
+    "name": "Starter Deck 25: BLUE Buggy",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-25/"
+  },
+  {
+    "code": "ST-26",
+    "name": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-26/"
+  },
+  {
+    "code": "ST-27",
+    "name": "Starter Deck 27: BLACK Marshall.D.Teach",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-27/"
+  },
+  {
+    "code": "ST-28",
+    "name": "Starter Deck 28: GREEN/YELLOW Yamato",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-28/"
+  },
+  {
+    "code": "ST-29",
+    "name": "Starter Deck 29: Egghead",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-29/"
+  },
+  {
+    "code": "ST-30",
+    "name": "Starter Deck EX: Luffy & Ace",
+    "cardsUrl": "https://optcgapi.com/api/decks/ST-30/"
+  },
+  {
+    "code": "DON",
+    "name": "DON!! Cards",
+    "cardsUrl": "https://optcgapi.com/api/allDonCards/"
+  }
+]
