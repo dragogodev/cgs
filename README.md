@@ -31,7 +31,10 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json`)
 
 ## Candidates for Implementation
-- Fix Digimon, Dragon Ball Super Fusion World, Gundam, and Warpforge
+- Restore Magic to games.json
+- Palworld TCG
+- Cyberpunk TCG
+- Naruto TCG
 - Godzilla Card Game
 - Union Arena
 - Battle Spirits Saga
