@@ -323,6 +323,7 @@
   ],
   "gameStartHandCount": 5,
   "gameStartPointsCount": 0,
+  "gamePlayPlayerRotations": [0, 180, 0, 180],
   "name": "Gundam",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/PlayMat.png",
   "playMatSize": {
