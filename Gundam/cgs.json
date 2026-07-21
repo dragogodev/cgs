@@ -217,6 +217,7 @@
     },
     {
        "defaultCardAction": "flip",
+       "defaultCardRotation": 90,
        "face": "down",
        "name": "Shields 1",
        "position": {
@@ -247,6 +248,7 @@
     },
     {
       "defaultCardAction": "flip",
+      "defaultCardRotation": 90,
       "face": "down",
       "name": "Shields 2",
       "position": {
@@ -277,6 +279,7 @@
     },
     {
        "defaultCardAction": "flip",
+       "defaultCardRotation": 90,
        "face": "down",
        "name": "Shields 3",
        "position": {
@@ -307,6 +310,7 @@
     },
     {
       "defaultCardAction": "flip",
+      "defaultCardRotation": 90,
       "face": "down",
       "name": "Shields 4",
       "position": {
