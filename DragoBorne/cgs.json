@@ -1,129 +1,129 @@
 {
-  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllSets.json",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json",
-  "bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/Banner.png",
-  "cardBackImageFileType": "jpg",
-  "cardBackImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/CardBack.jpg",
-  "cardImageFileType": "webp",
-  "cardImageProperty": "image_url",
-  "cardPrimaryProperty": "ability",
-  "cardProperties": [
-    {
-      "name": "cost",
-      "display": "Cost",
-      "type": "integer"
-    },
-    {
-      "name": "color",
-      "display": "Color",
-      "type": "stringEnum"
-    },
-    {
-      "name": "type",
-      "display": "Type",
-      "type": "stringEnum"
-    },
-    {
-      "name": "trait",
-      "display": "Trait",
-      "type": "string"
-    },
-    {
-      "name": "ability",
-      "display": "Ability",
-      "type": "string"
-    },
-    {
-      "name": "flavor",
-      "display": "Flavor",
-      "type": "string"
-    },
-    {
-      "name": "attack",
-      "display": "ATK",
-      "type": "integer"
-    },
-    {
-      "name": "endurance",
-      "display": "EDR",
-      "type": "integer"
-    },
-    {
-      "name": "rarity",
-      "display": "Rarity",
-      "type": "stringEnum"
-    },
-    {
-      "name": "artist",
-      "display": "Artist",
-      "type": "string"
-    }
-  ],
-  "cgsGamesLink": "https://cgs.games/dragogodev/drago_borne",
-  "copyright": "Bushiroad",
-  "deckFileTxtId": "id",
-  "deckSharePreference": "individual",
-  "deckUrls": [
-    {
-      "name": "TD01 - Shadow Legion",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD01%20-%20Shadow%20Legion.txt"
-    },
-    {
-      "name": "TD02 - Mystical Hunters",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD02%20-%20Mystical%20Hunters.txt"
-    },
-    {
-      "name": "TD03 - Alpha Dominance",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD03%20-%20Alpha%20Dominance.txt"
-    },
-    {
-      "name": "TD04 - Reaper's Gift",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD04%20-%20Reaper's%20Gift.txt"
-    },
-    {
-      "name": "TD05 - Nature's Wrath",
-      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD05%20-%20Nature's%20Wrath.txt"
-    }
-  ],
-  "enums": [
-    {
-      "property": "type",
-      "values": {
-        "Creature": "Creature",
-        "Spell": "Spell",
-        "Banner": "Banner"
-      }
-    },
-    {
-      "property": "color",
-      "values": {
-        "Y": "Yellow (Logres)",
-        "G": "Green (Tir Na Nog)",
-        "U": "Blue (Olous)",
-        "R": "Red (Tauris)",
-        "B": "Black (Niflheim)"
-      }
-    },
-    {
-      "property": "rarity",
-      "values": {
-        "C": "Common",
-        "U": "Uncommon",
-        "R": "Rare",
-        "RR": "Double Rare",
-        "SR": "Secret Rare"
-      }
-    }
-  ],
-  "extras": [
-    {
-      "group": "Banners",
-      "property": "type",
-      "value": "Banner"
-    }
-  ],
-  "gameDefaultCardAction": "tap",
-  "gamePlayDeckPositions": [
+	"allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/AllSets.json",
+	"autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json",
+	"bannerImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/Banner.png",
+	"cardBackImageFileType": "jpg",
+	"cardBackImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/CardBack.jpg",
+	"cardImageFileType": "webp",
+	"cardImageProperty": "image_url",
+	"cardPrimaryProperty": "ability",
+	"cardProperties": [
+		{
+			"name": "cost",
+			"display": "Cost",
+			"type": "integer"
+		},
+		{
+			"name": "color",
+			"display": "Color",
+			"type": "stringEnum"
+		},
+		{
+			"name": "type",
+			"display": "Type",
+			"type": "stringEnum"
+		},
+		{
+			"name": "trait",
+			"display": "Trait",
+			"type": "string"
+		},
+		{
+			"name": "ability",
+			"display": "Ability",
+			"type": "string"
+		},
+		{
+			"name": "flavor",
+			"display": "Flavor",
+			"type": "string"
+		},
+		{
+			"name": "attack",
+			"display": "ATK",
+			"type": "integer"
+		},
+		{
+			"name": "endurance",
+			"display": "EDR",
+			"type": "integer"
+		},
+		{
+			"name": "rarity",
+			"display": "Rarity",
+			"type": "stringEnum"
+		},
+		{
+			"name": "artist",
+			"display": "Artist",
+			"type": "string"
+		}
+	],
+	"cgsGamesLink": "https://cgs.games/dragogodev/drago_borne",
+	"copyright": "Bushiroad",
+	"deckFileTxtId": "id",
+	"deckSharePreference": "individual",
+	"deckUrls": [
+		{
+			"name": "TD01 - Shadow Legion",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD01%20-%20Shadow%20Legion.txt"
+		},
+		{
+			"name": "TD02 - Mystical Hunters",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD02%20-%20Mystical%20Hunters.txt"
+		},
+		{
+			"name": "TD03 - Alpha Dominance",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD03%20-%20Alpha%20Dominance.txt"
+		},
+		{
+			"name": "TD04 - Reaper's Gift",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD04%20-%20Reaper's%20Gift.txt"
+		},
+		{
+			"name": "TD05 - Nature's Wrath",
+			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/decks/TD05%20-%20Nature's%20Wrath.txt"
+		}
+	],
+	"enums": [
+		{
+			"property": "type",
+			"values": {
+				"Creature": "Creature",
+				"Spell": "Spell",
+				"Banner": "Banner"
+			}
+		},
+		{
+			"property": "color",
+			"values": {
+				"Y": "Yellow (Logres)",
+				"G": "Green (Tir Na Nog)",
+				"U": "Blue (Olous)",
+				"R": "Red (Tauris)",
+				"B": "Black (Niflheim)"
+			}
+		},
+		{
+			"property": "rarity",
+			"values": {
+				"C": "Common",
+				"U": "Uncommon",
+				"R": "Rare",
+				"RR": "Double Rare",
+				"SR": "Secret Rare"
+			}
+		}
+	],
+	"extras": [
+		{
+			"group": "Banners",
+			"property": "type",
+			"value": "Banner"
+		}
+	],
+	"gameDefaultCardAction": "tap",
+	"gamePlayDeckPositions": [
 		{
 			"x": 15.5,
 			"y": -9.37
@@ -140,8 +140,8 @@
 			"x": -15.5,
 			"y": 11
 		}
-  ],
-  "gamePlayZones": [
+	],
+	"gamePlayZones": [
 		{
 			"defaultCardAction": "flip",
 			"face": "down",
@@ -157,7 +157,7 @@
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
 			"face": "down",
 			"name": "P1 Ambush Zone 2",
@@ -172,7 +172,7 @@
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
 			"face": "down",
 			"name": "P1 Ambush Zone 3",
@@ -198,11 +198,11 @@
 			"rotation": 0,
 			"size": {
 				"x": 7.5,
-				"y": 3
+				"y": 3.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "tap",
 			"face": "up",
 			"name": "P1 Fort 2 Creatures",
@@ -213,11 +213,11 @@
 			"rotation": 0,
 			"size": {
 				"x": 7.5,
-				"y": 3
+				"y": 3.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "tap",
 			"face": "up",
 			"name": "P1 Fort 3 Creatures",
@@ -228,12 +228,13 @@
 			"rotation": 0,
 			"size": {
 				"x": 7.5,
-				"y": 3
+				"y": 3.5
 			},
 			"type": "horizontal"
 		},
 		{
 			"defaultCardAction": "flip",
+			"defaultCardRotation": 90,
 			"face": "down",
 			"name": "P1 Fort 1 Barriers",
 			"position": {
@@ -242,13 +243,14 @@
 			},
 			"rotation": 0,
 			"size": {
-				"x": 7.5,
-				"y": 3
+				"x": 8.5,
+				"y": 2.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
+			"defaultCardRotation": 90,
 			"face": "down",
 			"name": "P1 Fort 2 Barriers",
 			"position": {
@@ -257,13 +259,14 @@
 			},
 			"rotation": 0,
 			"size": {
-				"x": 7.5,
-				"y": 3
+				"x": 8.5,
+				"y": 2.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
+			"defaultCardRotation": 90,
 			"face": "down",
 			"name": "P1 Fort 3 Barriers",
 			"position": {
@@ -272,18 +275,18 @@
 			},
 			"rotation": 0,
 			"size": {
-				"x": 7.5,
-				"y": 3
+				"x": 8.5,
+				"y": 2.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "tap",
 			"face": "up",
 			"name": "P1 Resources",
 			"position": {
 				"x": 0,
-				"y": -16.25
+				"y": -16
 			},
 			"rotation": 0,
 			"size": {
@@ -291,8 +294,8 @@
 				"y": 6
 			},
 			"type": "horizontal"
-		}
-	  ,{
+		},
+		{
 			"defaultCardAction": "flip",
 			"face": "down",
 			"name": "P2 Ambush Zone 1",
@@ -307,7 +310,7 @@
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
 			"face": "down",
 			"name": "P2 Ambush Zone 2",
@@ -322,7 +325,7 @@
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
 			"face": "down",
 			"name": "P2 Ambush Zone 3",
@@ -348,11 +351,11 @@
 			"rotation": 180,
 			"size": {
 				"x": 7.5,
-				"y": 3
+				"y": 3.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "tap",
 			"face": "up",
 			"name": "P2 Fort 2 Creatures",
@@ -363,11 +366,11 @@
 			"rotation": 180,
 			"size": {
 				"x": 7.5,
-				"y": 3
+				"y": 3.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "tap",
 			"face": "up",
 			"name": "P2 Fort 3 Creatures",
@@ -378,12 +381,13 @@
 			"rotation": 180,
 			"size": {
 				"x": 7.5,
-				"y": 3
+				"y": 3.5
 			},
 			"type": "horizontal"
 		},
 		{
 			"defaultCardAction": "flip",
+			"defaultCardRotation": 90,
 			"face": "down",
 			"name": "P2 Fort 1 Barriers",
 			"position": {
@@ -392,13 +396,14 @@
 			},
 			"rotation": 180,
 			"size": {
-				"x": 7.5,
-				"y": 3
+				"x": 8.5,
+				"y": 2.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
+			"defaultCardRotation": 90,
 			"face": "down",
 			"name": "P2 Fort 2 Barriers",
 			"position": {
@@ -407,13 +412,14 @@
 			},
 			"rotation": 180,
 			"size": {
-				"x": 7.5,
-				"y": 3
+				"x": 8.5,
+				"y": 2.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "flip",
+			"defaultCardRotation": 90,
 			"face": "down",
 			"name": "P2 Fort 3 Barriers",
 			"position": {
@@ -422,18 +428,18 @@
 			},
 			"rotation": 180,
 			"size": {
-				"x": 7.5,
-				"y": 3
+				"x": 8.5,
+				"y": 2.5
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"defaultCardAction": "tap",
 			"face": "up",
 			"name": "P2 Resources",
 			"position": {
 				"x": 0,
-				"y": 16.25
+				"y": 16
 			},
 			"rotation": 180,
 			"size": {
@@ -442,7 +448,7 @@
 			},
 			"type": "horizontal"
 		},
-	  {
+		{
 			"type": "dice",
 			"name": "P1 Dice Zone",
 			"position": {
@@ -455,7 +461,7 @@
 				"y": 3
 			}
 		},
-	  {
+		{
 			"type": "dice",
 			"name": "P2 Dice Zone",
 			"position": {
@@ -468,18 +474,18 @@
 				"y": 3
 			}
 		}
-  ],
-  "gameStartHandCount": 5,
-  "name": "DragoBorne",
-  "playMatImageFileType": "jpg",
-  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/PlayMat.jpg",
-  "playMatSize": {
+	],
+	"gameStartHandCount": 5,
+	"name": "DragoBorne",
+	"playMatImageFileType": "jpg",
+	"playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/PlayMat.jpg",
+	"playMatSize": {
 		"x": 36,
 		"y": 38.25
 	},
-  "playMatGridCellSize": {
+	"playMatGridCellSize": {
 		"x": 0,
 		"y": 0
 	},
-  "rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
+	"rulesUrl": "https://dragoborne.fandom.com/wiki/Rules"
 }
