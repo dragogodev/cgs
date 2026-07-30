@@ -50,5 +50,7 @@
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
   "name": "Cardfight Vanguard",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/PlayMat.jpg",
   "rulesUrl": "https://en.cf-vanguard.com/howto/"
 }
