@@ -5,7 +5,7 @@
   "cardBackImageUrl": "https://static.wikia.nocookie.net/cardfight/images/8/84/Sleeve_06.png?format=png",
   "cardIdIdentifier": "number",
   "cardImageFileTypeIdentifier": "image_file_type",
-  "cardImageUrl": "https://cgs.games/api/proxy/{card.image_url}",
+  "cardImageUrl": "https://cgs.games/api/proxy/{image_url}",
   "cardPrimaryProperty": "effect",
   "cardProperties": [
     {
