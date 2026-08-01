@@ -8,8 +8,20 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Cardfight%20Vanguard/cgs.json"
   },
   {
+    "name": "Digimon",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json"
+  },
+  {
     "name": "DragoBorne",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/DragoBorne/cgs.json"
+  },
+  {
+    "name": "Dragon Ball Super",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/cgs.json"
+  },
+  {
+    "name": "Dragon Ball Super Fusion World",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json"
   },
   {
     "name": "Final Fantasy TCG",
@@ -18,6 +30,10 @@
   {
     "name": "Flesh and Blood",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Flesh%20and%20Blood/cgs.json"
+  },
+  {
+    "name": "Gundam",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/cgs.json"
   },
   {
     "name": "Hearthstone",
