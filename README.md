@@ -37,6 +37,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - Naruto TCG
 - Godzilla Card Game
 - Union Arena
+- Universus
 - Battle Spirits Saga
 - Force of Will
 - Weiss Schwarz
