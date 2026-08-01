@@ -1,24 +1,271 @@
 {
-  "allCardsUrl": "https://digimoncard.io/api-public/getAllCards",
+  "allCardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/AllSets.json",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/cgs.json",
   "bannerImageUrl": "https://world.digimoncard.com/images/common/header/img_logo.png",
   "cardBackImageUrl": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/Digimon-Card-Back.png",
-  "cardIdIdentifier": "cardnumber",
+  "cardIdIdentifier": "id",
   "cardImageFileType": "jpg",
   "cardImageUrl": "https://images.digimoncard.io/images/cards/{cardId}.jpg",
   "cardNameIsUnique": false,
-  "cardPrimaryProperty": "cardnumber",
+  "cardPrimaryProperty": "main_effect",
   "cardProperties": [
     {
-      "name": "cardnumber",
+      "name": "id",
+      "display": "Card Number",
       "type": "string"
+    },
+    {
+      "name": "type",
+      "display": "Card Type",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "color2",
+      "display": "Color 2",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "level",
+      "display": "Level",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "play_cost",
+      "display": "Play Cost",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "dp",
+      "display": "DP",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "evolution_cost",
+      "display": "Digivolve Cost",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "evolution_color",
+      "display": "Digivolve Color",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "evolution_level",
+      "display": "Digivolve Level",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "stage",
+      "display": "Stage",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "attribute",
+      "display": "Attribute",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "digi_type",
+      "display": "Type",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "digi_type2",
+      "display": "Type 2",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "digi_type3",
+      "display": "Type 3",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "digi_type4",
+      "display": "Type 4",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "main_effect",
+      "display": "Effect",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "source_effect",
+      "display": "Security / Inherited Effect",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "alt_effect",
+      "display": "Alternate Effect",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "xros_req",
+      "display": "DigiXros / Assembly Requirements",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "link_requirements",
+      "display": "Link Requirements",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "link_dp",
+      "display": "Link DP",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "set_name",
+      "display": "Set(s)",
+      "displayEmpty": "-",
+      "type": "stringList"
+    },
+    {
+      "name": "series",
+      "display": "Series",
+      "displayEmpty": "-",
+      "type": "stringEnum"
     }
   ],
-  "cgsDeepLink": "https://cgs.games/dragogodev/digimon",
-  "copyright": "The Upper Deck Company",
+  "cgsGamesLink": "https://cgs.games/dragogodev/digimon",
+  "copyright": "Bandai",
   "deckFileTxtId": "id",
   "deckSharePreference": "individual",
+  "enums": [
+    {
+      "property": "type",
+      "values": {
+        "Digimon": "Digimon",
+        "Digi-Egg": "Digi-Egg",
+        "Dual": "Dual",
+        "Option": "Option",
+        "Tamer": "Tamer"
+      }
+    },
+    {
+      "property": "color",
+      "values": {
+        "Black": "Black",
+        "Blue": "Blue",
+        "Colorless": "Colorless",
+        "Green": "Green",
+        "Purple": "Purple",
+        "Red": "Red",
+        "White": "White",
+        "Yellow": "Yellow"
+      }
+    },
+    {
+      "property": "color2",
+      "values": {
+        "Black": "Black",
+        "Blue": "Blue",
+        "Green": "Green",
+        "Purple": "Purple",
+        "Red": "Red",
+        "White": "White",
+        "Yellow": "Yellow"
+      }
+    },
+    {
+      "property": "evolution_color",
+      "values": {
+        "All": "All",
+        "Black": "Black",
+        "Blue": "Blue",
+        "Green": "Green",
+        "Purple": "Purple",
+        "Red": "Red",
+        "White": "White",
+        "Yellow": "Yellow"
+      }
+    },
+    {
+      "property": "stage",
+      "values": {
+        "Appmon": "Appmon",
+        "Armor Form": "Armor Form",
+        "Champion": "Champion",
+        "D-Reaper": "D-Reaper",
+        "Eater": "Eater",
+        "God": "God",
+        "Hybrid": "Hybrid",
+        "In-Training": "In-Training",
+        "Mega": "Mega",
+        "Rookie": "Rookie",
+        "Stnd.": "Stnd.",
+        "Sup.": "Sup.",
+        "Ult.": "Ult.",
+        "Ultimate": "Ultimate",
+        "Unknown": "Unknown",
+        "Virus": "Virus"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "Common": "Common",
+        "Promo": "Promo",
+        "RC": "RC",
+        "Rare": "Rare",
+        "Secret Rare": "Secret Rare",
+        "Super Rare": "Super Rare",
+        "Ultra Rare": "Ultra Rare",
+        "Uncommon": "Uncommon",
+        "Unknown": "Unknown"
+      }
+    },
+    {
+      "property": "series",
+      "values": {
+        "Digimon Card Game": "Digimon Card Game",
+        "Digimon Collectible Card Game": "Collectible Card Game",
+        "Digimon Digi-Battle Card Game": "Digi-Battle Card Game"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Egg Deck",
+      "property": "type",
+      "value": "Digi-Egg"
+    }
+  ],
   "gameDefaultCardAction": "tap",
+  "gamePlayDeckName": "Main Deck",
   "gameStartHandCount": 5,
   "name": "Digimon",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Digimon/PlayMat.png",
