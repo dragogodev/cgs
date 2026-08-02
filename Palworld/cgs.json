@@ -1,0 +1,362 @@
+{
+  "allCardsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/AllSets.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/cgs.json",
+  "bannerImageUrl": "https://en.palworld-official-cardgame.com/wordpress/wp-content/themes/palworld_card/assets/images/common/logo.png",
+  "cardBackImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/CardBack.png",
+  "cardIdIdentifier": "id",
+  "cardImageProperty": "image",
+  "cardNameIsUnique": false,
+  "cardPrimaryProperty": "text",
+  "cardProperties": [
+    {
+      "name": "text",
+      "display": "Text",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "card_kind",
+      "display": "Card Type",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "card_kind_sub",
+      "display": "Subtype",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "cost",
+      "display": "Cost",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "power",
+      "display": "Power / Durability",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "attack",
+      "display": "Strike",
+      "displayEmpty": "-",
+      "type": "integer"
+    },
+    {
+      "name": "type",
+      "display": "Element",
+      "displayEmpty": "-",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "aptitude",
+      "display": "Work Suitability",
+      "displayEmpty": "-",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "keyword_ability",
+      "display": "Keyword Abilities",
+      "displayEmpty": "-",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "icon",
+      "display": "Icon",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor",
+      "displayEmpty": "-",
+      "type": "string"
+    },
+    {
+      "name": "rare",
+      "display": "Rarity",
+      "displayEmpty": "-",
+      "type": "stringEnum"
+    },
+    {
+      "name": "parallel",
+      "display": "Parallel",
+      "displayEmpty": "No",
+      "type": "stringEnum"
+    }
+  ],
+  "cgsGamesLink": "https://cgs.games/dragogodev/palworld",
+  "copyright": "Pocketpair, Bushiroad",
+  "deckFileTxtId": "id",
+  "deckSharePreference": "individual",
+  "enums": [
+    {
+      "property": "card_kind",
+      "values": {
+        "Pal": "Pal",
+        "Structure": "Structure",
+        "Gear": "Gear",
+        "Event": "Event",
+        "Soul": "Soul"
+      }
+    },
+    {
+      "property": "card_kind_sub",
+      "values": {
+        "Normal Pal": "Normal Pal",
+        "Lucky Pal": "Lucky Pal"
+      }
+    },
+    {
+      "property": "color",
+      "values": {
+        "Red": "Red",
+        "Blue": "Blue",
+        "Green": "Green",
+        "Purple": "Purple",
+        "Colorless": "Colorless"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Neutral": "Neutral",
+        "Fire": "Fire",
+        "Water": "Water",
+        "Electric": "Electric",
+        "Ground": "Ground",
+        "Grass": "Grass",
+        "Ice": "Ice",
+        "Dragon": "Dragon",
+        "Dark": "Dark"
+      }
+    },
+    {
+      "property": "aptitude",
+      "values": {
+        "Kindling": "Kindling",
+        "Electricity": "Electricity",
+        "Cooling": "Cooling",
+        "Harvesting": "Harvesting",
+        "Crafting": "Crafting",
+        "Collecting": "Collecting",
+        "Farming": "Farming",
+        "Transporting": "Transporting"
+      }
+    },
+    {
+      "property": "keyword_ability",
+      "values": {
+        "Assault": "Assault",
+        "Brave": "Brave",
+        "Breakthrough": "Breakthrough",
+        "Interrupt": "Interrupt",
+        "Nocturnal": "Nocturnal",
+        "Retaliate": "Retaliate",
+        "Serious": "Serious",
+        "Stealth": "Stealth",
+        "Taunt": "Taunt",
+        "Vigilance": "Vigilance"
+      }
+    },
+    {
+      "property": "icon",
+      "values": {
+        "Quick": "Quick"
+      }
+    },
+    {
+      "property": "rare",
+      "values": {
+        "C": "C",
+        "U": "U",
+        "R": "R",
+        "RR": "RR",
+        "SR": "SR",
+        "OSR": "OSR",
+        "SP": "SP",
+        "SSP": "SSP",
+        "SSS": "SSS",
+        "TD": "TD",
+        "TSR": "TSR",
+        "TSP": "TSP",
+        "PR": "PR"
+      }
+    },
+    {
+      "property": "parallel",
+      "values": {
+        "Yes": "Yes"
+      }
+    }
+  ],
+  "extras": [
+    {
+      "group": "Soul Deck",
+      "property": "card_kind",
+      "value": "Soul"
+    }
+  ],
+  "gameDefaultCardAction": "tap",
+  "gamePlayDeckName": "Main Deck",
+  "gamePlayDeckPositions": [
+    {
+      "x": 9.91,
+      "y": -6.37
+    },
+    {
+      "x": -9.99,
+      "y": -10.65
+    },
+    {
+      "x": -9.91,
+      "y": 6.37
+    },
+    {
+      "x": 9.99,
+      "y": 10.65
+    }
+  ],
+  "gamePlayPlayerRotations": [0, 180],
+  "gamePlayZones": [
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Base 1",
+      "position": {
+        "x": -1.92,
+        "y": -7.58
+      },
+      "rotation": 0,
+      "size": {
+        "x": 18.96,
+        "y": 3.82
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Soul Area 1",
+      "position": {
+        "x": -1.92,
+        "y": -10.85
+      },
+      "rotation": 0,
+      "size": {
+        "x": 18.96,
+        "y": 2.45
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Exile Zone 1",
+      "position": {
+        "x": 9.57,
+        "y": -2.16
+      },
+      "rotation": 0,
+      "size": {
+        "x": 3.96,
+        "y": 2.84
+      },
+      "type": "area"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Graveyard 1",
+      "position": {
+        "x": 9.57,
+        "y": -10.63
+      },
+      "rotation": 0,
+      "size": {
+        "x": 3.96,
+        "y": 2.89
+      },
+      "type": "area"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Base 2",
+      "position": {
+        "x": 1.92,
+        "y": 7.58
+      },
+      "rotation": 180,
+      "size": {
+        "x": 18.96,
+        "y": 3.82
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Soul Area 2",
+      "position": {
+        "x": 1.92,
+        "y": 10.85
+      },
+      "rotation": 180,
+      "size": {
+        "x": 18.96,
+        "y": 2.45
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Exile Zone 2",
+      "position": {
+        "x": -9.57,
+        "y": 2.16
+      },
+      "rotation": 180,
+      "size": {
+        "x": 3.96,
+        "y": 2.84
+      },
+      "type": "area"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Graveyard 2",
+      "position": {
+        "x": -9.57,
+        "y": 10.63
+      },
+      "rotation": 180,
+      "size": {
+        "x": 3.96,
+        "y": 2.89
+      },
+      "type": "area"
+    }
+  ],
+  "gameStartHandCount": 5,
+  "gameStartPointsCount": 0,
+  "name": "Palworld",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/PlayMat.jpg",
+  "playMatSize": {
+    "x": 24,
+    "y": 24.24
+  },
+  "rulesUrl": "https://en.palworld-official-cardgame.com/rule/"
+}
