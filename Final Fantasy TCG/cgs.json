@@ -143,5 +143,10 @@
   "gameDefaultCardAction": "tap",
   "gameStartHandCount": 5,
   "name": "Final Fantasy TCG",
+  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/PlayMat.png",
+  "playMatSize": {
+    "x": 24,
+    "y": 24
+  },
   "rulesUrl": "https://www.fftradingcardgame.com/na/page/how-to-play"
 }
