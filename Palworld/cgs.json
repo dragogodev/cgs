@@ -271,7 +271,7 @@
         "x": 3.96,
         "y": 2.84
       },
-      "type": "area"
+      "type": "vertical"
     },
     {
       "defaultCardAction": "tap",
@@ -286,7 +286,7 @@
         "x": 3.96,
         "y": 2.89
       },
-      "type": "area"
+      "type": "vertical"
     },
     {
       "defaultCardAction": "tap",
@@ -331,7 +331,7 @@
         "x": 3.96,
         "y": 2.84
       },
-      "type": "area"
+      "type": "vertical"
     },
     {
       "defaultCardAction": "tap",
@@ -346,7 +346,7 @@
         "x": 3.96,
         "y": 2.89
       },
-      "type": "area"
+      "type": "vertical"
     }
   ],
   "gameStartHandCount": 5,
