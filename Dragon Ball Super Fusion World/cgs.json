@@ -1,102 +1,94 @@
 {
-  "allCardsUrl": "https://dbs-deckplanet-api.com/items/fw_cards?limit=-1",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json",
-  "bannerImageUrl": "https://www.dbs-cardgame.com/fw/images/common/logo_fw2.png",
-  "cardBackImageFileType": "webp",
-  "cardBackImageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/noimage.webp",
-  "cardDataIdentifier": "data",
-  "cardIdIdentifier": "card_number",
-  "cardImageUrl": "https://dbs-deckplanet.us-southeast-1.linodeobjects.com/deckplanet_card_images/{cardId}.png",
-  "cardNameBackIdentifier": "card_back_name",
-  "cardNameIdentifier": "card_front_name",
-  "cardNameIsUnique": false,
-  "cardPrimaryProperty": "skill",
-  "cardProperties": [
-    {
-      "name": "card_type",
-      "display": "Card Type",
-      "type": "stringEnum"
-    },
-    {
-      "name": "card_color",
-      "display": "Color",
-      "delimiter": "/",
-      "type": "stringEnumList"
-    },
-    {
-      "name": "card_energy_cost",
-      "display": "Energy Cost",
-      "displayEmpty": "-",
-      "type": "string"
-    },
-    {
-      "name": "skill",
-      "display": "Skill",
-      "type": "string",
-      "backName": "card_back_skill",
-      "frontName": "card_front_skill"
-    },
-    {
-      "name": "errata",
-      "display": "Errata",
-      "displayEmpty": "-",
-      "type": "string",
-      "backName": "errata_back",
-      "frontName": "errata_front"
-    },
-    {
-      "name": "power",
-      "display": "Power",
-      "displayEmpty": "-",
-      "type": "integer",
-      "backName": "card_back_power",
-      "frontName": "card_front_power"
-    },
-    {
-      "name": "card_combo_power",
-      "display": "Combo Power",
-      "displayEmpty": "-",
-      "type": "integer"
-    },
-    {
-      "name": "trait",
-      "display": "Trait(s)",
-      "displayEmpty": "-",
-      "type": "string",
-      "backName": "card_back_trait",
-      "frontName": "card_front_trait"
-    },
-    {
-      "name": "card_rarity",
-      "display": "Rarity",
-      "type": "string"
-    },
-    {
-      "name": "limited_to",
-      "display": "Card Limit",
-      "type": "integer"
-    },
-    {
-      "name": "has_errata",
-      "display": "Has Errata",
-      "type": "boolean"
-    },
-    {
-      "name": "is_banned",
-      "display": "Is Banned",
-      "type": "boolean"
-    },
-    {
-      "name": "is_limited",
-      "display": "Is Limited",
-      "type": "boolean"
-    }
-  ],
-  "cardSetIdentifier": "card_series",
-  "cgsGamesLink": "https://cgs.games/dragogodev/dragon_ball_super_fusion_world",
-  "copyright": "Bandai",
-  "deckFileTxtId": "id",
-  "deckSharePreference": "individual",
+	"allCardsUrl": "https://api.deckplanet.net/cardsearch/fusion_world_cards?limit=100000",
+	"autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/cgs.json",
+	"bannerImageUrl": "https://www.dbs-cardgame.com/fw/images/common/logo_fw2.png",
+	"cardBackImageFileType": "webp",
+	"cardBackImageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/noimage.webp",
+	"cardDataIdentifier": "data",
+	"cardIdIdentifier": "card_number",
+	"cardImageUrl": "https://dbs-deckplanet.us-southeast-1.linodeobjects.com/deckplanet_card_images/{cardId}.png",
+	"cardNameBackIdentifier": "card_back_name",
+	"cardNameIdentifier": "card_name",
+	"cardNameIsUnique": false,
+	"cardPrimaryProperty": "skill",
+	"cardProperties": [
+		{
+			"name": "card_type",
+			"display": "Card Type",
+			"type": "stringEnum"
+		},
+		{
+			"name": "card_color",
+			"display": "Color",
+			"delimiter": "/",
+			"type": "stringEnumList"
+		},
+		{
+			"name": "card_energy_cost",
+			"display": "Energy Cost",
+			"displayEmpty": "-",
+			"type": "string"
+		},
+		{
+			"name": "skill",
+			"display": "Skill",
+			"type": "string",
+			"backName": "card_back_skill_unstyled",
+			"frontName": "card_skill_unstyled"
+		},
+		{
+			"name": "power",
+			"display": "Power",
+			"displayEmpty": "-",
+			"type": "integer",
+			"backName": "card_back_power",
+			"frontName": "card_power"
+		},
+		{
+			"name": "card_combo_power",
+			"display": "Combo Power",
+			"displayEmpty": "-",
+			"type": "integer"
+		},
+		{
+			"name": "trait",
+			"display": "Trait(s)",
+			"displayEmpty": "-",
+			"type": "stringList",
+			"backName": "card_back_traits",
+			"frontName": "card_traits"
+		},
+		{
+			"name": "card_rarity",
+			"display": "Rarity",
+			"type": "string"
+		},
+		{
+			"name": "limited_to",
+			"display": "Card Limit",
+			"type": "integer"
+		},
+		{
+			"name": "has_errata",
+			"display": "Has Errata",
+			"type": "boolean"
+		},
+		{
+			"name": "is_banned",
+			"display": "Is Banned",
+			"type": "boolean"
+		},
+		{
+			"name": "is_limited",
+			"display": "Is Limited",
+			"type": "boolean"
+		}
+	],
+	"cardSetIdentifier": "card_series",
+	"cgsGamesLink": "https://cgs.games/dragogodev/dragon_ball_super_fusion_world",
+	"copyright": "Bandai",
+	"deckFileTxtId": "id",
+	"deckSharePreference": "individual",
 	"deckUrls": [
 		{
 			"name": "Broly Starter Deck",
@@ -115,33 +107,35 @@
 			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/decks/Vegeta%20Starter%20Deck.txt"
 		}
 	],
-  "enums": [
-    {
-      "property": "card_type",
-      "values": {
-        "LEADER": "LEADER",
-        "BATTLE": "BATTLE",
-        "EXTRA": "EXTRA"
-      }
-    },
-    {
-      "property": "card_color",
-      "values": {
-        "Red": "Red",
-        "Blue": "Blue",
-        "Green": "Green",
-        "Yellow": "Yellow"
-      }
-    }
-  ],
-  "extras": [
-    {
-      "group": "Leader",
-      "property": "card_type",
-      "value": "LEADER"
-    }
-  ],
-  "gameDefaultCardAction": "tap",
+	"enums": [
+		{
+			"property": "card_type",
+			"values": {
+				"LEADER": "LEADER",
+				"BATTLE": "BATTLE",
+				"EXTRA": "EXTRA",
+				"ENERGY MARKER": "ENERGY MARKER"
+			}
+		},
+		{
+			"property": "card_color",
+			"values": {
+				"Red": "Red",
+				"Blue": "Blue",
+				"Green": "Green",
+				"Yellow": "Yellow",
+				"Black": "Black"
+			}
+		}
+	],
+	"extras": [
+		{
+			"group": "Leader",
+			"property": "card_type",
+			"value": "LEADER"
+		}
+	],
+	"gameDefaultCardAction": "tap",
 	"gamePlayDeckPositions": [
 		{
 			"x": 14.5,
@@ -282,8 +276,8 @@
 			"type": "vertical"
 		}
 	],
-  "gameStartHandCount": 6,
-  "name": "Dragon Ball Super Fusion World",
-  "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/PlayMat.png",
-  "rulesUrl": "https://www.dbs-cardgame.com/fw/en/news/01_31.html"
+	"gameStartHandCount": 6,
+	"name": "Dragon Ball Super Fusion World",
+	"playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super%20Fusion%20World/PlayMat.png",
+	"rulesUrl": "https://www.dbs-cardgame.com/fw/en/news/01_31.html"
 }
