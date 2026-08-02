@@ -68,6 +68,10 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json"
   },
   {
+    "name": "Palworld",
+    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/cgs.json"
+  },
+  {
     "name": "Pokemon",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json"
   },
