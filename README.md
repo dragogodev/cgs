@@ -23,6 +23,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Magic: Starcraft](https://cgs.games/dragogodev/magic_starcraft)  (`https://raw.githubusercontent.com/dragogodev/cgs/master/Magic_Starcraft/cgs.json`)
 - [Netrunner](https://cgs.games/dragogodev/netrunner) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Netrunner/cgs.json`)
 - [One Piece](https://cgs.games/dragogodev/one_piece) (`https://raw.githubusercontent.com/dragogodev/cgs/master/One%20Piece/cgs.json`)
+- [Palworld](https://cgs.games/dragogodev/palworld) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Palworld/cgs.json`)
 - [Pokemon](https://cgs.games/dragogodev/pokemon) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json`)
 - [Shadowverse](https://cgs.games/dragogodev/shadowverse) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json`)
 - [Shadowverse Evolve](https://cgs.games/dragogodev/shadowverse_evolve) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json`)
@@ -51,14 +52,3 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Archived
 - Artifact (`https://raw.githubusercontent.com/dragogodev/cgs/master/Artifact/cgs.json`)
-
-
-
-
-
-
-
-
-
-
-
