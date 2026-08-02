@@ -32,7 +32,6 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 
 ## Candidates for Implementation
 - Restore Magic to games.json
-- Palworld TCG
 - Cyberpunk TCG
 - Naruto TCG
 - Godzilla Card Game
