@@ -261,36 +261,6 @@
     {
       "defaultCardAction": "tap",
       "face": "up",
-      "name": "Exile Zone 1",
-      "position": {
-        "x": 9.57,
-        "y": -2.16
-      },
-      "rotation": 0,
-      "size": {
-        "x": 3.96,
-        "y": 2.84
-      },
-      "type": "vertical"
-    },
-    {
-      "defaultCardAction": "tap",
-      "face": "up",
-      "name": "Graveyard 1",
-      "position": {
-        "x": 9.57,
-        "y": -10.63
-      },
-      "rotation": 0,
-      "size": {
-        "x": 3.96,
-        "y": 2.89
-      },
-      "type": "vertical"
-    },
-    {
-      "defaultCardAction": "tap",
-      "face": "up",
       "name": "Base 2",
       "position": {
         "x": 1.92,
@@ -317,36 +287,6 @@
         "y": 2.45
       },
       "type": "horizontal"
-    },
-    {
-      "defaultCardAction": "tap",
-      "face": "up",
-      "name": "Exile Zone 2",
-      "position": {
-        "x": -9.57,
-        "y": 2.16
-      },
-      "rotation": 180,
-      "size": {
-        "x": 3.96,
-        "y": 2.84
-      },
-      "type": "vertical"
-    },
-    {
-      "defaultCardAction": "tap",
-      "face": "up",
-      "name": "Graveyard 2",
-      "position": {
-        "x": -9.57,
-        "y": 10.63
-      },
-      "rotation": 180,
-      "size": {
-        "x": 3.96,
-        "y": 2.89
-      },
-      "type": "vertical"
     }
   ],
   "gameStartHandCount": 5,
