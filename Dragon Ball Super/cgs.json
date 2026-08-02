@@ -1,5 +1,5 @@
 {
-  "allCardsUrl": "https://dbs-deckplanet-api.com/items/cards?limit=-1",
+  "allCardsUrl": "https://api.deckplanet.net/cardsearch/dbs_masters_cards?limit=100000",
   "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Dragon%20Ball%20Super/cgs.json",
   "bannerImageUrl": "https://www.dbs-cardgame.com/images/entrance/logo.png",
   "cardBackImageFileType": "webp",
@@ -7,8 +7,9 @@
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "card_number",
   "cardImageUrl": "https://storage.googleapis.com/deckplanet_card_images/{cardId}.png",
-  "cardNameIdentifier": "card_front_name",
-  "cardPrimaryProperty": "card_front_skill",
+  "cardNameBackIdentifier": "card_back_name",
+  "cardNameIdentifier": "card_name",
+  "cardPrimaryProperty": "skill",
   "cardProperties": [
     {
       "name": "card_type",
@@ -28,21 +29,25 @@
       "type": "string"
     },
     {
-      "name": "card_front_skill",
-      "display": "Skill",
-      "type": "string"
-    },
-    {
-      "name": "errata_front",
-      "display": "Errata",
+      "name": "z_energy_cost",
+      "display": "Z-Energy Cost",
       "displayEmpty": "-",
       "type": "string"
     },
     {
-      "name": "card_front_power",
+      "name": "skill",
+      "display": "Skill",
+      "type": "string",
+      "backName": "card_back_skill_unstyled",
+      "frontName": "card_skill_unstyled"
+    },
+    {
+      "name": "power",
       "display": "Power",
       "displayEmpty": "-",
-      "type": "integer"
+      "type": "integer",
+      "backName": "card_back_power",
+      "frontName": "card_power"
     },
     {
       "name": "card_combo_cost",
@@ -57,22 +62,28 @@
       "type": "integer"
     },
     {
-      "name": "card_front_character",
+      "name": "card_character",
       "display": "Character",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "stringList"
     },
     {
-      "name": "card_front_traits",
+      "name": "card_traits",
       "display": "Trait(s)",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "stringList"
     },
     {
-      "name": "card_front_era",
+      "name": "card_era",
       "display": "Era",
       "displayEmpty": "-",
-      "type": "string"
+      "type": "stringList"
+    },
+    {
+      "name": "keywords",
+      "display": "Keyword(s)",
+      "displayEmpty": "-",
+      "type": "stringList"
     },
     {
       "name": "card_rarity",
@@ -116,7 +127,12 @@
         "LEADER": "LEADER",
         "BATTLE": "BATTLE",
         "EXTRA": "EXTRA",
-        "UNISON": "UNISON"
+        "UNISON": "UNISON",
+        "Z-LEADER": "Z-LEADER",
+        "Z-BATTLE": "Z-BATTLE",
+        "Z-EXTRA": "Z-EXTRA",
+        "Z-UNISON": "Z-UNISON",
+        "TOKEN": "TOKEN"
       }
     },
     {
@@ -126,7 +142,9 @@
         "Blue": "Blue",
         "Green": "Green",
         "Black": "Black",
-        "Yellow": "Yellow"
+        "Yellow": "Yellow",
+        "White": "White",
+        "Colorless": "Colorless"
       }
     },
     {
@@ -136,22 +154,24 @@
         "Uncommon[UC]": "Uncommon[UC]",
         "Rare[R]": "Rare[R]",
         "Super Rare[SR]": "Super Rare[SR]",
-        "Special Rare[SPR]": "Special Rare[SPR]",
-        "Special Rare Signature[SPR_S]": "Special Rare Signature[SPR_S]",
         "Starter Rare[ST]": "Starter Rare[ST]",
         "Secret Rare[SCR]": "Secret Rare[SCR]",
-        "Feature Rare[FR]": "Feature Rare[FR]",
+        "Concept Rare[CR]": "Concept Rare[CR]",
         "Destroyer & Angel Rare[DAR]": "Destroyer & Angel Rare[DAR]",
         "Destruction Rare[DR]": "Destruction Rare[DR]",
-        "Giant Force Rare[GFR]": "Giant Force Rare[GFR]",
+        "Dragon Ball Rare[DBR]": "Dragon Ball Rare[DBR]",
         "Duo Power Rare[DPR]": "Duo Power Rare[DPR]",
+        "Expansion Rare[EX]": "Expansion Rare[EX]",
+        "Feature Rare[FR]": "Feature Rare[FR]",
+        "Giant Force Rare[GFR]": "Giant Force Rare[GFR]",
         "Iconic Attack Rare[IAR]": "Iconic Attack Rare[IAR]",
-        "Infinite Saiyan Rares[ISR]": "Infinite Saiyan Rares[ISR]",
         "Ignoble Villain Rare[IVR]": "Ignoble Villain Rare[IVR]",
+        "Infinite Saiyan Rares[ISR]": "Infinite Saiyan Rares[ISR]",
         "Noble Hero Rare[NHR]": "Noble Hero Rare[NHR]",
         "Reboot Leader Rare[RLR]": "Reboot Leader Rare[RLR]",
-        "Expansion Rare[EX]": "Expansion Rare[EX]",
-        "Promotion[PR]": "Promotion[PR]"
+        "Son Gohan Rare[SGR]": "Son Gohan Rare[SGR]",
+        "Promotion[PR]": "Promotion[PR]",
+        "Token[T]": "Token[T]"
       }
     }
   ],
@@ -160,6 +180,11 @@
       "group": "Leader",
       "property": "card_type",
       "value": "LEADER"
+    },
+    {
+      "group": "Leader",
+      "property": "card_type",
+      "value": "Z-LEADER"
     }
   ],
   "gameDefaultCardAction": "tap",
