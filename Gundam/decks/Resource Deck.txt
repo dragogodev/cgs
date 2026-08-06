@@ -1,2 +1,4 @@
 ### Gundam Deck: Resource Deck
 10x [R-001] Resource
+1x [EXR-001] EX Resource
+1x [EXB-001] EX Base
