@@ -162,6 +162,16 @@
       "group": "Resource Deck",
       "property": "card_type",
       "value": "RESOURCE"
+    },
+    {
+      "group": "Resource Deck",
+      "property": "card_type",
+      "value": "EX RESOURCE"
+    },
+    {
+      "group": "Resource Deck",
+      "property": "card_type",
+      "value": "EX BASE"
     }
   ],
   "gameDefaultCardAction": "tap",
