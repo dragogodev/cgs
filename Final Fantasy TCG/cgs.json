@@ -62,15 +62,15 @@
   "deckUrls": [
     {
       "name": "FFVII Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1Y-_ogJrSY3tiIh0ah9G3m7E5TFup7-dM"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/refs/heads/master/Final%20Fantasy%20TCG/decks/FFVII%20Starter.txt"
     },
     {
       "name": "FFX Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1LEZv5Y2JzbeJVvNgW08XMohocALCbScz"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/refs/heads/master/Final%20Fantasy%20TCG/decks/FFX%20Starter.txt"
     },
     {
       "name": "FFXIII Starter",
-      "url": "https://drive.google.com/uc?export=download&id=1J51MO3Y7HIC7CtQrqHwKVb3r8FCNUPG0"
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/refs/heads/master/Final%20Fantasy%20TCG/decks/FFXIII%20Starter.txt"
     }
   ],
   "enums": [
