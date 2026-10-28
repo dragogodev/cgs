@@ -1,0 +1,21 @@
+### Final Fantasy TCG Deck: FFVII Starter
+2 [1-004C] Ifrit
+2 [1-010C] Black Mage
+2 [1-011C] Evoker
+2 [1-014C] Samurai
+2 [1-024C] Magus
+2 [1-025C] Squire
+2 [1-092C] Dark Knight
+2 [1-099C] Black Belt
+2 [1-106C] Golem
+2 [1-120C] Monk
+3 [1-187S] Cloud
+3 [1-188S] Zangan
+3 [1-189S] Tifa
+3 [1-190S] Bahamut Fury
+3 [1-191S] Red XIII
+3 [1-202S] Vincent
+3 [1-203S] Wedge
+3 [1-204S] Jessie
+3 [1-205S] Barret
+3 [1-206S] Biggs

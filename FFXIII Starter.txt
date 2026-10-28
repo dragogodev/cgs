@@ -1,0 +1,21 @@
+### Final Fantasy TCG Deck: FFXIII Starter
+2 [1-036C] Bard
+2 [1-038R] Shiva
+2 [1-040C] Summoner
+2 [1-054C] Dark Knight
+2 [1-055C] Dark Knight
+2 [1-123R] Odin
+2 [1-133C] Sage
+2 [1-138C] Summoner
+2 [1-140C] Magus
+2 [1-147C] Dragoon
+3 [1-192S] Cid Raines
+3 [1-193S] Jihl Nabaat
+3 [1-194S] Snow
+3 [1-195S] Serah
+3 [1-196S] Mog
+3 [1-207S] Gilgamesh
+3 [1-208S] Noel
+3 [1-209S] Maqui
+3 [1-210S] Lightning
+3 [1-211S] Rygdea

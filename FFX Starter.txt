@@ -1,0 +1,21 @@
+### Final Fantasy TCG Deck: FFX Starter
+2 [1-068C] Evoker
+2 [1-074R] Sylph
+2 [1-077C] Devout
+2 [1-078C] Ninja
+2 [1-087C] Archer
+2 [1-159C] Evoker
+2 [1-165C] Knight
+2 [1-167C] Viking
+2 [1-168C] Geomancer
+2 [1-178R] Leviathan
+3 [1-197S] Brother
+3 [1-198S] Valefor
+3 [1-199S] Paine
+3 [1-200S] Baralai
+3 [1-201S] Rikku
+3 [1-212S] Shuyin
+3 [1-213S] Tidus
+3 [1-214S] Yuna
+3 [1-215S] Lenne
+3 [1-216S] Wakka
