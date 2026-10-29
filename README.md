@@ -32,7 +32,7 @@ Here's a list of games that works with [Card Game Simulator](https://www.cardgam
 - [Yugioh](https://cgs.games/dragogodev/yugioh) (`https://raw.githubusercontent.com/dragogodev/cgs/master/Yugioh/cgs.json`)
 
 ## Candidates for Implementation
-- Restore Magic to games.json
+- Restore Magic and Shadowverse to games.json
 - Cyberpunk TCG
 - Naruto TCG
 - Godzilla Card Game
