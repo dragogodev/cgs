@@ -9,22 +9,55 @@
   "cardDataIdentifier": "data",
   "cardIdIdentifier": "card_number",
   "cardImageFileType": "webp",
-  "cardImageUrl": "https://exburst.dev/gundam/cards/hd/{cardId}.{cardImageFileType}",
+  "cardImageUrl": "https://cdn.exburst.dev/cards/gundam-en/{cardId}.{cardImageFileType}",
   "cardImageUrlOverrides": {
-    "GD03-010_PR2": "https://exburst.dev/gundam/cards/hd/GD03-010_p2.webp",
-    "ST07-004_PR": "https://exburst.dev/gundam/cards/hd/ST07-004_p1.webp",
-    "ST07-005_PR": "https://exburst.dev/gundam/cards/hd/ST07-005_p1.webp",
-    "ST07-006_PR": "https://exburst.dev/gundam/cards/hd/ST07-006_p1.webp",
-    "ST07-007_PR": "https://exburst.dev/gundam/cards/hd/ST07-007_p1.webp",
-    "ST07-008_PR": "https://exburst.dev/gundam/cards/hd/ST07-008_p1.webp",
-    "ST07-010_PR": "https://exburst.dev/gundam/cards/hd/ST07-010_p1.webp",
-    "ST07-012_PR": "https://exburst.dev/gundam/cards/hd/ST07-012_p1.webp",
-    "ST07-014_PR": "https://exburst.dev/gundam/cards/hd/ST07-014_p1.webp",
-    "ST07-015_PR": "https://exburst.dev/gundam/cards/hd/ST07-015_p1.webp",
-    "ST08-007_PR": "https://exburst.dev/gundam/cards/hd/ST08-007_p1.webp",
-    "ST08-008_PR": "https://exburst.dev/gundam/cards/hd/ST08-008_p1.webp",
-    "ST08-011_PR": "https://exburst.dev/gundam/cards/hd/ST08-011_p1.webp",
-    "ST08-012_PR": "https://exburst.dev/gundam/cards/hd/ST08-012_p1.webp"
+    "GD03-010_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-010_p1.webp",
+    "GD03-010_PR2": "https://cdn.exburst.dev/cards/gundam-en/GD03-010_p2.webp",
+    "GD03-021_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-021_p1.webp",
+    "GD03-021_PR2": "https://cdn.exburst.dev/cards/gundam-en/GD03-021_p2.webp",
+    "GD03-072_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-072_p1.webp",
+    "GD03-072_PR2": "https://cdn.exburst.dev/cards/gundam-en/GD03-072_p2.webp",
+    "GD03-076_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-076_p1.webp",
+    "GD03-081_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-081_p1.webp",
+    "GD03-081_PR2": "https://cdn.exburst.dev/cards/gundam-en/GD03-081_p2.webp",
+    "GD03-092_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-092_p1.webp",
+    "GD03-092_PR2": "https://cdn.exburst.dev/cards/gundam-en/GD03-092_p2.webp",
+    "GD03-118_PR": "https://cdn.exburst.dev/cards/gundam-en/GD03-118_p1.webp",
+    "GD03-118_PR2": "https://cdn.exburst.dev/cards/gundam-en/GD03-118_p2.webp",
+    "ST07-001_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-001_p1.webp",
+    "ST07-002_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-002_p1.webp",
+    "ST07-003_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-003_p1.webp",
+    "ST07-004_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-004_p1.webp",
+    "ST07-005_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-005_p1.webp",
+    "ST07-006_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-006_p1.webp",
+    "ST07-007_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-007_p1.webp",
+    "ST07-008_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-008_p1.webp",
+    "ST07-009_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-009_p1.webp",
+    "ST07-010_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-010_p1.webp",
+    "ST07-010_PR2": "https://cdn.exburst.dev/cards/gundam-en/ST07-010_p2.webp",
+    "ST07-010_PR3": "https://cdn.exburst.dev/cards/gundam-en/ST07-010_p3.webp",
+    "ST07-011_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-011_p1.webp",
+    "ST07-012_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-012_p1.webp",
+    "ST07-013_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-013_p1.webp",
+    "ST07-014_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-014_p1.webp",
+    "ST07-014_PR2": "https://cdn.exburst.dev/cards/gundam-en/ST07-014_p2.webp",
+    "ST07-014_PR3": "https://cdn.exburst.dev/cards/gundam-en/ST07-014_p3.webp",
+    "ST07-015_PR": "https://cdn.exburst.dev/cards/gundam-en/ST07-015_p1.webp",
+    "ST08-001_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-001_p1.webp",
+    "ST08-002_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-002_p1.webp",
+    "ST08-003_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-003_p1.webp",
+    "ST08-004_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-004_p1.webp",
+    "ST08-005_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-005_p1.webp",
+    "ST08-006_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-006_p1.webp",
+    "ST08-007_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-007_p1.webp",
+    "ST08-008_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-008_p1.webp",
+    "ST08-009_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-009_p1.webp",
+    "ST08-010_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-010_p1.webp",
+    "ST08-011_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-011_p1.webp",
+    "ST08-012_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-012_p1.webp",
+    "ST08-013_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-013_p1.webp",
+    "ST08-014_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-014_p1.webp",
+    "ST08-015_PR": "https://cdn.exburst.dev/cards/gundam-en/ST08-015_p1.webp"
   },
   "cardNameIdentifier": "card_name",
   "cardNameIsUnique": false,
@@ -113,28 +146,28 @@
   "cgsGamesLink": "https://cgs.games/dragogodev/gundam",
   "copyright": "SOTSU SUNRISE MBS, BANDAI",
   "deckSharePreference": "individual",
-	"deckUrls": [
-		{
-			"name": "Resource Deck",
-			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/Resource%20Deck.txt"
-		},
-		{
-			"name": "ST01 - Heroic Beginnings",
-			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST01%20-%20Heroic%20Beginnings.txt"
-		},
-		{
-			"name": "ST02 - Wings of Advance",
-			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST02%20-%20Wings%20of%20Advance.txt"
-		},
-		{
-			"name": "ST03 - Zeon's Rush",
-			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST03%20-%20Zeon's%20Rush.txt"
-		},
-		{
-			"name": "ST04 - SEED Strike",
-			"url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST04%20-%20SEED%20Strike.txt"
-		}
-	],
+  "deckUrls": [
+    {
+      "name": "Resource Deck",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/Resource%20Deck.txt"
+    },
+    {
+      "name": "ST01 - Heroic Beginnings",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST01%20-%20Heroic%20Beginnings.txt"
+    },
+    {
+      "name": "ST02 - Wings of Advance",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST02%20-%20Wings%20of%20Advance.txt"
+    },
+    {
+      "name": "ST03 - Zeon's Rush",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST03%20-%20Zeon's%20Rush.txt"
+    },
+    {
+      "name": "ST04 - SEED Strike",
+      "url": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/decks/ST04%20-%20SEED%20Strike.txt"
+    }
+  ],
   "enums": [
     {
       "property": "card_color",
@@ -215,46 +248,46 @@
       "face": "up",
       "name": "Resource Area 1",
       "position": {
-         "x": -13,
-         "y": -16.5
+        "x": -13,
+        "y": -16.5
       },
       "rotation": 0,
       "size": {
-         "x": 23,
-         "y": 6
+        "x": 23,
+        "y": 6
       },
       "type": "horizontal"
     },
     {
-       "defaultCardAction": "flip",
-       "defaultCardRotation": 90,
-       "face": "down",
-       "name": "Shields 1",
-       "position": {
-          "x": -35.25,
-          "y": -7
-       },
-       "rotation": 0,
-       "size": {
-          "x": 6,
-          "y": 12.5
-       },
-       "type": "vertical"
+      "defaultCardAction": "flip",
+      "defaultCardRotation": 90,
+      "face": "down",
+      "name": "Shields 1",
+      "position": {
+        "x": -35.25,
+        "y": -7
+      },
+      "rotation": 0,
+      "size": {
+        "x": 6,
+        "y": 12.5
+      },
+      "type": "vertical"
     },
     {
-       "defaultCardAction": "tap",
-       "face": "up",
-       "name": "Resource Area 2",
-       "position": {
-          "x": -23.5,
-          "y": 17
-       },
-       "rotation": 180,
-       "size": {
-          "x": 23,
-          "y": 6
-       },
-       "type": "horizontal"
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Resource Area 2",
+      "position": {
+        "x": -23.5,
+        "y": 17
+      },
+      "rotation": 180,
+      "size": {
+        "x": 23,
+        "y": 6
+      },
+      "type": "horizontal"
     },
     {
       "defaultCardAction": "flip",
@@ -262,13 +295,13 @@
       "face": "down",
       "name": "Shields 2",
       "position": {
-         "x": -1.5,
-         "y": 7.5
+        "x": -1.5,
+        "y": 7.5
       },
       "rotation": 180,
       "size": {
-         "x": 6,
-         "y": 12.5
+        "x": 6,
+        "y": 12.5
       },
       "type": "vertical"
     },
@@ -277,46 +310,46 @@
       "face": "up",
       "name": "Resource Area 3",
       "position": {
-         "x": 23,
-         "y": -16.5
+        "x": 23,
+        "y": -16.5
       },
       "rotation": 0,
       "size": {
-         "x": 23,
-         "y": 6
+        "x": 23,
+        "y": 6
       },
       "type": "horizontal"
     },
     {
-       "defaultCardAction": "flip",
-       "defaultCardRotation": 90,
-       "face": "down",
-       "name": "Shields 3",
-       "position": {
-          "x": 0.75,
-          "y": -7
-       },
-       "rotation": 0,
-       "size": {
-          "x": 6,
-          "y": 12.5
-       },
-       "type": "vertical"
+      "defaultCardAction": "flip",
+      "defaultCardRotation": 90,
+      "face": "down",
+      "name": "Shields 3",
+      "position": {
+        "x": 0.75,
+        "y": -7
+      },
+      "rotation": 0,
+      "size": {
+        "x": 6,
+        "y": 12.5
+      },
+      "type": "vertical"
     },
     {
-       "defaultCardAction": "tap",
-       "face": "up",
-       "name": "Resource Area 4",
-       "position": {
-          "x": 12.5,
-          "y": 17
-       },
-       "rotation": 180,
-       "size": {
-          "x": 23,
-          "y": 6
-       },
-       "type": "horizontal"
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Resource Area 4",
+      "position": {
+        "x": 12.5,
+        "y": 17
+      },
+      "rotation": 180,
+      "size": {
+        "x": 23,
+        "y": 6
+      },
+      "type": "horizontal"
     },
     {
       "defaultCardAction": "flip",
@@ -324,20 +357,25 @@
       "face": "down",
       "name": "Shields 4",
       "position": {
-         "x": 34.5,
-         "y": 7.5
+        "x": 34.5,
+        "y": 7.5
       },
       "rotation": 180,
       "size": {
-         "x": 6,
-         "y": 12.5
+        "x": 6,
+        "y": 12.5
       },
       "type": "vertical"
     }
   ],
   "gameStartHandCount": 5,
   "gameStartPointsCount": 0,
-  "gamePlayPlayerRotations": [0, 180, 0, 180],
+  "gamePlayPlayerRotations": [
+    0,
+    180,
+    0,
+    180
+  ],
   "name": "Gundam",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Gundam/PlayMat.png",
   "playMatSize": {
