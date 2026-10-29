@@ -76,10 +76,6 @@
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Pokemon/cgs.json"
   },
   {
-    "name": "Shadowverse",
-    "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse/cgs.json"
-  },
-  {
     "name": "Shadowverse Evolve",
     "autoUpdateUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Shadowverse%20Evolve/cgs.json"
   },
