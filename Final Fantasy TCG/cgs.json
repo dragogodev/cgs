@@ -141,6 +141,139 @@
     }
   ],
   "gameDefaultCardAction": "tap",
+  "gamePlayDeckPositions": [
+    {
+      "x": 10.3,
+      "y": -9.8
+    },
+    {
+      "x": -10.3,
+      "y": 9.8
+    }
+  ],
+  "gamePlayPlayerRotations": [0, 180],
+  "gamePlayZones": [
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Forwards 1",
+      "position": {
+        "x": 0,
+        "y": -2.2
+      },
+      "rotation": 0,
+      "size": {
+        "x": 23.17,
+        "y": 3.57
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Backups 1",
+      "position": {
+        "x": -2.45,
+        "y": -6
+      },
+      "rotation": 0,
+      "size": {
+        "x": 18.27,
+        "y": 3.57
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Damage Zone 1",
+      "position": {
+        "x": -2.45,
+        "y": -9.8
+      },
+      "rotation": 0,
+      "size": {
+        "x": 18.27,
+        "y": 3.57
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Break Zone 1",
+      "position": {
+        "x": 10.3,
+        "y": -6
+      },
+      "rotation": 0,
+      "size": {
+        "x": 2.57,
+        "y": 3.57
+      },
+      "type": "vertical"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Forwards 2",
+      "position": {
+        "x": 0,
+        "y": 2.2
+      },
+      "rotation": 180,
+      "size": {
+        "x": 23.17,
+        "y": 3.57
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Backups 2",
+      "position": {
+        "x": 2.45,
+        "y": 6
+      },
+      "rotation": 180,
+      "size": {
+        "x": 18.27,
+        "y": 3.57
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Damage Zone 2",
+      "position": {
+        "x": 2.45,
+        "y": 9.8
+      },
+      "rotation": 180,
+      "size": {
+        "x": 18.27,
+        "y": 3.57
+      },
+      "type": "horizontal"
+    },
+    {
+      "defaultCardAction": "tap",
+      "face": "up",
+      "name": "Break Zone 2",
+      "position": {
+        "x": -10.3,
+        "y": 6
+      },
+      "rotation": 180,
+      "size": {
+        "x": 2.57,
+        "y": 3.57
+      },
+      "type": "vertical"
+    }
+  ],
   "gameStartHandCount": 5,
   "name": "Final Fantasy TCG",
   "playMatImageUrl": "https://raw.githubusercontent.com/dragogodev/cgs/master/Final%20Fantasy%20TCG/PlayMat.png",
