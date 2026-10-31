@@ -184,8 +184,8 @@
       "type": "horizontal"
     },
     {
-      "defaultCardAction": "tap",
-      "face": "up",
+      "defaultCardAction": "flip",
+      "face": "down",
       "name": "Damage Zone 1",
       "position": {
         "x": -2.45,
@@ -197,21 +197,6 @@
         "y": 3.57
       },
       "type": "horizontal"
-    },
-    {
-      "defaultCardAction": "tap",
-      "face": "up",
-      "name": "Break Zone 1",
-      "position": {
-        "x": 10.3,
-        "y": -6
-      },
-      "rotation": 0,
-      "size": {
-        "x": 2.57,
-        "y": 3.57
-      },
-      "type": "vertical"
     },
     {
       "defaultCardAction": "tap",
@@ -244,8 +229,8 @@
       "type": "horizontal"
     },
     {
-      "defaultCardAction": "tap",
-      "face": "up",
+      "defaultCardAction": "flip",
+      "face": "down",
       "name": "Damage Zone 2",
       "position": {
         "x": 2.45,
@@ -257,21 +242,6 @@
         "y": 3.57
       },
       "type": "horizontal"
-    },
-    {
-      "defaultCardAction": "tap",
-      "face": "up",
-      "name": "Break Zone 2",
-      "position": {
-        "x": -10.3,
-        "y": 6
-      },
-      "rotation": 180,
-      "size": {
-        "x": 2.57,
-        "y": 3.57
-      },
-      "type": "vertical"
     }
   ],
   "gameStartHandCount": 5,
